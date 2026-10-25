@@ -1,8 +1,4 @@
-Nordrhein-Westfalen Stand 2026-10-24: 4 geändert, 0 neu, 0 entfernt
+Nordrhein-Westfalen Stand 2026-10-25: 0 geändert, 0 neu, 0 entfernt
 
-- GVVergVO: Fassung gültig ab 22.10.2026
-- RepTVVO: Fassung gültig ab 22.10.2026
-- MeldDÜV NRW: Fassung gültig ab 22.10.2026
-- 33518: Fassung gültig ab 22.10.2026
 
 Nicht abrufbar (6): nw-27028, nw-27789, nw-28965, nw-30850, nw-33132, nw-34234
