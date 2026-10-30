@@ -1,17 +1,18 @@
 ---
 land: NW
-abkuerzung: LINEGG -
-titel: Gesetz über die Linksniederrheinische Entwässerungs-Genossenschaft (Linksniederrheinisches Entwässerungs- Genossenschafts-Gesetz - LINEGG -)
-stand: Fassung gültig ab 19.02.2022
-gilt_ab: '2022-02-19'
-quelle: https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-die-linksniederrheinische-entwaesserungs-genossenschaft
+abkuerzung: LINEGG
+titel: Gesetz über die Linksniederrheinische Entwässerungs-Genossenschaft
+kurztitel: Linksniederrheinisches Entwässerungs- Genossenschafts-Gesetz
+stand: Fassung gültig ab 30.10.2026
+gilt_ab: '2026-10-30'
+quelle: https://recht.nrw.de/lrgv/gesetz/30102026-linksniederrheinisches-entwaesserungs-genossenschafts-gesetz-linegg
 ---
 
-# Gesetz über die Linksniederrheinische Entwässerungs-Genossenschaft (Linksniederrheinisches Entwässerungs- Genossenschafts-Gesetz - LINEGG -) (LINEGG -)
+# Gesetz über die Linksniederrheinische Entwässerungs-Genossenschaft (LINEGG)
 
-Stand: Fassung gültig ab 19.02.2022
+Stand: Fassung gültig ab 30.10.2026
 
-Quelle: <https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-die-linksniederrheinische-entwaesserungs-genossenschaft>
+Quelle: <https://recht.nrw.de/lrgv/gesetz/30102026-linksniederrheinisches-entwaesserungs-genossenschafts-gesetz-linegg>
 
 Nichtamtliche Fassung des Landesportals.
 
@@ -20,133 +21,7 @@ Nichtamtliche Fassung des Landesportals.
 
 Vom 7. Februar 1990
 
-**Inhaltsübersicht**
-
-> **Fußnote**
->
-> Inhaltsübersicht; § 1, § 3, § 6, Überschrift des Sechsten Teils und Überschrift des Zehnten Teils geändert sowie § 2, § 4, § 11, § 12, § 13, § 14, § 17, § 19, § 20, § 24, § 25, § 27, § 28, § 34, § 36, § 38 und Artikel 2 zuletzt geändert durch Artikel 7 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
-
 <!-- norm id="art1" -->
-## Artikel 1
-
-Erster Teil  
-Allgemeines
-
-§ 1 Rechtsform, Name, Sitz
-
-Zweiter Teil  
-Aufgaben, Unternehmen, Übersichten
-
-§ 2 Aufgaben der Genossenschaft
-
-§ 3 Unternehmen der Genossenschaft, Übersichten
-
-§ 4 Übernahme von Aufgaben
-
-Dritter Teil  
-Genossenschaftsgebiet, Mitgliedschaft
-
-§ 5 Genossenschaftsgebiet
-
-§ 6 Mitglieder der Genossenschaft
-
-Vierter Teil  
-Pflichten, Enteignung
-
-§ 7 Pflichten der Genossen
-
-§ 8 Pflichten Dritter
-
-§ 9 Zulässigkeit der Enteignung
-
-Fünfter Teil  
-Innere Verfassung
-
-§ 10 Selbstverwaltung, Genossenschaftsorgane
-
-§ 11 Satzung
-
-§ 12 Genossenschaftsversammlung
-
-§ 13 Delegierte in der Genossenschaftsversammlung
-
-§ 14 Aufgaben der Genossenschaftsversammlung
-
-§ 15 Sitzungen der Genossenschaftsversammlung, Beschlußfassung
-
-§ 16 Zusammensetzung, Wahl und Amtszeit des Genossenschaftsrates
-
-§ 17 Aufgaben des Genossenschaftsrates
-
-§ 18 Sitzungen des Genossenschaftsrates, Beschlußfassung
-
-§ 19 Vorstand
-
-§ 20 Aufgaben des Vorstandes
-
-§ 21 Vertretung der Genossenschaft
-
-Sechster Teil  
-Finanzplanung, Wirtschaftsführung und Rechnungswesen, Beiträge
-
-§ 22 (weggefallen)
-
-§ 22a Wirtschaftsplan, Finanzplanung
-
-§ 23 Über- und außerplanmäßige Ausgaben
-
-§ 24 Rücklagen, Rechnungs- und Prüfungswesen, Wirtschaftsführung
-
-§ 25 Beiträge
-
-§ 26 Beitragsmaßstab
-
-§ 27 Veranlagung
-
-§ 28 Rechtliche Eigenschaft der Beiträge, Vollstreckung
-
-Siebenter Teil  
-Widerspruchsausschuß
-
-§ 29 Widerspruchsausschuß
-
-§ 30 Aufgaben des Widerspruchsausschusses
-
-§ 31 Kosten des Widerspruchsverfahrens
-
-Achter Teil  
-Zwangsmittel, Bekanntmachungen
-
-§ 32 Zwangsmittel
-
-§ 33 Bekanntmachungen
-
-Neunter Teil  
-Rechtsaufsicht
-
-§ 34 Aufsicht
-
-§ 35 Teilnahme an Sitzungen, Unterrichtung der Aufsichtsbehörde
-
-§ 36 Anordnung und Aufhebung von Maßnahmen
-
-§ 37 Beauftragte oder Beauftragter der Aufsichtsbehörde
-
-§ 38 Genehmigung von Geschäften
-
-Zehnter Teil  
-Auflösung
-
-§ 39 (weggefallen)
-
-§ 40 Auflösung
-
-§ 41 (weggefallen)
-
-<!-- norm id="art2" -->
-## Artikel 2 Inkrafttreten
-
-<!-- norm id="art1-2" -->
 ## Artikel 1
 
 Das Gesetz über die Linksniederrheinische Entwässerungs-Genossenschaft (Linksniederrheinisches Entwässerungs-Genossenschafts-Gesetz - LINEGG -) vom 7. Februar 1990 (GV. NW. S. 210), zuletzt geändert durch Gesetz vom 7. März 1995 (GV. NW. S. 248), erhält folgende Fassung:
@@ -191,15 +66,19 @@ Das Gesetz über die Linksniederrheinische Entwässerungs-Genossenschaft (Linksn
 
 5\. Vermeidung, Minderung, Beseitigung und Ausgleich wasserwirtschaftlicher und damit in Zusammenhang stehender ökologischer, durch Einwirkungen auf den Grundwasserstand, insbesondere durch den Steinkohlen- und Salzabbau, hervorgerufener oder zu erwartender nachteiliger Veränderungen;
 
-6\. Beschaffung und Bereitstellung von Wasser zur Trink- und Betriebswasserversorgung im Zusammenhang mit der Regelung des Grundwasserstandes (Nr. 4);
+6\. Maßnahmen des Hochwasserschutzes an oberirdischen Gewässern, auch wenn dem Verband nicht die Gewässerunterhaltung, der Ausgleich der Wasserführung und der Gewässerausbau obliegen;
 
-7\. Abwasserbeseitigung nach Maßgabe des Landeswassergesetzes;
+7\. Koordinierung der Zusammenarbeit im Bereich des Hochwasserschutzes;
 
-8\. Entsorgung der bei der Durchführung der genossenschaftlichen Aufgaben anfallenden Abfälle;
+8\. Beschaffung und Bereitstellung von Wasser zur Trink- und Betriebswasserversorgung im Zusammenhang mit der Regelung des Grundwasserstandes (Nummer 4);
 
-9\. Vermeidung, Minderung, Beseitigung und Ausgleich eingetretener oder zu erwartender, auf Abwassereinleitungen oder sonstige Ursachen zurückzuführender nachteiliger Veränderungen des oberirdischen Wassers;
+9\. Abwasserbeseitigung nach Maßgabe des Landeswassergesetzes in der Fassung der Bekanntmachung vom 25. Juni 1995 (GV. NRW. S. 926), das zuletzt durch Artikel 11 des Gesetzes vom 21. Oktober 2026 (GV. NRW. S. 748) geändert worden ist, in der jeweils geltenden Fassung;
 
-10\. Ermittlung der wasserwirtschaftlichen Verhältnisse, soweit es die Aufgaben der Genossenschaft erfordern.
+10\. Entsorgung der bei der Durchführung der genossenschaftlichen Aufgaben anfallenden Abfälle;
+
+11\. Vermeidung, Minderung, Beseitigung und Ausgleich eingetretener oder zu erwartender, auf Abwassereinleitungen oder sonstige Ursachen zurückzuführender nachteiliger Veränderungen des oberirdischen Wassers und
+
+12\. Ermittlung der wasserwirtschaftlichen Verhältnisse, soweit es die Aufgaben der Genossenschaft erfordern.
 
 (2) Auf Beschluß der Genossenschaftsversammlung kann die Genossenschaft im Einvernehmen mit Abwasserbeseitigungspflichtigen außerhalb des Genossenschaftsgebietes und im Benehmen mit dem örtlich zuständigen Abwasserverband deren Abwasser zur Behandlung in genossenschaftliche Abwasserbehandlungsanlagen übernehmen, anfallende Klärschlämme und sonstige feste Stoffe entsorgen sowie im Zusammenhang damit weitere Maßnahmen der Abwasserbeseitigung auch außerhalb des Genossenschaftsgebietes durchführen. Der Beschluß der Genossenschaftsversammlung bedarf der Genehmigung durch die Aufsichtsbehörde. Für die Rückübertragung gelten die Bestimmungen dieses Absatzes entsprechend.
 
@@ -209,27 +88,27 @@ Das Gesetz über die Linksniederrheinische Entwässerungs-Genossenschaft (Linksn
 
 > **Fußnote**
 >
-> Inhaltsübersicht; § 1, § 3, § 6, Überschrift des Sechsten Teils und Überschrift des Zehnten Teils geändert sowie § 2, § 4, § 11, § 12, § 13, § 14, § 17, § 19, § 20, § 24, § 25, § 27, § 28, § 34, § 36, § 38 und Artikel 2 zuletzt geändert durch Artikel 7 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 5 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par3" -->
 ## § 3 Unternehmen der Genossenschaft, Übersichten
 
-(1) Unternehmen der Genossenschaft sind Planung, Bau, Betrieb und Unterhaltung der für die Aufgabenerledigung notwendigen Anlagen sowie alle sonstigen für die Durchführung der Aufgaben erforderlichen Ermittlungen und Arbeiten. Bei Planung, Bau und Betrieb der Anlagen nach Satz 1 können die Möglichkeiten der Anlage zur Energieerzeugung genutzt werden, sofern dies mit der Erledigung der Aufgaben nach § 2 vereinbar ist. Dabei können Anlagen zur Energieerzeugung, die in einem funktionalen Zusammenhang mit Anlagen nach Satz 1 stehen, geplant, gebaut, betrieben und unterhalten werden.
+(1) Unternehmen der Genossenschaft sind Planung, Bau, Betrieb und Unterhaltung der für die Aufgabenerledigung notwendigen Anlagen sowie alle sonstigen für die Durchführung der Aufgaben erforderlichen Ermittlungen und Arbeiten. Als Unternehmen gilt auch die Beteiligung der Genossenschaft an Anlagen Dritter, die der Durchführung ihrer Aufgaben dienen. Bei Planung, Bau und Betrieb der Anlagen nach Satz 1 können die Möglichkeiten der Anlagen zur Energieerzeugung auch für Dritte genutzt werden. Dies gilt auch für Anlagen, die mit Anlagen nach Satz 1 in funktionalem Zusammenhang stehen, sowie für Anlagen zur Erzeugung oder Speicherung von Energie aus erneuerbaren Quellen, die innerhalb des Genossenschaftsgebietes auf Grundstücken der Genossenschaft betrieben werden. Darüber hinaus kann die Genossenschaft zur Deckung ihres Energiebedarfs Anlagen zur Erzeugung und zur Speicherung von Energie aus erneuerbaren Quellen planen, bauen, betreiben und unterhalten, wobei die Erzeugung von Überschussmengen in einem angemessenen Umfang sowie die Speicherung und Abgabe dieser Überschussmengen an Dritte zulässig ist. Dies gilt entsprechend für die Beteiligung der Genossenschaft an Anlagen Dritter zur Erzeugung oder Speicherung von Energie aus erneuerbaren Quellen, auch wenn diese außerhalb des Genossenschaftsgebiets betrieben werden. Die Energieerzeugung und -speicherung nach den Sätzen 3 bis 6 müssen mit der Erledigung der Aufgaben der Genossenschaft nach § 2 vereinbar sein.
 
-(2) Die Genossenschaft stellt über die zur Erfüllung ihrer Aufgaben und übernommenen Pflichten erforderlichen Unternehmen, die in einem Zeitraum von jeweils sechs Jahren durchzuführen sind, Übersichten auf (Sechsjahresübersichten). Satz 1 gilt nicht für die Aufgaben nach § 53 Absatz 1 des Landeswassergesetzes vom 25. Juni 1995 (GV. NRW. S. 133).
+(2) Die Genossenschaft stellt über die zur Erfüllung ihrer Aufgaben und übernommenen Pflichten erforderlichen Unternehmen, die in einem Zeitraum von jeweils sechs Jahren durchzuführen sind, Übersichten auf (Sechsjahresübersichten). Satz 1 gilt nicht für die Aufgaben nach § 53 Absatz 1 des Landeswassergesetzes.
 
 > **Fußnote**
 >
-> Inhaltsübersicht; § 1, § 3, § 6, Überschrift des Sechsten Teils und Überschrift des Zehnten Teils geändert sowie § 2, § 4, § 11, § 12, § 13, § 14, § 17, § 19, § 20, § 24, § 25, § 27, § 28, § 34, § 36, § 38 und Artikel 2 zuletzt geändert durch Artikel 7 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 5 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par4" -->
 ## § 4 Übernahme von Aufgaben
 
-(1) Die Genossenschaft kann Aufgaben nach § 2 Abs. 1, die einer Gebietskörperschaft, einem Wasser- und Bodenverband oder einem öffentlich-rechtlichen Zweckverband im Genossenschaftsgebiet obliegen, nur im Einvernehmen mit der betroffenen Gebietskörperschaft oder dem betroffenen Verband auf Beschluß der Genossenschaftsversammlung ganz oder teilweise übernehmen. Der Beschluß bedarf der Genehmigung durch die Aufsichtsbehörde der Genossenschaft. Kommt das Einvernehmen mit einem Wasser- und Bodenverband nicht zustande, entscheidet auf Antrag die Aufsichtsbehörde der Genossenschaft. Liegt die Übernahme der Aufgabe durch die Genossenschaft im öffentlichen Interesse, kann die Aufsichtsbehörde der Genossenschaft die Übernahme gegenüber dem betroffenen Wasser- und Bodenverband anordnen.
+(1) Die Genossenschaft kann Aufgaben nach § 2 Abs. 1, die einer Gebietskörperschaft, einem Wasser- und Bodenverband oder einem öffentlich-rechtlichen Zweckverband im Genossenschaftsgebiet obliegen, nur im Einvernehmen mit der betroffenen Gebietskörperschaft oder dem betroffenen Verband auf Beschluß der Genossenschaftsversammlung ganz oder teilweise übernehmen. Soweit eine Maßnahme nach § 2 Absatz 1 Nummer 6 keinem der in Satz 1 genannten Träger obliegt, bedarf es des Einvernehmens mit den Gebietskörperschaften, auf deren Gebieten die Maßnahme durchgeführt wird. Der Beschluss nach Satz 1 bedarf der Genehmigung durch die Aufsichtsbehörde der Genossenschaft. Kommt das Einvernehmen mit einem Wasser- und Bodenverband nicht zustande, entscheidet auf Antrag die Aufsichtsbehörde der Genossenschaft. Liegt die Übernahme der Aufgabe durch die Genossenschaft im öffentlichen Interesse, kann die Aufsichtsbehörde der Genossenschaft die Übernahme gegenüber dem betroffenen Wasser- und Bodenverband anordnen.
 
 (2) Für die Übertragung von Aufgaben der Genossenschaft auf eine Gebietskörperschaft, einen Wasser- und Bodenverband oder einen öffentlich-rechtlichen Zweckverband im Genossenschaftsgebiet gilt Absatz 1 entsprechend.
 
-(3) Die Bestimmungen der Absätze 1 und 2 gelten nicht für die Aufgabe gemäß § 2 Absatz 1 Nummer 8, soweit diese unter § 5 Abs. 8 des Landesabfallgesetzes fällt.
+(3) Die Bestimmungen der Absätze 1 und 2 gelten nicht für die Aufgabe gemäß § 2 Absatz 1 Nummer 10, soweit diese unter § 5 Absatz 8 des Landeskreislaufwirtschaftsgesetzes vom 21. Juni 1988 (GV. NRW. S. 250), das zuletzt durch Artikel 3 Absatz 11 des Gesetzes vom 11. März 2025 (GV. NRW. S. 288) geändert worden ist, fällt.
 
 (4) Die bis zum 28. Februar 2007 bestehende Aufgabenwahrnehmung auf dem Gebiet der Abwasserbeseitigung durch den Verband und die in Absatz 1 genannten Aufgabenträger bleibt unberührt.
 
@@ -238,7 +117,7 @@ Das Gesetz über die Linksniederrheinische Entwässerungs-Genossenschaft (Linksn
 
 > **Fußnote**
 >
-> Inhaltsübersicht; § 1, § 3, § 6, Überschrift des Sechsten Teils und Überschrift des Zehnten Teils geändert sowie § 2, § 4, § 11, § 12, § 13, § 14, § 17, § 19, § 20, § 24, § 25, § 27, § 28, § 34, § 36, § 38 und Artikel 2 zuletzt geändert durch Artikel 7 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 5 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par5" -->
 ## § 5 Genossenschaftsgebiet
@@ -278,7 +157,7 @@ soweit sie ganz oder teilweise im Genossenschaftsgebiet liegen;
 
 5\. gewerbliche Unternehmen und die jeweiligen Eigentümer von Grundstücken, Verkehrsanlagen und sonstigen Anlagen, die Unternehmen der Genossenschaft verursachen, erschweren, zu erwarten haben oder von ihnen Vorteile haben oder zu erwarten haben; soweit ein Erbbaurecht bestellt ist, tritt der Erbbauberechtigte an die Stelle des Eigentümers; soweit für Verkehrsanlagen eine Baulast besteht, tritt deren Träger an die Stelle des Eigentümers oder des Erbbauberechtigten.
 
-Mitglieder der Genossenschaft sind auch Gebietskörperschaften, Unternehmen oder Eigentümer im Sinne von Satz 1 Nrn. 1 bis 5 außerhalb des Genossenschaftsgebietes, die unmittelbar Wasser aus dem Genossenschaftsgebiet beziehen oder aufgrund eingeleiteter Verfahren sicher beziehen werden oder deren Aufgaben und Pflichten die Genossenschaft gemäß § 2 Abs. 2 übernommen hat. Bergwerke gemäß Satz 1 Nr. 3 sind auch das Bergwerkseigentum und die Bewilligung im Sinne des Bundesberggesetzes, ferner Bergwerke, Bergwerkseigentum und Bewilligungen, die aufgehoben oder widerrufen werden oder erlöschen. Mitglied des Verbandes ist ferner jedes Unternehmen oder sein Rechtsnachfolger gleich welcher Rechtsform, das ein anderes Unternehmen zu einer Verrichtung bestellt hat, welches Unternehmen der Genossenschaft verursacht oder erschwert hat, oder weiter verursacht, erschwert oder erwarten lässt. Ein Unternehmen, das von einem anderen Unternehmen abhängig ist, gilt als von diesem Unternehmen zur Verrichtung bestellt.
+Mitglieder der Genossenschaft sind auch Gebietskörperschaften, Unternehmen oder Eigentümer im Sinne von Satz 1 Nrn. 1 bis 5 außerhalb des Genossenschaftsgebietes, die unmittelbar Wasser aus dem Genossenschaftsgebiet beziehen oder aufgrund eingeleiteter Verfahren sicher beziehen werden oder deren Aufgaben und Pflichten die Genossenschaft gemäß § 2 Abs. 2 übernommen hat. Bergwerke gemäß Satz 1 Nr. 3 sind auch das Bergwerkseigentum und die Bewilligung im Sinne des Bundesberggesetzes, ferner Bergwerke, Bergwerkseigentum und Bewilligungen, die aufgehoben oder widerrufen werden oder erlöschen. Mitglied des Genossenschaft ist ferner jedes Unternehmen oder sein Rechtsnachfolger gleich welcher Rechtsform, das ein anderes Unternehmen zu einer Verrichtung bestellt hat, welches Unternehmen der Genossenschaft verursacht oder erschwert hat, oder weiter verursacht, erschwert oder erwarten lässt. Ein Unternehmen, das von einem anderen Unternehmen abhängig ist, gilt als von diesem Unternehmen zur Verrichtung bestellt.
 
 (2) Die Mitgliedschaft in den Fällen des Absatzes 1 Satz 1 Nrn. 4 und 5 und Satz 2 setzt voraus, daß in der Satzung festzusetzende Mindestbeiträge erreicht werden und der Beitragsbescheid dem Veranlagten zugestellt ist (§ 27 Abs. 1 und 2). Unterschreitet ein Mitglied in einer Beitragsgruppe den Mindestbeitrag, erlischt insoweit seine Mitgliedschaft mit dem Zeitpunkt, zu dem ihm die unverzüglich getroffene Entscheidung des Vorstandes hierüber zugestellt ist. Zwischen dieser Entscheidung und der Zustellung entstehen insoweit keine neuen Rechte oder Pflichten des Mitgliedes.
 
@@ -289,7 +168,7 @@ Mitglieder der Genossenschaft sind auch Gebietskörperschaften, Unternehmen oder
 
 > **Fußnote**
 >
-> Inhaltsübersicht; § 1, § 3, § 6, Überschrift des Sechsten Teils und Überschrift des Zehnten Teils geändert sowie § 2, § 4, § 11, § 12, § 13, § 14, § 17, § 19, § 20, § 24, § 25, § 27, § 28, § 34, § 36, § 38 und Artikel 2 zuletzt geändert durch Artikel 7 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 5 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par7" -->
 ## § 7 Pflichten der Genossen
@@ -392,20 +271,20 @@ Bei der öffentlichen Bekanntmachung der Satzung und ihrer Änderungen ist auf d
 
 (1) Die Genossenschaftsversammlung besteht aus den Delegierten der Genossen gemäß Absatz 2 und 3 und einer oder einem Delegierten gemäß Absatz 4. Die Gesamtzahl der Delegierten wird durch die Satzung bestimmt.
 
-(2) Jede in der Satzung festzusetzende Einheit an Jahresbeiträgen (Beitragseinheit) berechtigt zur Entsendung einer oder eines Delegierten. Ein Genosse entsendet in die Genossenschaftsversammlung so viele Delegierte mit je einer Stimme, wie er auf Grund seiner Jahresbeiträge an vollen Beitragseinheiten erreicht. Kein Genosse darf mehr als zwei Fünftel aller Delegierten stellen. Die nach Satz 3 über zwei Fünftel aller Beitragseinheiten hinausgehenden Beiträge eines Genossen berechtigen nicht zur Entsendung von Delegierten oder zur Bildung von und zum Eintritt in Stimmgruppen (Absatz 3). Bei der Ermittlung der Beitragseinheiten eines Genossen ist sein durchschnittlicher Jahresbeitrag aus den letzten drei Jahren vor der Neubildung der Genossenschaftsversammlung zugrunde zu legen; bei einer Mitgliedschaft von weniger als drei Jahren gilt der letzte vor der Neubildung der Genossenschaftsversammlung vom Vorstand festgesetzte Jahresbeitrag. Solange Jahresbeiträge einzelner Genossen noch nicht feststehen, gilt der vom Vorstand festgesetzte Beitrag. Die Abwasserabgabe gemäß § 2 Absatz 2 des Abwasserabgabengesetzes Nordrhein-Westfalen vom 8. Juli 2016 (GV. NRW. S. 559) und das Wasserentnahmeentgelt gemäß § 2 des Wasserentnahmeentgeltgesetzes des Landes Nordrhein-Westfalen vom 27. Januar 2004 (GV. NRW. S. 30), das zuletzt durch Artikel 1 des Gesetzes vom 9. Dezember 2014 (GV. NRW. S. 884) geändert worden ist, bleiben bei der Ermittlung der Beitragseinheiten unberücksichtigt.
+(2) Jede in der Satzung festzusetzende Einheit an Jahresbeiträgen (Beitragseinheit) berechtigt zur Entsendung einer oder eines Delegierten. Ein Genosse entsendet in die Genossenschaftsversammlung so viele Delegierte mit je einer Stimme, wie er auf Grund seiner Jahresbeiträge an vollen Beitragseinheiten erreicht. Kein Genosse darf mehr als zwei Fünftel aller Delegierten stellen. Die nach Satz 3 über zwei Fünftel aller Beitragseinheiten hinausgehenden Beiträge eines Genossen berechtigen nicht zur Entsendung von Delegierten oder zur Bildung von und zum Eintritt in Stimmgruppen (Absatz 3). Bei der Ermittlung der Beitragseinheiten eines Genossen ist sein durchschnittlicher Jahresbeitrag aus den letzten drei Jahren vor der Neubildung der Genossenschaftsversammlung zugrunde zu legen; bei einer Mitgliedschaft von weniger als drei Jahren gilt der letzte vor der Neubildung der Genossenschaftsversammlung vom Vorstand festgesetzte Jahresbeitrag. Solange Jahresbeiträge einzelner Genossen noch nicht feststehen, gilt der vom Vorstand festgesetzte Beitrag. Die Abwasserabgabe gemäß § 2 Absatz 2 des Abwasserabgabengesetzes Nordrhein-Westfalen vom 8. Juli 2016 (GV. NRW. S. 559), das zuletzt durch Artikel 12 des Gesetzes vom 21. Oktober 2026 (GV. NRW. S. 748) geändert worden ist, in der jeweils geltenden Fassung, und das Wasserentnahmeentgelt gemäß § 2 des Wasserentnahmeentgeltgesetzes des Landes Nordrhein-Westfalen vom 27. Januar 2004 (GV. NRW. S. 30), das zuletzt durch Artikel 13 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559) geändert worden ist, in der jeweils geltenden Fassung, bleiben bei der Ermittlung der Beitragseinheiten unberücksichtigt.
 
 (3) Mit den Jahresbeiträgen, die eine volle Beitragseinheit nicht erreichen oder darüber hinausgehen (Beitragsteileinheiten), können sich die Genossen zu Stimmgruppen zusammenschließen. Jede Stimmgruppe hat so viele Delegierte mit je einer Stimme, wie sie mit den zusammengelegten Beiträgen oder Beitragsteilen volle Beitragseinheiten auf sich vereinigt. Jeder Genosse kann sich nur an einer Stimmgruppe beteiligen. Jede Stimmgruppe wählt ihre Delegierten und entsendet sie in die Genossenschaftsversammlung. Das Nähere über die Bildung von Stimmgruppen und die Wahl ihrer Delegierten regelt die Satzung.
 
-(4) Der Genossenschaftsversammlung gehört ferner eine Delegierte oder ein Delegierter an, die oder der gewähltes Mitglied der Landwirtschaftskammer ist und von dieser entsandt wird. Die oder der Delegierte hat in der Verbandsversammlung eine Stimme.
+(4) Der Genossenschaftsversammlung gehört ferner eine Delegierte oder ein Delegierter an, die oder der gewähltes Mitglied der Landwirtschaftskammer ist und von dieser entsandt wird. Die oder der Delegierte hat in der Genossenschaftsversammlung eine Stimme.
 
 > **Fußnote**
 >
-> Inhaltsübersicht; § 1, § 3, § 6, Überschrift des Sechsten Teils und Überschrift des Zehnten Teils geändert sowie § 2, § 4, § 11, § 12, § 13, § 14, § 17, § 19, § 20, § 24, § 25, § 27, § 28, § 34, § 36, § 38 und Artikel 2 zuletzt geändert durch Artikel 7 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 5 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par13" -->
 ## § 13 Delegierte in der Genossenschaftsversammlung
 
-(1) Delegierte oder Delegierter gemäß § 12 Abs. 2 und 3 kann nur sein, wer selbst Genosse ist, wer bei dem Genossen oder bei einer Anstalt des öffentlichen Rechts des Genossen nach § 114a der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 666), die zuletzt durch Gesetz vom 3. Februar 2015 (GV. NRW. S. 208) geändert worden ist, beruflich tätig ist, wer vertretungsberechtigt ist oder den Organen des Genossen angehört.
+(1) Delegierte oder Delegierter gemäß § 12 Absatz 2 und 3 kann nur sein, wer selbst Genosse ist, wer bei dem Genossen oder bei einer Anstalt des öffentlichen Rechts des Genossen nach § 114a der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 666), die zuletzt durch Artikel 1 des Gesetzes vom 10. Juli 2025 (GV. NRW. S. 618) geändert worden ist, in der jeweils geltenden Fassung, beruflich tätig ist, wer vertretungsberechtigt ist oder den Organen des Genossen angehört.
 
 (2) Ein Genosse darf nicht durch eine Delegierte oder einen Delegierten vertreten werden, die oder der in einem Dienstverhältnis zu einem anderen Genossen steht. Dies gilt nicht für Delegierte gemäß § 12 Abs. 3.
 
@@ -421,7 +300,7 @@ Bei der öffentlichen Bekanntmachung der Satzung und ihrer Änderungen ist auf d
 
 > **Fußnote**
 >
-> Inhaltsübersicht; § 1, § 3, § 6, Überschrift des Sechsten Teils und Überschrift des Zehnten Teils geändert sowie § 2, § 4, § 11, § 12, § 13, § 14, § 17, § 19, § 20, § 24, § 25, § 27, § 28, § 34, § 36, § 38 und Artikel 2 zuletzt geändert durch Artikel 7 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 5 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par14" -->
 ## § 14 Aufgaben der Genossenschaftsversammlung
@@ -459,7 +338,7 @@ Bei der öffentlichen Bekanntmachung der Satzung und ihrer Änderungen ist auf d
 <!-- norm id="par15" -->
 ## § 15 Sitzungen der Genossenschaftsversammlung,Beschlussfassung
 
-(1) Die oder der Vorsitzende des Genossenschaftsrates lädt die Delegierten (§ 12 Abs. 1) unter Angabe der Tagesordnung mit mindestens dreiwöchiger Frist zu den Sitzungen und unterrichtet die Mitglieder des Genossenschaftsrates, den Vorstand und die Dezernentinnen und Dezernenten.
+(1) Die oder der Vorsitzende des Genossenschaftsrates lädt die Delegierten (§ 12 Absatz 1) unter Angabe der Tagesordnung mit mindestens dreiwöchiger Frist zu den Sitzungen und unterrichtet die Mitglieder des Genossenschaftsrates, den Vorstand und die Geschäftsbereichsleiterinnen und Geschäftsbereichsleiter.
 
 (2) Die Genossenschaftsversammlung ist jährlich mindestens einmal einzuberufen. Sie ist grundsätzlich öffentlich; das Nähere regelt die Satzung. Sie ist ferner einzuberufen, wenn dies bei der oder dem Vorsitzenden des Genossenschaftsrates
 
@@ -469,7 +348,7 @@ b) von mindestens einem Drittel der Delegierten
 
 schriftlich oder elektronisch unter Angabe des Beratungsgegenstandes beantragt wird.
 
-(3) Die oder der Vorsitzende des Genossenschaftsrates leitet die Sitzungen der Genossenschaftsversammlung. Die weiteren Mitglieder des Genossenschaftsrates, der Vorstand und die Dezernentinnen oder Dezernenten sollen an den Sitzungen teilnehmen. Die Mitglieder des Genossenschaftsrates, der Vorstand und die Dezernentinnen oder Dezernenten sind nicht stimmberechtigt. Entsprechendes gilt für die oder den gemäß § 17 Abs. 1 Satz 2 bestimmte Dezernentin oder bestimmten Dezernenten.
+(3) Die oder der Vorsitzende des Genossenschaftsrates leitet die Sitzungen der Genossenschaftsversammlung. Die weiteren Mitglieder des Genossenschaftsrates, der Vorstand und die Geschäftsbereichsleiterinnen oder Geschäftsbereichsleiter sollen an den Sitzungen teilnehmen. Die Mitglieder des Genossenschaftsrates, der Vorstand und die Geschäftsbereichsleiterinnen oder Geschäftsbereichsleiter sind nicht stimmberechtigt. Entsprechendes gilt für die oder den gemäß § 17 Abs. 1 Satz 2 bestimmte Geschäftsbereichsleiterin oder bestimmten Geschäftsbereichsleiter.
 
 (4) Die Genossenschaftsversammlung ist beschlußfähig, wenn alle Delegierten rechtzeitig geladen sind und mindestens die Hälfte aller Delegierten anwesend ist. Bei Beschlußunfähigkeit kann die oder der Vorsitzende eine neue Sitzung anberaumen, in der die Genossenschaftsversammlung bei gleicher Tagesordnung ohne Rücksicht auf die Zahl der anwesenden Delegierten beschlußfähig ist. Hierauf muß in der Ladung hingewiesen werden.
 
@@ -479,27 +358,25 @@ schriftlich oder elektronisch unter Angabe des Beratungsgegenstandes beantragt w
 
 (7) Über die Sitzungen der Genossenschaftsversammlung sind Niederschriften zu fertigen. Beschlüsse sind besonders zu kennzeichnen. Die Niederschriften sind von der oder dem Vorsitzenden des Genossenschaftsrates und von einer oder einem von der Genossenschaftsversammlung zu bestimmenden Delegierten zu unterzeichnen.
 
-(8) Je eine Vertreterin oder ein Vertreter der Bezirksregierung Arnsberg als obere Bergbehörde und der Bezirksregierung kann mit beratender Stimme an den Sitzungen der Genossenschaftsversammlung teilnehmen. Eine gemeinsame Vertreterin oder ein gemeinsamer Vertreter der anerkannten Naturschutzvereinigungen, die im Sinne des § 63 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 421 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, nach ihrer Satzung landesweit tätig sind, kann mit beratender Stimme an den öffentlichen Sitzungen der Verbandsversammlung teilnehmen.
+(8) Je eine Vertreterin oder ein Vertreter der Bezirksregierung Arnsberg als obere Bergbehörde und der Bezirksregierung kann mit beratender Stimme an den Sitzungen der Genossenschaftsversammlung teilnehmen. Eine gemeinsame Vertreterin oder ein gemeinsamer Vertreter der anerkannten Naturschutzvereinigungen, die im Sinne des § 63 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 2 des Gesetzes vom 30. September 2026 (BGBl. 2026 I Nr. 286) geändert worden ist, in der jeweils geltenden Fassung, nach ihrer Satzung landesweit tätig sind, kann mit beratender Stimme an den öffentlichen Sitzungen der Genossenschaftsversammlung teilnehmen.
 
 (9) Die Vertreterinnen oder Vertreter nach Absatz 8 werden zum selben Zeitpunkt und im selben Umfang für die Sitzungen unterrichtet wie die Delegierten.
 
 (10) Die Genossen, die ausschließlich durch Delegierte nach § 12 Abs. 3 vertreten werden, können als Zuhörer an den Sitzungen der Genossenschaftsversammlung teilnehmen. Ort, Zeitpunkt und Tagesordnung sind mindestens drei Wochen vor der Sitzung den Genossen bekanntzumachen.
 
-(11) Ist eine epidemische Lage von landesweiter Tragweite nach § 11 des Infektionsschutz- und Befugnisgesetzes NRW festgestellt, kann die oder der Vorsitzende des Verbandsrates auf Antrag des Vorstandes entscheiden, dass die Genossenschaftsversammlung ohne physische Präsenz der Delegierten oder der in Absatz 8 genannten Vertreterinnen und Vertreter als virtuelle Genossenschaftsversammlung abgehalten wird, sofern
+(11) Die oder der Vorsitzende des Genossenschaftsrates kann auf Antrag des Vorstandes entscheiden, dass die Genossenschaftsversammlung ohne physische Präsenz der Delegierten und der in Absatz 8 genannten Vertreterinnen und Vertreter als virtuelle Genossenschaftsversammlung abgehalten wird oder dass den Delegierten und den in Absatz 8 genannten Vertreterinnen und Vertretern freigestellt wird, physisch oder virtuell teilzunehmen (hybride Genossenschaftsversammlung), sofern
 
 1\. die Bild- und Tonübertragung der gesamten Versammlung erfolgt,
 
-2\. die Stimmrechtsausübung der Delegierten über elektronische Kommunikation gesichert ist und
+2\. die Stimmrechtsausübung der virtuell teilnehmenden Delegierten über elektronische Kommunikation gesichert ist und
 
-3\. den Delegierten eine Fragemöglichkeit im Wege der elektronischen Kommunikation eingeräumt wird.
+3\. den virtuell teilnehmenden Delegierten eine Fragemöglichkeit im Wege der elektronischen Kommunikation eingeräumt wird.
 
-Die Bestimmungen in den Absätzen 1 und 3 bis 10 gelten für die virtuelle Genossenschaftsversammlung entsprechend. Die Beteiligung der Öffentlichkeit erfolgt gemäß Satz 1 Nummer 1. Näheres regelt die Satzung.
-
-(12) Unter den Voraussetzungen des Absatzes 11 kann die oder der Vorsitzende des Genossenschaftsrates auf Antrag des Vorstands statt der Einberufung einer virtuellen Genossenschaftsversammlung auch eine Beschlussfassung der Genossenschaftsversammlung oder Wahlen der Delegierten im Umlaufverfahren herbeiführen, wenn sich mindestens die Hälfte der Delegierten mit der schriftlichen oder elektronischen Abgabe der Stimmen einverstanden erklärt. Die Stimmabgabe erfolgt auf schriftlichem oder elektronischem Wege. Für das Umlaufverfahren gelten die Bestimmungen in den Absätzen 4 bis 6 entsprechend.
+Die Bestimmungen in den Absätzen 1 bis 10 gelten für die virtuelle und die hybride Genossenschaftsversammlung entsprechend. Die Beteiligung der Öffentlichkeit erfolgt gemäß Satz 1 Nummer 1. Näheres regelt die Satzung.
 
 > **Fußnote**
 >
-> § 15 und § 18 zuletzt geändert durch Artikel 29 des Gesetzes vom 1. Februar 2022 (GV. NRW. S. 122), in Kraft getreten am 19. Februar 2022.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 5 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par16" -->
 ## § 16 Zusammensetzung, Wahl und Amtszeitdes Genossenschaftsrates
@@ -544,21 +421,21 @@ Die Wahl ist eine Personenwahl. Das Nähere regelt die Satzung.
 
 (1) Der Genossenschaftsrat hat die ihm durch dieses Gesetz zugewiesenen Aufgaben. Er ist an die Beschlüsse der Genossenschaftsversammlung gebunden. Er überwacht die Führung der Geschäfte durch den Vorstand.
 
-(2) Der Genossenschaftsrat wählt den Vorstand. Er bestimmt die oder den insbesondere für personelle und soziale Angelegenheiten der Genossenschaft zuständige Dezernentin oder zuständigen Dezernenten. Diese Dezernentin oder dieser Dezernent darf nicht gegen die Stimmen der Mehrheit der Arbeitnehmer-Vertreterinnen oder -Vertreter bestellt werden.
+(2) Der Genossenschaftsrat wählt den Vorstand. Er bestimmt die oder den insbesondere für personelle und soziale Angelegenheiten der Genossenschaft zuständige Geschäftsbereichsleiterin oder zuständigen Geschäftsbereichsleiter. Diese Geschäftsbereichsleiterin oder dieser Geschäftsbereichsleiter darf nicht gegen die Stimmen der Mehrheit der Arbeitnehmer-Vertreterinnen oder -Vertreter bestellt werden.
 
-(3) Für die Abberufung des Vorstandes aus einem wichtigen Grund ist § 18 Abs. 5 entsprechend anzuwenden. Die Abberufung der oder des gemäß Absatz 2 Satz 2 bestellten Dezernentin oder Dezernenten aus einem wichtigen Grund ist nur mit den Stimmen der Mehrheit der Arbeitnehmer-Vertreterinnen oder -Vertreter möglich.
+(3) Für die Abberufung des Vorstandes aus einem wichtigen Grund ist § 18 Abs. 5 entsprechend anzuwenden. Die Abberufung der oder des gemäß Absatz 2 Satz 2 bestellten Geschäftsbereichsleiterin oder Geschäftsbereichsleiters aus einem wichtigen Grund ist nur mit den Stimmen der Mehrheit der Arbeitnehmer-Vertreterinnen oder -Vertreter möglich.
 
 (4) Der Genossenschaftsrat beschließt über:
 
 1\. seine Geschäftsordnung,
 
-2\. die Bestellung von Beauftragten nach dem Wasserhaushaltsgesetz, dem Abfallgesetz und dem Bundes-Immissionsschutzgesetz,
+2\. die Bestellung von Beauftragten nach dem Wasserhaushaltsgesetz vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 2 des Gesetzes vom 13. Oktober 2026 (BGBl. 2026 I Nr. 304) geändert worden ist, in der jeweils geltenden Fassung, dem Kreislaufwirtschaftsgesetz vom 24. Februar 2012 (BGBl. I S. 212), das zuletzt durch Artikel 3 des Gesetzes vom 13. Oktober 2026 (BGBl. 2026 I Nr. 304) geändert worden ist, in der jeweils geltenden Fassung, und dem Bundes-Immissionsschutzgesetz in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274; 2021 I S. 123), das zuletzt durch Artikel 1 des Gesetzes vom 13. Oktober 2026 (BGBl. 2026 I Nr. 304) geändert worden ist, in der jeweils geltenden Fassung,
 
 3\. den Abschluß eines Dienstvertrages mit dem Vorstand,
 
 4\. die Geschäftsordnung für die Genossenschaftsverwaltung,
 
-5\. die übrigen Zuständigkeiten der oder des gemäß Absatz 2 Satz 2 bestimmten Dezernentin oder Dezernenten innerhalb der Genossenschaftsverwaltung und ihre oder seine Stellung gegenüber dem Vorstand in personellen und sozialen Angelegenheiten,
+5\. die übrigen Zuständigkeiten der oder des gemäß Absatz 2 Satz 2 bestimmten Geschäftsbereichsleiterin oder Geschäftsbereichsleiters innerhalb der Genossenschaftsverwaltung und ihre oder seine Stellung gegenüber dem Vorstand in personellen und sozialen Angelegenheiten,
 
 6\. die Genehmigung von überplanmäßigen und außerplanmäßigen Ausgaben (§ 23 Abs. 2) oder erfolggefährdenden Mehraufwendungen.
 
@@ -584,7 +461,7 @@ Die Wahl ist eine Personenwahl. Das Nähere regelt die Satzung.
 
 10\. Festsetzung von Zwangsmitteln (§ 32),
 
-11\. Bestellung einer Dezernentin oder eines Dezernenten zur ständigen Vertreterin oder zum ständigen Vertreter des Vorstandes,
+11\. Bestellung einer Geschäftsbereichsleiterin oder eines Geschäftsbereichsleiters zur ständigen Vertreterin oder zum ständigen Vertreter des Vorstandes,
 
 12\. Geschäfte und sonstige Angelegenheiten von herausragender Bedeutung, deren Wert die in der Satzung festzusetzenden Beträge erreicht oder überschreitet,
 
@@ -592,12 +469,12 @@ Die Wahl ist eine Personenwahl. Das Nähere regelt die Satzung.
 
 > **Fußnote**
 >
-> Inhaltsübersicht; § 1, § 3, § 6, Überschrift des Sechsten Teils und Überschrift des Zehnten Teils geändert sowie § 2, § 4, § 11, § 12, § 13, § 14, § 17, § 19, § 20, § 24, § 25, § 27, § 28, § 34, § 36, § 38 und Artikel 2 zuletzt geändert durch Artikel 7 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 5 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par18" -->
 ## § 18 Sitzungen des Genossenschaftsrates,Beschlußfassung
 
-(1) Die oder der Vorsitzende des Genossenschaftsrates lädt die Mitglieder des Genossenschaftsrates unter Angabe der Tagesordnung mit mindestens zweiwöchiger Frist zu den Sitzungen und leitet sie.
+(1) Die oder der Vorsitzende des Genossenschaftsrates lädt die Mitglieder des Genossenschaftsrates unter Angabe der Tagesordnung mit mindestens zweiwöchiger Frist zu den Sitzungen und leitet sie. Der Vorstand und die Geschäftsbereichsleiterinnen und Geschäftsbereichsleiter nehmen ohne Stimmrecht an den Sitzungen teil.
 
 (2) Im Jahr sind mindestens zwei Sitzungen des Genossenschaftsrates abzuhalten. Die oder der Vorsitzende muß eine Sitzung anberaumen, wenn mindestens fünf Mitglieder des Genossenschaftsrates oder der Vorstand dies schriftlich oder elektronisch unter Angabe des Beratungsgegenstandes bei der oder bei dem Vorsitzenden beantragen oder die Aufsichtsbehörde dies verlangt.
 
@@ -611,26 +488,26 @@ Die Wahl ist eine Personenwahl. Das Nähere regelt die Satzung.
 
 (7) Über die Sitzungen des Genossenschaftsrates sind Niederschriften zu fertigen. Beschlüsse sind besonders zu kennzeichnen. Die Niederschriften sind von der oder von dem Vorsitzenden und von einem weiteren Mitglied des Genossenschaftsrates zu unterzeichnen.
 
-(8) Unter den Voraussetzungen des § 15 Absatz 11 kann die oder der Vorsitzende des Verbandsrates auf Antrag des Vorstands eine virtuelle Genossenschaftsratssitzung einberufen oder abweichend von Absatz 6 mit einer Zweidrittel-Mehrheit des Genossenschaftsrates eine Beschlussfassung im Umlaufverfahren herbeiführen. Auf eine Bildübertragung kann dabei verzichtet werden. Die Bestimmungen in den Absätzen 1 und 3 bis 5 gelten entsprechend.
+(8) Unter den Voraussetzungen des § 15 Absatz 11 kann die oder der Vorsitzende des Genossenschaftsrates auf Antrag des Vorstands eine virtuelle oder hybride Genossenschaftsratssitzung einberufen. Auf eine Bildübertragung kann dabei verzichtet werden. Die Bestimmungen in den Absätzen 1 und 3 bis 5 gelten entsprechend.
 
 > **Fußnote**
 >
-> § 15 und § 18 zuletzt geändert durch Artikel 29 des Gesetzes vom 1. Februar 2022 (GV. NRW. S. 122), in Kraft getreten am 19. Februar 2022.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 5 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par19" -->
 ## § 19 Vorstand
 
 (1) Die oder der Vorsitzende des Genossenschaftsrates ist Dienstvorgesetzte oder Dienstvorgesetzter des Vorstandes.
 
-(2) Wer zum Vorstand gewählt wird, muß die für sein Amt erforderlichen Voraussetzungen erfüllen. Seine Amtszeit beträgt fünf Jahre. Wiederwahlen sind zulässig. Die Wahl ist frühestens neun Monate und spätestens drei Monate vor Ablauf der Amtszeit durchzuführen. Die Amtszeit endet spätestens mit Ablauf des Monats, in dem der Vorstand das 67. Lebensjahr vollendet. Für Vorstände, die am 1. Januar 2013 im Amt sind und deren Amtszeit bis längstens 2017 läuft, findet die Altersgrenze nach Satz 5 nur mit deren Zustimmung Anwendung.
+(2) Wer zum Vorstand gewählt wird, muß die für sein Amt erforderlichen Voraussetzungen erfüllen. Seine Amtszeit beträgt fünf Jahre. Wiederwahlen sind zulässig. Die Wahl ist frühestens neun Monate und spätestens drei Monate vor Ablauf der Amtszeit durchzuführen. Die Amtszeit endet spätestens mit Ablauf des Monats, in dem der Vorstand das 67. Lebensjahr vollendet.
 
-(3) Für die Dezernentin oder den Dezernenten gemäß § 17 Abs. 2 Satz 2 gilt Absatz 2 sinngemäß.
+(3) Für die Geschäftsbereichsleiterin oder den Geschäftsbereichsleiter gemäß § 17 Absatz 2 Satz 2 gilt Absatz 2 sinngemäß.
 
 (4) Der Vorstand hat entsprechend den Regelungen der Eigenbetriebsverordnung für das Land Nordrhein-Westfalen vom 16. November 2004 (GV. NRW. S. 644, ber. 2005 S. 15) in der jeweils geltenden Fassung seine Vergütung im Jahresabschluss individualisiert offen zu legen.
 
 > **Fußnote**
 >
-> Inhaltsübersicht; § 1, § 3, § 6, Überschrift des Sechsten Teils und Überschrift des Zehnten Teils geändert sowie § 2, § 4, § 11, § 12, § 13, § 14, § 17, § 19, § 20, § 24, § 25, § 27, § 28, § 34, § 36, § 38 und Artikel 2 zuletzt geändert durch Artikel 7 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 5 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par20" -->
 ## § 20 Aufgaben des Vorstandes
@@ -650,18 +527,16 @@ Die Wahl ist eine Personenwahl. Das Nähere regelt die Satzung.
 
 (1) Der Vorstand vertritt die Genossenschaft gerichtlich und außergerichtlich.
 
-(2) Der Vorstand bestellt mit Zustimmung des Genossenschaftsrates eine Dezernentin oder einen Dezernenten zu seinem ständigen Vertreter.
+(2) Der Vorstand bestellt mit Zustimmung des Genossenschaftsrates eine Geschäftsbereichsleiterin oder einen Geschäftsbereichsleiter zu seinem ständigen Vertreter.
 
-(3) Verpflichtende Erklärungen der Genossenschaft bedürfen der Schriftform. Die Vertretungs- und Unterschriftsbefugnisse werden durch eine Geschäftsordnung für die Genossenschaftsverwaltung geregelt.
+(3) Erklärungen, durch die die Genossenschaft verpflichtet werden soll, bedürfen unbeschadet weitergehender Satzungsregelungen der Textform nach § 126b des Bürgerlichen Gesetzbuches. Die Vertretungs- und Unterschriftsbefugnisse werden durch eine Geschäftsordnung für die Genossenschaftsverwaltung geregelt.
 
 **Sechster Teil**  
 **Finanzplanung, Wirtschaftsführung und Rechnungswesen, Beiträge**
 
 > **Fußnote**
 >
-> § 21 Abs. 2 und § 22 geändert durch Art. 6 d. Gesetzes v. 7. 3. 1995 (GV. NW. S. 248); in Kraft getreten am 1. Juli 1995.
->
-> Inhaltsübersicht; § 1, § 3, § 6, Überschrift des Sechsten Teils und Überschrift des Zehnten Teils geändert sowie § 2, § 4, § 11, § 12, § 13, § 14, § 17, § 19, § 20, § 24, § 25, § 27, § 28, § 34, § 36, § 38 und Artikel 2 zuletzt geändert durch Artikel 7 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 5 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par22" -->
 ## § 22 (weggefallen)
@@ -754,7 +629,7 @@ Die Wahl ist eine Personenwahl. Das Nähere regelt die Satzung.
 
 (1) Auf Grund des festgestellten Wirtschaftsplans berechnet der Vorstand nach den Veranlagungsrichtlinien die Beiträge. Er führt die Beiträge - nach Beitragsgruppen getrennt - mit den zugehörigen Berechnungsgrundlagen in einer Beitragsliste auf und setzt die Beiträge fest. Der Vorstand teilt jedem Genossen seinen Beitrag für die jeweilige Beitragsgruppe, die wesentlichen Berechnungsgrundlagen hierzu, die Zahlstelle und die Zahlungsfrist mit (Beitragsbescheid) und zieht die Beiträge ein.
 
-(2) Im Beitragsbescheid ist der Veranlagte auf die Möglichkeit der Einsichtnahme in die Beitragsliste und die dazugehörigen Unterlagen unter Angabe von Ort und Zeitraum hinzuweisen. Der Beitragsbescheid ist zuzustellen. Ein neuer Genosse ist mit dem ersten Beitragsbescheid über bestehende Rechte und Pflichten unter Beifügung von Gesetz, Satzung und Veranlagungsrichtlinien zu unterrichten.
+(2) Im Beitragsbescheid ist der Veranlagte auf die Möglichkeit der Einsichtnahme in die Beitragsliste und die dazugehörigen Unterlagen unter Angabe von Ort und Zeitraum hinzuweisen. Der Beitragsbescheid ist zuzustellen. Ein neuer Genosse ist mit dem ersten Beitragsbescheid über bestehende Rechte und Pflichten unter Verweis auf Gesetz, Satzung und Veranlagungsrichtlinien zu unterrichten.
 
 (3) Gegen den Beitragsbescheid kann der Veranlagte innerhalb eines Monats nach dessen Zustellung schriftlich oder zur Niederschrift Widerspruch einlegen. Hilft der Vorstand dem Widerspruch nicht ab, legt er ihn dem Widerspruchsausschuß vor.
 
@@ -768,7 +643,7 @@ Die Wahl ist eine Personenwahl. Das Nähere regelt die Satzung.
 
 > **Fußnote**
 >
-> Inhaltsübersicht; § 1, § 3, § 6, Überschrift des Sechsten Teils und Überschrift des Zehnten Teils geändert sowie § 2, § 4, § 11, § 12, § 13, § 14, § 17, § 19, § 20, § 24, § 25, § 27, § 28, § 34, § 36, § 38 und Artikel 2 zuletzt geändert durch Artikel 7 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 5 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par28" -->
 ## § 28 Rechtliche Eigenschaft der Beiträge,Vollstreckung
@@ -860,7 +735,7 @@ Der Widerspruchsausschuß entscheidet über Widersprüche nach § 7 Abs. 5, § 8
 <!-- norm id="par34" -->
 ## § 34 Aufsicht
 
-(1) Die Genossenschaft steht unter der Aufsicht des Staates. Aufsichtsbehörde ist das für Umwelt zuständige Ministerium (Ministerium).
+(1) Die Genossenschaft steht unter der Aufsicht des Staates. Aufsichtsbehörde ist das für Umwelt zuständige Ministerium.
 
 (2) Die Aufsicht stellt sicher, daß die Genossenschaft die ihr obliegenden Aufgaben und Pflichten nach geltendem Recht und im Einklang mit den wasserwirtschaftlichen Zielsetzungen des Landes erfüllt.
 
@@ -868,7 +743,7 @@ Der Widerspruchsausschuß entscheidet über Widersprüche nach § 7 Abs. 5, § 8
 
 > **Fußnote**
 >
-> Inhaltsübersicht; § 1, § 3, § 6, Überschrift des Sechsten Teils und Überschrift des Zehnten Teils geändert sowie § 2, § 4, § 11, § 12, § 13, § 14, § 17, § 19, § 20, § 24, § 25, § 27, § 28, § 34, § 36, § 38 und Artikel 2 zuletzt geändert durch Artikel 7 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 5 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par35" -->
 ## § 35 Teilnahme an Sitzungen, Unterrichtungder Aufsichtsbehörde
@@ -914,7 +789,7 @@ Der Widerspruchsausschuß entscheidet über Widersprüche nach § 7 Abs. 5, § 8
 
 1\. für Geschäfte im Sinne von § 17 Abs. 5 Nr. 7,
 
-2\. zur unentgeltlichen Veräußerung von Vermögensgegenständen mit erheblichem Wert, zur unentgeltlichen Überlassung der Nutzung von Vermögensgegenständen auf Dauer, soweit die Nutzung einen erheblichen Wert darstellt, sowie zur entgeltlichen Veräußerung von Vermögenshaushalt oder Vermögensplan der Genossenschaft zugeführt wird,
+2\. zur unentgeltlichen Veräußerung von Vermögensgegenständen mit erheblichem Wert, zur unentgeltlichen Überlassung der Nutzung von Vermögensgegenständen auf Dauer, soweit die Nutzung einen erheblichen Wert darstellt, sowie zur entgeltlichen Veräußerung von Vermögensgegenständen, wenn der Erlös nicht dem Vermögenshaushalt oder Vermögensplan der Genossenschaft zugeführt wird,
 
 3\. zur Gewährung von Darlehen über 10 000 Euro an Beschäftigte der Genossenschaft, auch soweit diese ausgeschieden sind, sowie für alle sonstigen Darlehen an Stellen außerhalb der Genossenschaft,
 
@@ -943,7 +818,7 @@ Der Widerspruchsausschuß entscheidet über Widersprüche nach § 7 Abs. 5, § 8
 
 > **Fußnote**
 >
-> Inhaltsübersicht; § 1, § 3, § 6, Überschrift des Sechsten Teils und Überschrift des Zehnten Teils geändert sowie § 2, § 4, § 11, § 12, § 13, § 14, § 17, § 19, § 20, § 24, § 25, § 27, § 28, § 34, § 36, § 38 und Artikel 2 zuletzt geändert durch Artikel 7 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 5 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par39" -->
 ## § 39 (weggefallen)
@@ -964,7 +839,7 @@ Die Genossenschaft kann nur durch Gesetz aufgelöst werden.
 >
 > § 41 aufgehoben durch Artikel 5 des Gesetzes vom 11.12.2007 (GV. NRW. S. 716), in Kraft getreten am 29. Dezember 2007.
 
-<!-- norm id="art2-2" -->
+<!-- norm id="art2" -->
 ## Artikel 2 Inkrafttreten
 
 Artikel 1 tritt am 1. Juli 1995 in Kraft.

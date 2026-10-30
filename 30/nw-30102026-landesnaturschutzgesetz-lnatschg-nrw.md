@@ -1,17 +1,19 @@
 ---
 land: NW
 abkuerzung: LNatSchG NRW
-titel: Gesetz zum Schutz der Natur in Nordrhein-Westfalen (Landesnaturschutzgesetz – LNatSchG NRW)
-stand: Fassung gültig ab 01.04.2025
-gilt_ab: '2025-04-01'
-quelle: https://recht.nrw.de/lrgv/gesetz/01042025-gesetz-zum-schutz-der-natur-nordrhein-westfalen-landesnaturschutzgesetz
+titel: Gesetz zum Schutz der Natur in Nordrhein-Westfalen
+kurztitel: Landesnaturschutzgesetz
+stand: Fassung gültig ab 30.10.2026
+gilt_ab: '2026-10-30'
+naechste_fassung_ab: '2027-05-01'
+quelle: https://recht.nrw.de/lrgv/gesetz/30102026-landesnaturschutzgesetz-lnatschg-nrw
 ---
 
-# Gesetz zum Schutz der Natur in Nordrhein-Westfalen (Landesnaturschutzgesetz – LNatSchG NRW) (LNatSchG NRW)
+# Gesetz zum Schutz der Natur in Nordrhein-Westfalen (LNatSchG NRW)
 
-Stand: Fassung gültig ab 01.04.2025
+Stand: Fassung gültig ab 30.10.2026
 
-Quelle: <https://recht.nrw.de/lrgv/gesetz/01042025-gesetz-zum-schutz-der-natur-nordrhein-westfalen-landesnaturschutzgesetz>
+Quelle: <https://recht.nrw.de/lrgv/gesetz/30102026-landesnaturschutzgesetz-lnatschg-nrw>
 
 Nichtamtliche Fassung des Landesportals.
 
@@ -34,237 +36,11 @@ Die Ministerin für Umwelt und Naturschutz,
 Landwirtschaft und Verbraucherschutz  
 des Landes Nordrhein-Westfalen
 
-**Gesetz**  
-**zum Schutz der Natur in Nordrhein-Westfalen**  
-**(Landesnaturschutzgesetz – LNatSchG NRW)**  
-**in der Fassung der Bekanntmachung**
-
-vom 21.Juli 2000
-
-**Inhaltsübersicht**
+<!-- norm id="ohnebezeichnung" -->
+## (ohne Bezeichnung)
 
 **Kapitel 1**  
 **Allgemeine Vorschriften**
-
-§ 1 Regelungsgegenstand
-
-§ 2 Naturschutzbehörden, Grundflächen der öffentlichen Hand
-
-§ 3 Landesamt für Natur, Umwelt und Klima
-
-§ 4 Landwirtschaft, Forstwirtschaft
-
-§ 5 Beobachtung von Natur und Landschaft
-
-**Kapitel 2**  
-**Landschaftsplanung**
-
-**Abschnitt 1**  
-**Grundsätze, Ziele, Anwendungsbereich der Landschaftsplanung**
-
-§ 6 Landschaftsrahmenplan
-
-§ 7 Landschaftsplan
-
-§ 8 Fachbeitrag des Naturschutzes und der Landschaftspflege zur Landschaftsplanung
-
-§ 9 Strategische Umweltprüfung bei der Landschaftsplanung
-
-§ 10 Entwicklungsziele für die Landschaft, Biotopverbund
-
-§ 11 Zweckbestimmung für Brachflächen
-
-§ 12 Forstliche Festsetzungen in Naturschutzgebieten und geschützten Landschaftsbestandteilen
-
-§ 13 Entwicklungs-, Pflege- und Erschließungsmaßnahmen
-
-**Abschnitt 2**  
-**Verfahren bei der Landschaftsplanung**
-
-§ 14 Aufstellung des Landschaftsplans
-
-§ 15 Beteiligung der Träger öffentlicher Belange
-
-§ 16 Beteiligung der Bürgerinnen und Bürger
-
-§ 17 Öffentliche Auslegung
-
-§ 18 Anzeige des Landschaftsplans
-
-§ 19 Inkrafttreten des Landschaftsplans
-
-§ 20 Änderung, Aufhebung und Neuaufstellung des Landschaftsplans
-
-§ 21 Verletzung von Verfahrens- und Formvorschriften, Mängel der Abwägung, Behebung von Fehlern
-
-**Abschnitt 3**  
-**Wirkung und Durchführung des Landschaftsplans**
-
-§ 22 Berücksichtigung der Entwicklungsziele für die Landschaft
-
-§ 23 Wirkung der Schutzausweisung
-
-§ 24 Wirkungen der Festsetzungen für die forstliche Nutzung
-
-§ 25 Aufgaben des Trägers der Landschaftsplanung
-
-§ 26 Aufgaben anderer juristischer Personen des öffentlichen Rechts
-
-§ 27 Verpflichtung der Grundstückseigentümer oder -besitzer zur Durchführung von Maßnahmen
-
-§ 28 Besonderes Duldungsverhältnis
-
-§ 29 Maßnahmen der Bodenordnung
-
-**Kapitel 3**  
-**Allgemeiner Schutz von Natur und Landschaft**
-
-§ 30 Eingriffe in Natur und Landschaft
-
-§ 31 Ausgleichs- und Ersatzmaßnahmen, Ersatzgeld
-
-§ 32 Bevorratung von Kompensationsmaßnahmen
-
-§ 33 Verfahren
-
-§ 34 Verzeichnisse
-
-**Kapitel 4**  
-**Schutz bestimmter Teile von Natur und Landschaft**
-
-**Abschnitt 1**  
-**Biotopverbund, geschützte Teile von Natur und Landschaft, Baumschutzsatzung**
-
-§ 35 Biotopverbund
-
-§ 36 Nationalparke, Nationale Naturmonumente
-
-§ 37 Biosphärenregionen
-
-§ 38 Naturparke
-
-§ 39 Gesetzlich geschützte Landschaftsbestandteile
-
-§ 40 Wildnisentwicklungsgebiete
-
-§ 41 Alleen
-
-§ 42 Gesetzlich geschützte Biotope
-
-§ 43 Schutzmaßnahmen
-
-§ 44 Großflächige und naturschutzfachlich bedeutsame Gebiete
-
-§ 45 Beteiligung von Behörden und öffentlichen Stellen
-
-§ 46 Öffentliche Auslegung, Anhörung
-
-§ 47 Abgrenzung
-
-§ 48 Einstweilige Sicherstellung, Veränderungsverbot
-
-§ 49 Baumschutzsatzung
-
-§ 50 Verzeichnisse, Kennzeichen, Bezeichnungen
-
-§ 50a Geltungsdauer der Rechtsverordnungen
-
-**Abschnitt 2**  
-**Netz „Natura 2000“**
-
-§ 51 Ermittlung und Vorschlag der Gebiete
-
-§ 52 Sicherung europäischer Vogelschutzgebiete
-
-§ 53 Verträglichkeit und Unzulässigkeit von Projekten, Ausnahmen
-
-§ 54 Gentechnisch veränderte Organismen
-
-§ 55 Pläne
-
-**Kapitel 5**  
-**Schutz der wild lebenden Tier- und Pflanzenarten, ihrer Lebensstätten und Biotope**
-
-§ 56 Tiergehege
-
-**Kapitel 6**  
-**Erholung in Natur und Landschaft**
-
-§ 57 Betretungsbefugnis
-
-§ 58 Reiten in der freien Landschaft und im Wald
-
-§ 59 Grenzen der Betretungs- und Reitbefugnisse, Schäden aus Erholungsverkehr
-
-§ 60 Zulässigkeit von Sperren
-
-§ 61 Betretungsbefugnisse in geschlossenen Ortschaften
-
-§ 62 Kennzeichnung von Reitpferden, Reitabgabe
-
-§ 63 Freigabe der Ufer
-
-§ 64 Freihaltung von Gewässern und Uferzonen, Naturerfahrungsräume
-
-§ 65 Markierung von Wanderwegen
-
-**Kapitel 7**  
-**Naturschutzvereinigungen, Naturschutzbeiräte, Naturschutzwacht,**  
-**Biologische Stationen, Landesförderung**
-
-§ 66 Mitwirkung von Naturschutzvereinigungen
-
-§ 67 Art und Weise der Mitwirkung, Voraussetzung der Anerkennung von Naturschutzvereinigungen
-
-§ 68 Rechtsbehelfe von anerkannten Naturschutzvereinigungen
-
-§ 69 Naturschutzwacht
-
-§ 70 Naturschutzbeiräte
-
-§ 71 Biologische Stationen
-
-§ 72 Landesförderung Naturschutz und Landschaftspflege
-
-**Kapitel 8**  
-**Eigentumsbindung, Befreiungen**
-
-§ 73 Betretungs- und Untersuchungsrecht
-
-§ 74 Vorkaufsrecht
-
-§ 75 Befreiungen und Ausnahmen
-
-§ 76 Beschränkungen des Eigentums, Entschädigung
-
-**Kapitel 9**  
-**Ordnungswidrigkeiten**
-
-§ 77 Ordnungswidrigkeiten
-
-§ 78 Geldbuße, Kostentragungspflicht des Halters eines Kraftfahrzeugs, Einziehung, Zusammentreffen mit Straftaten, Verwaltungsbehörde
-
-**Kapitel 10**  
-**Übergangs- und Überleitungsvorschriften, Durchführungsvorschriften**
-
-§ 79 Überleitung bestehender Verordnungen
-
-§ 80 Landschaftspläne
-
-§ 81 Beiräte
-
-§ 82 Durchführungsvorschriften
-
-§ 83 Übergangsvorschrift zu § 58
-
-§ 84 Inkrafttreten, Berichtspflicht
-
-**Kapitel 1**  
-**Allgemeine Vorschriften**
-
-> **Fußnote**
->
-> Inhaltsübersicht: geändert durch Artikel 2 des Gesetzes vom 5. März 2024 (GV. NRW. S. 156), in Kraft getreten am 16. März 2024; geändert durch Artikel 3 Absatz 16 des Gesetzes vom 11. März 2025 (GV. NRW. S. 288), in Kraft getreten am 1. April 2025.
 
 <!-- norm id="par1" -->
 ## § 1 Regelungsgegenstand
@@ -352,9 +128,9 @@ Die Behörden des Landes Nordrhein-Westfalen sind verpflichtet, zu diesen Zwecke
 
 6\. ab dem 1. Januar 2022 auf Dauergrünlandflächen in Naturschutzgebieten Pflanzenschutzmittel einzusetzen.
 
-Dauergrünland im Sinne dieses Gesetzes sind alle auf natürliche Weise entstandenen Grünlandflächen sowie angelegte und dauerhaft als Wiese, Mähweide oder Weide genutzte Grünlandflächen und deren Brachen. Nicht auf Dauer angelegte Ackerfutterflächen sind kein Dauergrünland im Sinne dieses Gesetzes.
+Dauergrünland im Sinne dieses Gesetzes sind alle auf natürliche Weise entstandenen Grünlandflächen sowie angelegte und dauerhaft als Wiese, Mähweide oder Weide genutzte Grünlandflächen und deren Brachen. Nicht auf Dauer angelegte Ackerfutterflächen sind kein Dauergrünland im Sinne dieses Gesetzes. Kein Dauergrünland im Sinne dieses Gesetzes sind Flächen, die am 1. Januar 2026 gemäß § 7 Absatz 1 Satz 2 der Verordnung zur Durchführung der GAP-Direktzahlungen Ackerland waren. Die Naturschutzbehörden sind hierzu berechtigt, die Flächen und Nutzungsdaten sowie Namen und Anschrift der Antrag stellenden Betriebe aus dem Gemeinsamen Antrag - flächenbezogene Förder- und Ausgleichsleistungen - zu verarbeiten.
 
-(2) Von dem Verbot des Absatzes 1 Nummer 1 sind auf Antrag Ausnahmen zuzulassen, wenn die Beeinträchtigungen ausgeglichen werden. Von den Verboten des Absatzes 1 Nummer 2 bis 4 können auf Antrag Ausnahmen zugelassen werden, wenn die Beeinträchtigungen ausgeglichen oder ersetzt werden. In Verfahren nach dem Flurbereinigungsgesetz in der Fassung der Bekanntmachung vom 16. März 1976 (BGBl. I S. 546), das zuletzt durch Artikel 17 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist, sind Ausnahmen vom Verbot des Absatzes 1 Nummer 1 durch die zuständige Flurbereinigungsbehörde zulässig, wenn dies zur Gewährleistung wertgleicher Landabfindungen unverzichtbar ist. Für die punktuelle Beseitigung giftiger, invasiver oder bei vermehrtem Auftreten für die Grünlandnutzung problematischen Pflanzenarten können von dem Verbot des Absatzes 1 Nummer 6 auf Antrag Ausnahmen zugelassen werden.
+(2) Von dem Verbot des Absatzes 1 Satz 1 Nummer 1 sind auf Antrag Ausnahmen zuzulassen, wenn die Beeinträchtigungen ausgeglichen werden. Absatz 1 Satz 1 Nummer 1 gilt nicht für Dauergrünland, das ab dem 1. Januar 2021 entstanden ist. Von den Verboten des Absatzes 1 Satz 1 Nummer 2 bis 4 können auf Antrag Ausnahmen zugelassen werden, wenn die Beeinträchtigungen ausgeglichen oder ersetzt werden. In Verfahren nach dem Flurbereinigungsgesetz in der Fassung der Bekanntmachung vom 16. März 1976 (BGBl. I S. 546), das zuletzt durch Artikel 17 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) geändert worden ist, sind Ausnahmen vom Verbot des Absatzes 1 Satz 1 Nummer 1 durch die zuständige Flurbereinigungsbehörde zulässig, wenn dies zur Gewährleistung wertgleicher Landabfindungen unverzichtbar ist. Für die punktuelle Beseitigung giftiger, invasiver oder bei vermehrtem Auftreten für die Grünlandnutzung problematischer Pflanzenarten können von dem Verbot des Absatzes 1 Satz 1 Nummer 6 auf Antrag Ausnahmen zugelassen werden.
 
 (3) Nach Beendigung eines Vertrages kann die vorher rechtmäßig ausgeübte landwirtschaftliche Nutzung wieder aufgenommen werden, sofern der Vertrag keine entgegenstehenden Regelungen enthält. Wird diese durch Verbote oder Gebote des Bundesnaturschutzgesetzes oder dieses Gesetzes oder auf Grund des Bundesnaturschutzgesetzes oder dieses Gesetzes eingeschränkt oder untersagt, ist nach Maßgabe des § 68 des Bundesnaturschutzgesetzes eine angemessene Entschädigung zu leisten.
 
@@ -362,7 +138,9 @@ Dauergrünland im Sinne dieses Gesetzes sind alle auf natürliche Weise entstand
 
 > **Fußnote**
 >
-> § 4 Absatz 2 und 3 geändert durch Artikel 3 Absatz 16 des Gesetzes vom 11. März 2025 (GV. NRW. S. 288), in Kraft getreten am 1. April 2025.
+> Absätze 2 und 3 geändert durch Artikel 3 Absatz 16 des Gesetzes vom 11. März 2025 (GV. NRW. S. 288), in Kraft getreten am 1. April 2025.
+>
+> GV. NRW. 2026 S. 763: Absatz 1 geändert und Absatz 2 neu gefasst durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober. 2026
 
 <!-- norm id="par5" -->
 ## § 5 Beobachtung von Natur und Landschaft(zu § 6 des Bundesnaturschutzgesetzes)
@@ -403,6 +181,12 @@ Die regionalen Erfordernisse und Maßnahmen zur Verwirklichung des Naturschutzes
 4\. besondere Festsetzungen für die forstliche Nutzung (§ 12) und
 
 5\. die Entwicklungs-, Pflege- und Erschließungsmaßnahmen (§ 13), insbesondere zur Förderung der Biodiversität.
+
+(6) Wenn kein Landschaftsplan vorliegt, ist bei Entscheidungen nach § 9 Absatz 5 des Bundesnaturschutzgesetzes der Fachbeitrag des Naturschutzes und der Landschaftspflege zur Landschaftsplanung zu berücksichtigen. Die Pflicht zur Aufstellung von Landschaftsplänen bleibt hiervon unberührt.
+
+> **Fußnote**
+>
+> GV. NRW. 2026 S. 763: Absatz 6 angefügt durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par8" -->
 ## § 8 Fachbeitrag des Naturschutzes und der Landschaftspflege zur Landschaftsplanung(zu § 9 Absatz 5 des Bundesnaturschutzgesetzes)
@@ -510,6 +294,15 @@ Der Landschaftsplan kann in Naturschutzgebieten nach § 23 des Bundesnaturschutz
 
 Die Bürgerinnen und Bürger sind möglichst frühzeitig über die allgemeinen Ziele und die voraussichtlichen Auswirkungen der Planung öffentlich zu unterrichten. Ihnen ist Gelegenheit zur Äußerung und Erörterung zu geben. An die Unterrichtung und Erörterung schließt sich das Verfahren nach § 17 auch an, wenn die Erörterung zu einer Änderung der Planung führt.
 
+<!-- norm id="par16a" -->
+## § 16a Elektronische Beteiligungen
+
+Zur Beteiligung nach den §§ 15 und 16 können elektronische Informationstechnologien genutzt werden.
+
+> **Fußnote**
+>
+> GV. NRW. 2026 S. 763: § 16a eingefügt durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
+
 <!-- norm id="par17" -->
 ## § 17 Öffentliche Auslegung
 
@@ -540,11 +333,17 @@ Die erfolgte Durchführung des Anzeigeverfahrens ist durch den Träger der Lands
 
 (2) Werden durch Änderungen eines Landschaftsplans die Grundzüge der Planung nicht berührt, bedarf es der Verfahren nach den §§ 15 bis 17 sowie der Anzeige nach § 18 nicht; § 14 Absatz 1 Satz 2 findet keine Anwendung (vereinfachte Änderung). Den Eigentümern der von den Änderungen betroffenen Grundstücke und den von den Änderungen berührten Trägern öffentlicher Belange ist Gelegenheit zur Stellungnahme innerhalb angemessener Frist zu geben. Widersprechen die Beteiligten innerhalb der Frist den Änderungen, bedarf der Landschaftsplan der Anzeige nach § 18. Die Stellungnahmen der Beteiligten sind als Bedenken und Anregungen nach § 17 Absatz 1 Satz 4 und 6 zu behandeln.
 
+(2a) Eine durch dieses Gesetz angeordnete nachrichtliche Übernahme erfolgt im Wege der Berichtigung. Eines Änderungsverfahrens bedarf es nicht. Die berichtigte Fassung des Landschaftsplans ist ortsüblich bekannt zu machen.
+
 (3) Enthält ein Landschaftsplan Darstellungen oder Festsetzungen mit Befristung in Bereichen eines Flächennutzungsplans, für die dieser eine bauliche Nutzung vorsieht, tritt der Landschaftsplan für diese Bereiche außer Kraft, sobald ein Bebauungsplan oder eine Satzung nach § 34 Absatz 4 Satz 1 Nummer 2 des Baugesetzbuches in Kraft tritt. Entsprechendes gilt für das Außerkrafttreten von Darstellungen und Festsetzungen des Landschaftsplans bei der baurechtlichen Zulassung von Vorhaben innerhalb eines im Zusammenhang bebauten Ortsteils im Sinne des § 34 Absatz 1 des Baugesetzbuches und für Bereiche, in denen die Gemeinde durch Satzung nach § 34 Absatz 4 Satz 1 Nummer 1 des Baugesetzbuches die Grenzen für im Zusammenhang bebaute Ortsteile festlegt.
 
 (4) Bei der Aufstellung, Änderung und Ergänzung eines Flächennutzungsplans im Geltungsbereich eines Landschaftsplans treten widersprechende Darstellungen und Festsetzungen des Landschaftsplans mit dem Inkrafttreten des entsprechenden Bebauungsplans oder einer Satzung nach § 34 Absatz 4 Satz 1 Nummer 2 des Baugesetzbuches außer Kraft, soweit der Träger der Landschaftsplanung im Beteiligungsverfahren diesem Flächennutzungsplan nicht widersprochen hat. Für das Außerkrafttreten gilt Entsprechendes bei Satzungen nach § 34 Absatz 4 Satz1 Nummer 3 des Baugesetzbuches, soweit der Träger der Landschaftsplanung im Beteiligungsverfahren nach § 34 Absatz 6 Satz 1 des Baugesetzbuches nicht widersprochen hat. Dasselbe gilt auch für Berichtigungen von Flächennutzungsplänen nach § 13a Absatz 2 Nummer 2 des Baugesetzbuches, soweit der nach § 13 Absatz 2 Nummer 3 des Baugesetzbuches zu beteiligende Träger der Landschaftsplanung nicht widersprochen hat. Für die Darstellungen in Flächennutzungsplänen mit der Rechtswirkung von § 35 Absatz 3 Satz 3 des Baugesetzbuches treten die widersprechenden Darstellungen und Festsetzungen des Landschaftsplans mit dem Inkrafttreten des Flächennutzungsplans außer Kraft, soweit der Träger der Landschaftsplanung im Beteiligungsverfahren diesem Flächennutzungsplan nicht widersprochen hat.
 
 (5) Ein Landschaftsplan muss geändert oder neu aufgestellt werden, wenn sich die ihm zugrunde liegenden Ziele der Raumordnung geändert haben. In diesem Fall kann die Landesregierung eine entsprechende Änderung verlangen.
+
+> **Fußnote**
+>
+> GV. NRW. 2026 S. 763: Absatz 2a eingefügt durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par21" -->
 ## § 21 Verletzung von Verfahrens- und Formvorschriften, Mängel der Abwägung, Behebungvon Fehlern
@@ -681,19 +480,19 @@ Erfordert die Verwirklichung des Landschaftsplans Maßnahmen der land- oder fors
 <!-- norm id="par31" -->
 ## § 31 Ausgleichs- und Ersatzmaßnahmen, Ersatzgeld(zu § 15 Absatz 2, 3 und 6 des Bundesnaturschutzgesetzes)
 
-(1) Bei der Auswahl der geeigneten Ausgleichs- und Ersatzmaßnahmen sind auch Belange des Biotopverbundes, des Klimaschutzes und des Bodenschutzes zu berücksichtigen. Durch Auswahl und Kombination geeigneter Kompensationsflächen und -maßnahmen ist die Inanspruchnahme von Flächen auf das unabdingbar notwendige Maß zu beschränken. Zu den genannten Maßnahmen können auch Maßnahmen des ökologischen Landbaus bis hin zu kompletten Betriebsumstellungen gehören. Wenn kein Landschaftsplan vorliegt, ist bei der Festsetzung von Art und Lage der Ausgleichs- und Ersatzmaßnahmen der Fachbeitrag des Naturschutzes und der Landschaftspflege zur Landschaftsplanung zu berücksichtigen.
+(1) Bei der Auswahl der geeigneten Ausgleichs- und Ersatzmaßnahmen sind auch Belange des Biotopverbundes, des Klimaschutzes und des Bodenschutzes zu berücksichtigen. Durch Auswahl und Kombination geeigneter Kompensationsflächen und -maßnahmen ist die Inanspruchnahme von Flächen auf das unabdingbar notwendige Maß zu beschränken. Zu den genannten Maßnahmen können auch Maßnahmen des ökologischen Landbaus bis hin zu kompletten Betriebsumstellungen gehören. Wenn kein Landschaftsplan vorliegt, ist bei der Festsetzung von Art und Lage der Ausgleichs- und Ersatzmaßnahmen der Fachbeitrag des Naturschutzes und der Landschaftspflege zur Landschaftsplanung zu berücksichtigen. Es ist vorrangig zu prüfen, ob Ausgleichs- oder Ersatzmaßnahmen sowie Maßnahmen zur Verwendung von Ersatzgeld auf Flächen erbracht werden können, die auf Grund ihrer besonderen Eignung für die Kompensation von Eingriffen in Natur und Landschaft oder für den Einsatz von Fördermitteln im Sinne des § 9 Absatz 3 Satz 1 Nummer 4 Buchstabe c des Bundesnaturschutzgesetzes durch die Landschaftsplanung dargestellt werden.
 
 (2) Zu den in § 15 Absatz 3 Satz 2 des Bundesnaturschutzgesetzes genannten Ausgleichs- und Ersatzmaßnahmen gehören auch Maßnahmen auf wechselnden Flächen in einer hierfür zuvor festgelegten Flächenkulisse. Eine Referenzfläche ist im Grundbuch zu sichern. Beim Wechsel der Flächen darf die für die Kompensation festgesetzte Gesamtfläche nicht unterschritten werden; die festgelegte Funktion ist beizubehalten.
 
 (3) Wird im Wege des Ersatzes nach § 16 Absatz 3 Satz 2 Nummer 3 des Direktzahlungen-Durchführungsgesetzes vom 9. Juli 2014 (BGBl. I S. 897), das durch Artikel 5 des Gesetzes vom 2. Dezember 2014 (BGBl. I S. 1928) geändert worden ist, Dauergrünland neu angelegt, darf dies nicht auf Flächen erfolgen, für die im Rahmen der Kompensation von naturschutzrechtlichen Eingriffen eine Rechtsverpflichtung zur Anlage von Grünland besteht.
 
-(4) Zu den Maßnahmen des Naturschutzes und der Landschaftspflege im Sinne des § 15 Absatz 6 Satz 7 des Bundesnaturschutzgesetzes (Ersatzzahlung) können auch entsprechend geeignete Maßnahmen des ökologischen Landbaus gehören. Das Ersatzgeld ist an den Kreis oder die kreisfreie Stadt, in dem oder in der der Eingriff durchgeführt wird, zu entrichten und spätestens nach vier Jahren auch dort einzusetzen, sofern dem nicht fachliche Gründe entgegenstehen. Ansonsten ist es an die zuständige höhere Naturschutzbehörde weiter zu leiten, welche die zweckentsprechende Verwendung der Mittel veranlasst. Für die Verwendung der Ersatzgelder stellen die unteren Naturschutzbehörden Listen auf; diese können durch aktuell notwendige Maßnahmen modifiziert werden. Die Listen sind dem Naturschutzbeirat vorzustellen. Soweit das Ersatzgeld für einen Eingriff in Waldflächen zu zahlen oder zur Aufforstung von Flächen zu verwenden ist, wird es dem Landesbetrieb Wald und Holz im Sinne des § 15 Absatz 6 Satz 7 des Bundesnaturschutzgesetzes zweckgebunden zur Verfügung gestellt. Er führt die Maßnahmen im Benehmen mit der unteren Naturschutzbehörde durch.
+(4) Zu den Maßnahmen des Naturschutzes und der Landschaftspflege im Sinne des § 15 Absatz 6 Satz 7 des Bundesnaturschutzgesetzes (Ersatzzahlung) können auch entsprechend geeignete Maßnahmen des ökologischen Landbaus gehören. Das Ersatzgeld ist an den Kreis oder die kreisfreie Stadt, in dem oder in der der Eingriff durchgeführt wird, zu entrichten und spätestens nach acht Jahren auch dort einzusetzen, sofern dem nicht fachliche Gründe entgegenstehen. Ansonsten ist es an die zuständige höhere Naturschutzbehörde weiter zu leiten, welche die zweckentsprechende Verwendung der Mittel veranlasst. Für die Verwendung der Ersatzgelder stellen die unteren Naturschutzbehörden Listen auf; diese können durch aktuell notwendige Maßnahmen modifiziert werden. Die Listen sind dem Naturschutzbeirat vorzustellen. Der Landesbetrieb Wald und Holz unterrichtet die unteren Naturschutzbehörden über geeignete Maßnahmen zur Verwendung der Ersatzgelder im Wald. Soweit das Ersatzgeld für einen Eingriff in Waldflächen zu zahlen oder zur Aufforstung von Flächen zu verwenden ist, wird es dem Landesbetrieb Wald und Holz im Sinne des § 15 Absatz 6 Satz 7 des Bundesnaturschutzgesetzes zweckgebunden zur Verfügung gestellt. Er führt die Maßnahmen im Benehmen mit der unteren Naturschutzbehörde durch.
 
 (5) Beeinträchtigungen des Landschaftsbilds durch Mast- und Turmbauten von mehr als 20 Metern Höhe sind in der Regel nicht ausgleichbar oder ersetzbar im Sinne des § 15 Absatz 6 Satz 1 des Bundesnaturschutzgesetzes. Die Ersatzzahlung ergibt sich aus dem durch die Wertstufe des Landschaftsbilds vorgegebenen Zahlwert pro Meter multipliziert mit der Anlagenhöhe.
 
 (6) Die Flächeninanspruchnahme von landwirtschaftlich genutzten Flächen soll im Rahmen der Gesamtkompensation auch bei Eingriffen auf ökologisch höherwertigen Flächen möglichst nicht größer als diejenige für den Eingriff sein.
 
-(7) Bei der Inanspruchnahme von land- oder forstwirtschaftlich genutzten Flächen für Ausgleichs- und Ersatzmaßnahmen ist auf agrarstrukturelle Belange Rücksicht zu nehmen. Unter Beachtung des Funktionsbezugs ist daher bei der Auswahl von Ausgleichs- und Ersatzmaßnahmen vorrangig zu prüfen, ob eine oder mehrere der folgenden Maßnahmen möglich ist oder sind:
+(7) Bei der Inanspruchnahme von land- oder forstwirtschaftlichen Flächen für Ausgleichs- und Ersatzmaßnahmen und bei der Verwendung von Ersatzgeldern ist auf agrarstrukturelle Belange Rücksicht zu nehmen. Unter Beachtung des Funktionsbezugs ist daher bei der Auswahl von Ausgleichs- und Ersatzmaßnahmen vorrangig zu prüfen, ob eine oder mehrere der folgenden Maßnahmen möglich ist oder sind:
 
 1\. die Inanspruchnahme von Ökokontoflächen
 
@@ -723,7 +522,9 @@ e) in Wasserschutzgebieten nach § 51 Abs. 1 Satz 1 WHG, wobei die Vorgaben der 
 
 > **Fußnote**
 >
-> § 31 Absatz 1 geändert sowie Absatz 6 bis 9 angefügt durch Gesetz vom 1. Februar 2022 (GV. NRW. S. 139), in Kraft getreten am 19. Februar 2022.
+> Absatz 1 geändert sowie Absatz 6 bis 9 angefügt durch Gesetz vom 1. Februar 2022 (GV. NRW. S. 139), in Kraft getreten am 19. Februar 2022.
+>
+> GV. NRW. 2026 S. 763: Absätze 1, 4 und 7 geändert durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par32" -->
 ## § 32 Bevorratung von Kompensationsmaßnahmen(zu § 16 des Bundesnaturschutzgesetzes)
@@ -750,7 +551,7 @@ Das für Naturschutz zuständige Ministerium wird ermächtigt, durch Rechtsveror
 
 (2) Die unteren Naturschutzbehörden führen ein Ersatzgeldverzeichnis, aus dem das Datum der Entrichtung des Ersatzgeldes, der Betrag, die Maßnahme, für die es verwendet wurde, sowie das Datum des Einsatzes des Ersatzgeldes ersichtlich ist. Das Ersatzgeldverzeichnis ist den höheren Naturschutzbehörden alle vier Jahre von den unteren Naturschutzbehörden ihres Bezirks zuzuleiten.
 
-(3) Zur Umsetzung der Summationsbetrachtung nach § 34 Absatz 1 Satz 1 des Bundesnaturschutzgesetzes führen die Naturschutzbehörden ein Verzeichnis der in ihrem Zuständigkeitsbereich durchgeführten FFH-Verträglichkeitsprüfungen. Der Projektträger hat die im Sinne des § 34 Absatz 1 Satz 3 des Bundesnaturschutzgesetzes für die Summationsprüfung erforderlichen Angaben zu seinem Projekt in geeigneter Weise bereitzustellen. Die Sätze 1 und 2 sind auf Pläne im Sinne des § 36 des Bundesnaturschutzgesetzes entsprechend anzuwenden.
+(3) Zur Umsetzung der Summationsbetrachtung nach § 34 Absatz 1 Satz 1 des Bundesnaturschutzgesetzes führen die Naturschutzbehörden ein Verzeichnis der in ihrem Zuständigkeitsbereich durchgeführten FFH-Verträglichkeitsprüfungen. Das Landesamt für Natur, Umwelt und Klima stellt dazu einen Onlinedienst mit landesweit einheitlichen Online-Formularen bereit. Der Projektträger hat die gemäß § 34 Absatz 1 Satz 3 des Bundesnaturschutzgesetzes für die Summationsprüfung erforderlichen Angaben zu seinem Projekt unter Nutzung dieses Onlinedienstes elektronisch zu übermitteln. Die Sätze 1 bis 3 sind auf Pläne im Sinne des § 36 des Bundesnaturschutzgesetzes entsprechend anzuwenden.“
 
 (4) Die Verzeichnisse nach Absatz 1 bis 3 sind durch das Landesamt im Internet unter Berücksichtigung der datenschutzrechtlichen Vorgaben landesweit zentral zu veröffentlichen. Hierfür stellt das Landesamt den nach Absatz 1 bis 3 zur Führung der Verzeichnisse zuständigen Stellen einheitliche informationstechnische Systeme zur Verfügung.
 
@@ -763,6 +564,8 @@ Das für Naturschutz zuständige Ministerium wird ermächtigt, durch Rechtsveror
 > **Fußnote**
 >
 > § 34: Überschrift und Absatz 1 geändert durch Gesetz vom 1. Februar 2022 (GV. NRW. S. 139), in Kraft getreten am 19. Februar 2022; Absatz 4 geändert durch Gesetz vom 1. Februar 2022 (GV. NRW. S. 139), in Kraft getreten am 19. August 2022 (siehe Hinweis); Absatz 4 geändert durch Artikel 3 Absatz 16 des Gesetzes vom 11. März 2025 (GV. NRW. S. 288), in Kraft getreten am 1. April 2025.
+>
+> GV. NRW. 2026 S. 763: Absatz 3 neu gefasst durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par35" -->
 ## § 35 Biotopverbund(zu § 20 Absatz 1 des Bundesnaturschutzgesetzes)
@@ -845,6 +648,14 @@ Dies gilt nicht für Begleitgrün von Verkehrsanlagen. § 41 bleibt unberührt. 
 
 (1) Alleen an öffentlichen oder privaten Verkehrsflächen und Wirtschaftswegen sind gesetzlich geschützt. Die Beseitigung von Alleen sowie alle Handlungen, die zu deren Zerstörung, Beschädigung oder nachteilige Veränderung führen können, sind verboten. Pflegemaßnahmen und die bestimmungsgemäße Nutzung werden hierdurch nicht berührt.
 
+(1a) Von den Verboten des Absatzes 1 kann für Einzelbäume auf Antrag eine Ausnahme erteilt werden, wenn
+
+1\. es sich um Maßnahmen des Baus oder der Änderung von öffentlichen Straßen, Geh- oder Radwegen handelt,
+
+2\. die Beeinträchtigung des geschützten Baumbestandes im Rahmen dieser Maßnahme unvermeidbar ist und
+
+3\. ein gleichartiger Ausgleich in derselben Allee erfolgt.
+
 (2) Die Verbote des Absatzes 1 gelten nicht im Rahmen von Maßnahmen, die aus zwingenden Gründen der Verkehrssicherheit erforderlich sind und für die keine anderen Maßnahmen zur Gewährleistung der Verkehrssicherheit erfolgreich durchgeführt werden können. Sie sind der Naturschutzbehörde vorher anzuzeigen. Bei gegenwärtiger Gefahr kann die Maßnahme sofort durchgeführt werden. Sie ist der Naturschutzbehörde anschließend anzuzeigen. Kommt es aufgrund der durchgeführten Maßnahmen zu einer Bestandsminderung, sind in Abstimmung mit der Naturschutzbehörde Ersatzpflanzungen vorzunehmen.
 
 (3) Um den Alleenbestand nachhaltig zu sichern und zu entwickeln, sollen von den für die öffentlichen Verkehrsflächen zuständigen Behörden rechtzeitig und in ausreichendem Umfang Neuanpflanzungen vorgenommen werden. Andere Behörden können im Rahmen ihrer Zuständigkeit, insbesondere bei der Festsetzung von Kompensationsmaßnahmen im Rahmen der Eingriffsregelung, entsprechende Sicherungs- und Entwicklungsmaßnahmen ergreifen.
@@ -853,7 +664,9 @@ Dies gilt nicht für Begleitgrün von Verkehrsanlagen. § 41 bleibt unberührt. 
 
 > **Fußnote**
 >
-> § 41 Absatz 4 geändert durch Artikel 3 Absatz 16 des Gesetzes vom 11. März 2025 (GV. NRW. S. 288), in Kraft getreten am 1. April 2025.
+> Absatz 4 geändert durch Artikel 3 Absatz 16 des Gesetzes vom 11. März 2025 (GV. NRW. S. 288), in Kraft getreten am 1. April 2025.
+>
+> GV. NRW. 2026 S. 763: Absatz 1a eingefügt durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par42" -->
 ## § 42 Gesetzlich geschützte Biotope(zu § 30 des Bundesnaturschutzgesetzes)
@@ -874,19 +687,13 @@ Dies gilt nicht für Begleitgrün von Verkehrsanlagen. § 41 bleibt unberührt. 
 
 (3) Das für Naturschutz zuständige Ministerium wird ermächtigt, durch Rechtsverordnung nach Anhörung des zuständigen Ausschusses des Landtags Einzelheiten über das Verfahren zur Ermittlung und über die Veröffentlichung der gesetzlich geschützten Biotope festzulegen, in denen auch die landesspezifischen Besonderheiten gesetzlich geschützter Biotope beschrieben, Ausschlussmerkmale und - soweit erforderlich - Mindestgrößen für einzelne Biotoptypen festgelegt und die typischen Pflanzengesellschaften und -arten näher benannt werden.
 
-(4) Extensiv genutzte Obstbaumwiesen oder -weiden aus hochstämmigen Obstbäumen mit einer Fläche ab 2.500 Quadratmetern (Streuobstbestände) sind gesetzlich geschützt. Ausgenommen sind Bäume, die weniger als 50 Meter vom nächstgelegenen Wohngebäude oder Hofgebäude entfernt sind. Der gesetzliche Schutz tritt in Kraft, sobald die Gesamtfläche dieser Streuobstbestände im Land Nordrhein-Westfalen um mindestens 5 Prozent abgenommen hat. Durch Rechtsverordnung gemäß Absatz 3 können Einzelheiten festgelegt werden insbesondere über
-
-1\. den für Satz 3 maßgeblichen Stichtag,
-
-2\. die Feststellung der Flächenabnahme nach Satz 3 durch Verwaltungsvorschrift des für Naturschutz zuständigen Ministeriums,
-
-3\. Ausnahmen und Befreiungen,
-
-4\. Ausgleichs- und Ersatzmaßnahmen sowie die Leistung von Ersatz in Geld.
+(4) Extensiv genutzte Obstbaumwiesen oder -weiden aus hochstämmigen Obstbäumen mit einer Fläche ab 2.500 Quadratmetern (Streuobstbestände) sind gesetzlich geschützt. Ausgenommen sind Bäume, die weniger als 50 Meter vom nächstgelegenen Wohngebäude oder Hofgebäude entfernt sind.
 
 > **Fußnote**
 >
-> § 42 Absatz 2 geändert durch Artikel 3 Absatz 16 des Gesetzes vom 11. März 2025 (GV. NRW. S. 288), in Kraft getreten am 1. April 2025.
+> Absatz 2 geändert durch Artikel 3 Absatz 16 des Gesetzes vom 11. März 2025 (GV. NRW. S. 288), in Kraft getreten am 1. April 2025.
+>
+> GV. NRW. 2026 S. 763: Absatz 4 geändert durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par43" -->
 ## § 43 Schutzmaßnahmen
@@ -896,6 +703,8 @@ Dies gilt nicht für Begleitgrün von Verkehrsanlagen. § 41 bleibt unberührt. 
 (2) Innerhalb der im Zusammenhang bebauten Ortsteile und des Geltungsbereichs von Bebauungsplänen kann die untere Naturschutzbehörde in entsprechender Anwendung des § 20 Absatz 2, §§ 23, 28 und 29 des Bundesnaturschutzgesetzes Naturschutzgebiete, Naturdenkmale und geschützte Landschaftsbestandteile durch ordnungsbehördliche Verordnung ausweisen, soweit dies nicht nach Absatz 1 möglich ist.
 
 (3) Für Inhalt und Wirkung der Schutzausweisungen nach den Absätzen 1 und 2 gilt § 23 entsprechend.
+
+(3a) § 20 Absatz 2a gilt entsprechend.
 
 (4) Die Verletzung von Verfahrens- und Formvorschriften dieses Gesetzes und des Teils II Abschnitt 2 des Ordnungsbehördengesetzes in der Fassung der Bekanntmachung vom 13. Mai 1980 (GV. NRW. S. 528), das zuletzt durch Artikel 7 des Gesetzes vom 23. Juni 2021 (GV. NRW. S. 762) geändert worden ist, kann gegen ordnungsbehördliche Verordnungen über Naturschutzgebiete, Landschaftsschutzgebiete, Naturdenkmale oder geschützte Landschaftsbestandteile nach Ablauf eines Jahres nach ihrer Verkündung nicht mehr geltend gemacht werden, es sei denn,
 
@@ -907,7 +716,9 @@ Bei der Verkündung der ordnungsbehördlichen Verordnung ist auf die Rechtsfolge
 
 > **Fußnote**
 >
-> § 43 Absatz 4 geändert durch Artikel 2 des Gesetzes vom 5. März 2024 (GV. NRW. S. 156), in Kraft getreten am 16. März 2024.
+> Absatz 4 geändert durch Artikel 2 des Gesetzes vom 5. März 2024 (GV. NRW. S. 156), in Kraft getreten am 16. März 2024.
+>
+> GV. NRW. 2026 S. 763: Absatz 3a eingefügt durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par44" -->
 ## § 44 Großflächige und naturschutzfachlich bedeutsame Gebiete
@@ -927,6 +738,15 @@ Vor dem Erlass oder der Änderung einer ordnungsbehördlichen Verordnung nach de
 (2) Handelt es sich um Naturdenkmale oder geschützte Landschaftsbestandteile, so kann an die Stelle der öffentlichen Auslegung die Anhörung des Grundstückseigentümers oder der sonstigen Berechtigten treten. Dies gilt auch bei Änderungen geringen Umfangs einer ordnungsbehördlichen Verordnung nach den §§ 43 und 44 über Naturschutzgebiete und Landschaftsschutzgebiete.
 
 (3) Die für den Erlass der Verordnung zuständige Naturschutzbehörde prüft die fristgemäß oder bei der Anhörung gemäß Absatz 2 vorgebrachten Bedenken und Anregungen und teilt das Ergebnis den Betroffenen mit.
+
+<!-- norm id="par46a" -->
+## § 46a Elektronische Beteiligung
+
+Zur Beteiligung nach den §§ 45 und 46 können elektronische Informationstechnologien genutzt werden.
+
+> **Fußnote**
+>
+> GV. NRW. 2026 S. 763: § 46a eingefügt durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par47" -->
 ## § 47 Abgrenzung
@@ -996,6 +816,23 @@ Die Gemeinden können durch Satzung den Schutz des Baumbestandes innerhalb der i
 > **Fußnote**
 >
 > § 51 Absatz 1 geändert durch Artikel 3 Absatz 16 des Gesetzes vom 11. März 2025 (GV. NRW. S. 288), in Kraft getreten am 1. April 2025.
+
+<!-- norm id="par51a" -->
+## § 51a Sicherung der Natura 2000-Gebiete (zu § 32 Absatz 2, 3 und 4 des Bundesnaturschutzgesetzes)
+
+(1) Gebiete im Sinne des § 32 Absatz 2 des Bundesnaturschutzgesetzes können im Einvernehmen mit der obersten Naturschutzbehörde durch ordnungsbehördliche Verordnung der höheren Naturschutzbehörde zu geschützten Teilen von Natur und Landschaft im Sinne des § 20 Absatz 2 des Bundesnaturschutzgesetzes erklärt werden.
+
+(2) Eine Unterschutzstellung durch Verordnung im Sinne des Absatzes 1 soll unterbleiben, soweit den Anforderungen des § 32 Absatz 2 und 3 des Bundesnaturschutzgesetzes durch Ausweisung von Schutzgebieten in einem Landschaftsplan entsprochen wird oder auf andere Weise ein gleichwertiger Schutz im Sinne des § 32 Absatz 4 des Bundesnaturschutzgesetzes gewährleistet ist.
+
+(3) Festsetzungen der ordnungsbehördlichen Verordnungen nach Absatz 1 gehen Festsetzungen des Landschaftsplans vor, soweit nicht die Festsetzungen des Landschaftsplans einen weiter gehenden Schutz im Einklang mit den Maßgaben des § 32 Absatz 2 und 3 des Bundesnaturschutzgesetzes vorsehen. Im Übrigen gilt für Inhalt und Wirkung der Schutzerklärungen nach Absatz 1 § 23 Absatz 1, 3, 4 und 5 entsprechend.
+
+(4) § 43 Absatz 3a und 4 sowie die §§ 45 bis 47 gelten entsprechend.
+
+(5) Eine Verordnung im Sinne des Absatzes 1 soll aufgehoben werden, wenn durch das Inkrafttreten eines oder mehrerer Landschaftspläne den Anforderungen des § 32 Absatz 2 und 3 des Bundesnaturschutzgesetzes in Bezug auf das Gesamtgebiet entsprochen wird.
+
+> **Fußnote**
+>
+> GV. NRW. 2026 S. 763: § 51a eingefügt durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par52" -->
 ## § 52 Sicherung europäischer Vogelschutzgebiete(zu § 32 Absatz 4 des Bundesnaturschutzgesetzes)
@@ -1171,48 +1008,50 @@ Die Gemeinden können durch Satzung das Betreten von privaten Wegen sowie Grünf
 
 (1) Einer gemäß § 3 des Umwelt-Rechtsbehelfsgesetzes in der Fassung der Bekanntmachung vom 8. April 2013 (BGBl. I S. 753), das zuletzt durch Artikel 1 des Gesetzes vom 20. November 2015 (BGBl. I S. 2069) geändert worden ist, vom Land anerkannten Naturschutzvereinigung, die nach ihrer Satzung landesweit tätig ist (anerkannte Naturschutzvereinigung), ist über die in § 63 Absatz 2 des Bundesnaturschutzgesetzes genannten Fälle hinaus in den folgenden Fällen Gelegenheit zur Stellungnahme und zur Einsicht in die einschlägigen Sachverständigengutachten zu geben:
 
-1\. vor der Zulassung von Projekten oder Plänen nach § 34 Absatz 3 oder 4 sowie § 36 des Bundesnaturschutzgesetzes, bei denen die Prüfung der Verträglichkeit ergeben hat, dass sie zu erheblichen Beeinträchtigungen eines Natura 2000-Gebietes führen,
+1\. vor der Erteilung von Befreiungen und Ausnahmen von Geboten und Verboten zum Schutz von gesetzlich geschützten Biotopen,
 
-2\. vor der Erteilung von Befreiungen und Ausnahmen von Geboten und Verboten zum Schutz von gesetzlich geschützten Biotopen,
-
-3\. vor der Erteilung von Befreiungen und wesentlichen Ausnahmen von den Geboten und Verboten zum Schutz von  
+2\. vor der Erteilung von Befreiungen und wesentlichen Ausnahmen von den Geboten und Verboten zum Schutz von  
 a) geschützten Landschaftsbestandteilen,  
 b) Naturdenkmälern und  
 c) gesetzlich geschützten Alleen im Sinne dieses Gesetzes,
 
-4\. vor der Erteilung von Genehmigungen und Erlaubnissen für Abgrabungen nach § 3 des Abgrabungsgesetzes in der Fassung der Bekanntmachung vom 23. November 1979 (GV. NRW. S. 922), zuletzt geändert durch Artikel 5 des Gesetzes vom 19. Juni 2007 (GV. NRW. S. 226), nach § 55 des Bundesberggesetzes vom 13. August 1980 (BGBl. I S. 1310), das zuletzt durch Artikel 303 der Verordnung vom 31. August 2015 (BGBl I S. 1474) geändert worden ist und nach § 6 des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274), das zuletzt durch Artikel 76 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, soweit im Genehmigungsverfahren eine Umweltverträglichkeitsprüfung durchgeführt werden muss,
+3\. vor der Erteilung von Genehmigungen von Abwasserbehandlungsanlagen nach § 60 Absatz 3 Nummer 2 des Wasserhaushaltsgesetzes, Anlagen in und an Gewässern nach § 99 Absatz 1 des Landeswassergesetzes in der Fassung der Bekanntmachung vom 25. Juni 1995 (GV. NRW. S. 926), das zuletzt durch Artikel 1 des Gesetzes vom 5. März 2013 (GV. NRW. S. 133) geändert worden ist, sofern das Vorhaben mit Eingriffen in Natur und Landschaft verbunden ist,
 
-5\. vor der Erteilung von Genehmigungen von Abwasserbehandlungsanlagen nach § 60 Absatz 3 des Wasserhaushaltsgesetzes, Anlagen in und an Gewässern nach § 99 Absatz 1 des Landeswassergesetzes in der Fassung der Bekanntmachung vom 25. Juni 1995 (GV. NRW. S. 926), das zuletzt durch Artikel 1 des Gesetzes vom 5. März 2013 (GV. NRW. S. 133) geändert worden ist, sofern das Vorhaben mit Eingriffen in Natur und Landschaft verbunden ist,
+4\. vor der Erteilung von Plangenehmigungen nach § 68 Absatz 2 des Wasserhaushaltsgesetzes,
 
-6\. vor der Erteilung von Plangenehmigungen nach § 68 Absatz 2 des Wasserhaushaltsgesetzes,
-
-7\. vor der Erteilung von Erlaubnissen, Bewilligungen und gehobenen Erlaubnissen nach §§ 11 und 15 des Wasserhaushaltsgesetzes,  
+5\. vor der Erteilung von Erlaubnissen, Bewilligungen und gehobenen Erlaubnissen nach §§ 11 und 15 des Wasserhaushaltsgesetzes,  
 a) für das Entnehmen, Zutagefördern und Ableiten von Grundwasser sowie für dessen Einleitung in Gewässer, sofern eine Menge von 600 000 Kubikmetern pro Jahr überschritten wird  
 b) für das Entnehmen und Ableiten von Wasser aus oberirdischen Gewässern sowie für dessen Einleitung in Gewässer, sofern die Entnahme oder die Einleitung 5 Prozent des Durchflusses des Gewässers überschreitet,  
 c) für das Einleiten und Einbringen von Abwasser aus Abwasserbehandlungsanlagen nach § 60 Absatz 3 des Wasserhaushaltsgesetzes in ein oberirdisches Gewässer,
 
-8\. bei Erstaufforstungen und bei Waldumwandlungen nach dem Landesforstgesetz in Fällen von mehr als 3 Hektar,
+6\. bei Erstaufforstungen und bei Waldumwandlungen nach dem Landesforstgesetz in Fällen von mehr als 3 Hektar oder
 
-9\. vor der Entscheidung über die Aufhebungserklärung der höheren Naturschutzbehörde nach § 43 Absatz 1 Satz 7,
+7\. vor der Erteilung von wesentlichen Ausnahmen von Geboten und Verboten zum Schutz von Gebieten im Sinne des § 32 Absatz 2 des Bundesnaturschutzgesetzes, Natura 2000-Gebieten, Naturschutzgebieten, Nationalparken und Nationalen Naturmonumenten, auch wenn diese durch eine andere Entscheidung eingeschlossen oder ersetzt werden.
 
-10\. vor der Erteilung von wesentlichen Ausnahmen von Geboten und Verboten zum Schutz von Gebieten im Sinne des § 32 Absatz 2 des Bundesnaturschutzgesetzes, Natura 2000-Gebieten, Naturschutzgebieten, Nationalparken und Nationalen Naturmonumenten, auch wenn diese durch eine andere Entscheidung eingeschlossen oder ersetzt werden.
+(2) Sind keine oder nur geringfügige Auswirkungen auf Natur und Landschaft zu erwarten, kann von einer Mitwirkung in den Fällen des Absatzes 1 sowie des § 63 Absatz 2 des Bundesnaturschutzgesetzes abgesehen werden.
 
-(2) Sind keine oder nur geringfügige Auswirkungen auf Natur und Landschaft zu erwarten, kann von einer Mitwirkung abgesehen werden.
+> **Fußnote**
+>
+> GV. NRW. 2026 S. 763: Absatz 1 geändert und Absatz 2 neu gefasst durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par67" -->
 ## § 67 Art und Weise der Mitwirkung, Voraussetzung der Anerkennung vonNaturschutzvereinigungen(zu § 63 Absatz 3 des Bundesnaturschutzgesetzes)
 
 (1) Anerkannte Naturschutzvereinigungen sind so frühzeitig wie möglich zu beteiligen, spätestens jedoch zum Zeitpunkt der Übersendung der Unterlagen an die Naturschutzbehörden. Anerkannten Naturschutzvereinigungen werden die Unterlagen übersandt. Sie können Dritte zur Entgegennahme der Unterlagen beauftragen. Die Pflicht zur frühzeitigen Übersendung der Unterlagen wird nicht durch eine in anderen Rechtsvorschriften des Bundes oder der Länder vorgeschriebene weniger weitgehende Form der Mitwirkung ersetzt.
 
-(2) Jede anerkannte Naturschutzvereinigung erhält eine eigene Ausfertigung der Unterlagen. Die übersandten Unterlagen sollen dauerhaft bei den Naturschutzvereinigungen verbleiben, zumindest aber bis zum Abschluss eines Rechtsbehelfsverfahrens unter Beteiligung der Naturschutzvereinigung oder bis zum endgültigen Verstreichen der Rechtsbehelfsfrist nach Bekanntgabe der Entscheidung. Die Naturschutzvereinigungen erhalten dieselben Unterlagen, die auch den Naturschutzbehörden zur Stellungnahme übersandt werden, soweit diese nicht Geschäfts- oder Betriebsgeheimnisse enthalten. Werden Naturschutzbehörden nachträglich ergänzte oder geänderte Unterlagen übersandt, erhalten auch die anerkannten Naturschutzvereinigungen diese geänderten oder ergänzten Unterlagen.
+(2) Jede anerkannte Naturschutzvereinigung erhält die Unterlagen in digitaler Fassung. Die Naturschutzvereinigungen erhalten dieselben Unterlagen, die auch den Naturschutzbehörden zur Stellungnahme übersandt werden, soweit diese nicht Geschäfts- oder Betriebsgeheimnisse enthalten. Werden Naturschutzbehörden nachträglich ergänzte oder geänderte Unterlagen übersandt, erhalten auch die anerkannten Naturschutzvereinigungen diese geänderten oder ergänzten Unterlagen.
 
-(3) Werden übermittelte Informationen als Betriebs- oder Geschäftsgeheimnisse gekennzeichnet, hat die zuständige Behörde in der Regel vom Vorliegen eines Betriebs- und Geschäftsgeheimnisses auszugehen. Auf Verlangen der zuständigen Behörde haben mögliche Betroffene im Einzelnen darzulegen, dass ein Betriebs- oder Geschäftsgeheimnis vorliegt. Die Unterlagen sind in gedruckter oder digitaler Fassung zu übersenden.
+(3) Werden übermittelte Informationen als Betriebs- oder Geschäftsgeheimnisse gekennzeichnet, hat die zuständige Behörde in der Regel vom Vorliegen eines Betriebs- und Geschäftsgeheimnisses auszugehen. Auf Verlangen der zuständigen Behörde haben mögliche Betroffene im Einzelnen darzulegen, dass ein Betriebs- oder Geschäftsgeheimnis vorliegt.
 
-(4) Die Naturschutzvereinigung kann innerhalb einer Frist von einem Monat nach Übersendung der Unterlagen eine Stellungnahme abgeben. Die Frist zur Stellungnahme kann auf Antrag verlängert werden, wenn die Behörde dies für sachdienlich hält. Eine Fristverlängerung ist insbesondere sachdienlich, wenn die Unterlagen besonders umfangreich sind oder wenn sich ein Fall durch besondere Komplexität auszeichnet. Die Sätze 1 bis 3 gelten vorbehaltlich anderer Rechtsvorschriften des Bundes oder des Landes.
+(4) Die Naturschutzvereinigung kann innerhalb einer Frist von einem Monat nach Übersendung der Unterlagen eine Stellungnahme in digitaler Form abgeben. Die Frist zur Stellungnahme kann auf Antrag einmalig um bis zu einen Monat verlängert werden, wenn die Behörde dies für sachdienlich hält. Im Fall der Übersendung geänderter oder ergänzter Unterlagen im Sinne des Absatzes 2 Satz 4 kann die Frist angemessen verkürzt werden, wenn die Behörde dies für sachdienlich hält. Die Sätze 1 bis 3 gelten vorbehaltlich anderer Rechtsvorschriften des Bundes oder des Landes.
 
 (5) Endet das Verfahren durch einen Verwaltungsakt oder den Abschluss eines öffentlich-rechtlichen Vertrages, so ist den anerkannten Naturschutzvereinigungen, die im Verfahren eine Stellungnahme abgegeben haben oder einem von diesen beauftragten Dritten die Entscheidung vorbehaltlich anderer Rechtsvorschriften des Bundes oder des Landes durch Übersendung bekanntzugeben.
 
 (6) Eine Vereinigung fördert im Schwerpunkt die Ziele des Naturschutzes und der Landschaftspflege im Sinne des § 63 Absatz 1 Nummer 1 des Bundesnaturschutzgesetzes in Verbindung mit § 3 Absatz 1 Satz 3 des Umwelt-Rechtsbehelfsgesetzes, wenn diese naturschützerische Zielsetzung das eindeutig prägende Ziel der Vereinigung ist, welche durch praktische Tätigkeit belegt ist.
+
+> **Fußnote**
+>
+> GV. NRW. 2026 S. 763: Absätze 2 und 3 geändert sowie Absatz 4 neu gefasst durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par68" -->
 ## § 68 Rechtsbehelfe von anerkannten Naturschutzvereinigungen(zu § 64 Absatz 3 des Bundesnaturschutzgesetzes)
@@ -1317,7 +1156,7 @@ Bedienstete und Beauftragte der zuständigen Naturschutzbehörden sowie des Land
 <!-- norm id="par75" -->
 ## § 75 Befreiungen und Ausnahmen(zu § 67 des Bundesnaturschutzgesetzes)
 
-(1) Für die Erteilung von Befreiungen nach § 67 Absatz 1 und 2 des Bundesnaturschutzgesetzes ist die untere Naturschutzbehörde zuständig. Der Beirat bei der unteren Naturschutzbehörde kann einer beabsichtigten Befreiung mit der Folge widersprechen, dass die Vertretungskörperschaft des Kreises oder der kreisfreien Stadt oder ein von ihr beauftragter Ausschuss über den Widerspruch zu entscheiden hat. Von dem Widerspruch hat die untere Naturschutzbehörde die höhere Naturschutzbehörde zu unterrichten. Hat der Beirat nicht innerhalb von sechs Wochen eine Stellungnahme abgegeben, so kann die untere Naturschutzbehörde ohne die Stellungnahme entscheiden. Hält die Vertretungskörperschaft oder der Ausschuss den Widerspruch für berechtigt, muss die untere Naturschutzbehörde die Befreiung versagen. Hält die Vertretungskörperschaft oder der Ausschuss den Widerspruch für unberechtigt, hat die untere Naturschutzbehörde die Befreiung zu erteilen. Die Befugnisse der Aufsichtsbehörden nach § 2 Absatz 3 bleiben unberührt.
+(1) Für die Erteilung von Befreiungen nach § 67 Absatz 1 und 2 des Bundesnaturschutzgesetzes ist die untere Naturschutzbehörde zuständig. Hat der Beirat im Befreiungsverfahren nicht innerhalb von sechs Wochen eine Stellungnahme abgegeben, so kann die untere Naturschutzbehörde ohne die Stellungnahme entscheiden. Soweit die untere Naturschutzbehörde im Befreiungsverfahren beabsichtigt, von der Stellungnahme des Beirats abzuweichen, unterrichtet sie die höhere Naturschutzbehörde über die Stellungnahme des Beirats und die Gründe für die beabsichtigte Entscheidung. Die höhere Naturschutzbehörde kann innerhalb von vier Wochen eine Weisung nach Maßgabe des § 2 Absatz 3 Satz 3 und 4 erteilen.
 
 (2) Für die Befreiung von den Geboten und Verboten des § 24 ist abweichend von Absatz 1 der Landesbetrieb Wald und Holz zuständig. Er entscheidet im Einvernehmen mit der unteren Naturschutzbehörde.
 
@@ -1325,7 +1164,9 @@ Bedienstete und Beauftragte der zuständigen Naturschutzbehörden sowie des Land
 
 > **Fußnote**
 >
-> § 75 Absatz 1 geändert durch Gesetz vom 1. Februar 2022 (GV. NRW. S. 139), in Kraft getreten am 19. Februar 2022.
+> Absatz 1 geändert durch Gesetz vom 1. Februar 2022 (GV. NRW. S. 139), in Kraft getreten am 19. Februar 2022.
+>
+> GV. NRW. 2026 S. 763: Absatz 1 neu gefasst durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par76" -->
 ## § 76 Beschränkungen des Eigentums, Entschädigung
@@ -1342,7 +1183,7 @@ Bedienstete und Beauftragte der zuständigen Naturschutzbehörden sowie des Land
 
 (1) Ergänzend zu § 69 Absatz 1 bis 5 des Bundesnaturschutzgesetzes handelt ordnungswidrig, wer vorsätzlich oder fahrlässig
 
-1\. gegen die in § 4 Absatz 1 Nummer 1 bis 5 aufgeführten Verbote verstößt,
+1\. gegen die in § 4 Absatz 1 Satz 1 Nummer 1 bis 5 aufgeführten Verbote verstößt,
 
 2\. entgegen § 23 Absatz 5 Grundstücke in einer Weise nutzt, die den Festsetzungen des Landschaftsplans nach § 11 widerspricht,
 
@@ -1379,6 +1220,10 @@ Bedienstete und Beauftragte der zuständigen Naturschutzbehörden sowie des Land
 2\. entgegen § 50 Absatz 4 Kennzeichen oder Bezeichnungen verwendet, die denen nach § 50 Absatz 2 oder 3 zum Verwechseln ähnlich sind,
 
 3\. den Zutritt zu oder die Benutzung von Wegen oder Flächen, deren Betreten oder Benutzung nach den §§ 57, 58 oder 63 gestattet ist, untersagt oder tatsächlich ausschließt.
+
+> **Fußnote**
+>
+> GV. NRW. 2026 S. 763: Absatz 1 geändert durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par78" -->
 ## § 78 Geldbuße, Kostentragungspflicht des Halters einesKraftfahrzeugs, Einziehung, Zusammentreffen mit Straftaten, Verwaltungsbehörde
@@ -1442,6 +1287,8 @@ Bis zum 1. Januar 2018 gilt für das Reiten im Wald § 50 Absatz 2 des Landschaf
 
 (3) Die Landesregierung erstattet dem Landtag innerhalb von zehn Jahren nach Inkrafttreten dieses Gesetzes Bericht über die Auswirkungen des Landesnaturschutzgesetzes.
 
+(4) Die Landesregierung erstattet dem Landtag bis zum 1. Mai 2032 Bericht über die Auswirkungen des § 51a.
+
 **Neubekanntmachung**  
 (Art. VII des Gesetzes v. 3.5.2005 (GV. NRW. S. 522))
 
@@ -1456,3 +1303,7 @@ Dieses Gesetz tritt vorbehaltlich der nachfolgenden Regelungen am Tag nach der V
 § 34 Absatz 4 tritt bezüglich des Kompensations- und Ersatzgeldverzeichnisses nach Absatz 1 und 2 nach einem halben Jahr nach Inkrafttreten der Gesetzesänderung in Kraft. Bis dahin gilt § 34 Abs. 4 in der bisherigen Fassung der Bekanntmachung vom 21. Juli 2000 (GV. NRW. S. 568), neu gefasst durch Artikel 1 des Gesetzes vom 15. November 2016 (GV. NRW. S. 934), zuletzt geändert durch Artikel 2 des Gesetzes vom 26. März 2019 (GV. NRW. S. 193, ber. S. 214).
 
 Zum Zeitpunkt des Inkrafttretens laufende Verfahren nach § 75 Absatz 1 sind nach der bisher geltenden Fassung des § 75 Absatz 1 des Landesnaturschutzgesetzes - Fassung der Bekanntmachung vom 21. Juli 2000 (GV. NRW. S. 568), neu gefasst durch Artikel 1 des Gesetzes vom 15. November 2016 (GV. NRW. S. 934) - zu Ende zu führen.
+
+> **Fußnote**
+>
+> GV. NRW. 2026 S. 763: Absatz 4 angefügt durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.

@@ -1,17 +1,18 @@
 ---
 land: NW
 abkuerzung: AHaftVollzG NRW
-titel: Gesetz über den Vollzug der Abschiebungshaft in Nordrhein-Westfalen (Abschiebungshaftvollzugsgesetz Nordrhein-Westfalen - AHaftVollzG NRW)
-stand: Fassung gültig ab 17.07.2025
-gilt_ab: '2025-07-17'
-quelle: https://recht.nrw.de/lrgv/gesetz/17072025-gesetz-ueber-den-vollzug-der-abschiebungshaft-nordrhein-westfalen
+titel: Gesetz über den Vollzug der Abschiebungshaft in Nordrhein-Westfalen
+kurztitel: Abschiebungshaftvollzugsgesetz Nordrhein-Westfalen
+stand: Fassung gültig ab 30.10.2026
+gilt_ab: '2026-10-30'
+quelle: https://recht.nrw.de/lrgv/gesetz/30102026-abschiebungshaftvollzugsgesetz-nordrhein-westfalen-ahaftvollzg-nrw
 ---
 
-# Gesetz über den Vollzug der Abschiebungshaft in Nordrhein-Westfalen (Abschiebungshaftvollzugsgesetz Nordrhein-Westfalen - AHaftVollzG NRW) (AHaftVollzG NRW)
+# Gesetz über den Vollzug der Abschiebungshaft in Nordrhein-Westfalen (AHaftVollzG NRW)
 
-Stand: Fassung gültig ab 17.07.2025
+Stand: Fassung gültig ab 30.10.2026
 
-Quelle: <https://recht.nrw.de/lrgv/gesetz/17072025-gesetz-ueber-den-vollzug-der-abschiebungshaft-nordrhein-westfalen>
+Quelle: <https://recht.nrw.de/lrgv/gesetz/30102026-abschiebungshaftvollzugsgesetz-nordrhein-westfalen-ahaftvollzg-nrw>
 
 Nichtamtliche Fassung des Landesportals.
 
@@ -22,136 +23,20 @@ Vom 17. Dezember 2015
 
 (Artikel 1 des Gesetzes vom 17. Dezember 2015 (GV. NRW. S. 901))
 
-**Inhaltsübersicht**
-
-§ 1 Abschiebungshaft, Einrichtungen
-
-§ 2 Grundsätze der Vollzugsgestaltung
-
-§ 3 Aufnahme
-
-§ 4 Zugangsverfahren
-
-§ 5 Unterbringung
-
-§ 6 Bewegungsfreiheit
-
-§ 7 Betreuung und Beratung
-
-§ 8 Arbeit, Verpflegung, Einkauf
-
-§ 9 Bargeld, Eigengeld, Kleidung, persönlicher Bereich
-
-§ 10 Raucherbereiche
-
-§ 11 Ruhezeit, Einschluss
-
-§ 12 Freizeit und Sport
-
-§ 13 Seelsorgliche Betreuung, Religionsausübung
-
-§ 14 Besuche
-
-§ 15 Schriftverkehr, Pakete und Geschenke
-
-§ 16 Telefonie, Telekommunikation
-
-§ 17 Bezug von Zeitungen, Mediennutzung
-
-§ 18 Verhaltensregeln
-
-§ 19 Ordnungsmaßnahmen
-
-§ 20 Unterbringung in besonderen Fällen
-
-§ 21 Durchsuchung
-
-§ 22 Besondere Sicherungsmaßnahmen
-
-§ 23 Unterbringung in einem besonders gesicherten Raum
-
-§ 24 Fesselung, Fixierung
-
-§ 25 Verlegung in einen anderen Gewahrsamstrakt, Beobachtung während des Einschlusses
-
-§ 26 Gefahr im Verzug
-
-§ 27 Erläuterung und Dokumentation besonderer Sicherungsmaßnahmen
-
-§ 28 Unmittelbarer Zwang
-
-§ 29 Schusswaffenverbot
-
-§ 30 Medizinische Versorgung
-
-§ 31 Entlassung aus der Haft
-
-§ 32 Beschwerderecht
-
-§ 33 Beirat Abschiebungshaft
-
-§ 34 Dokumentation, Akteneinsicht
-
-§ 35 Dienstrechtliche Bestimmungen
-
-§ 36 Anwendung der Datenschutzgrundverordnung und des Datenschutzgesetzes Nordrhein-Westfalen
-
-§ 37 Begriffsbestimmungen
-
-§ 38 Datengeheimnis
-
-§ 39 Zulässigkeit der Datenerhebung
-
-§ 40 Erhebung und Verwendung von Daten über Untergebrachte bei nicht-öffentlichen Stellen
-
-§ 41 Erhebung von Daten über Personen, die nicht Untergebrachte sind
-
-§ 42 Verarbeitung innerhalb der Unterbringungseinrichtung
-
-§ 43 Übermittlung an öffentliche Stellen
-
-§ 44 Datenerhebung und Datenübermittlung bei Vorinhaftierungen
-
-§ 45 Datenübermittlung an nicht öffentliche Stellen
-
-§ 46 Haftmitteilungen an öffentliche Stellen
-
-§ 47 Überlassung von Akten
-
-§ 48 Erkennungsdienstliche Maßnahmen, Identitätsfeststellungsverfahren
-
-§ 49 Identifikation einrichtungsfremder Personen
-
-§ 50 Einsatz von Videotechnik
-
-§ 51 Optisch-elektronische Einrichtungen im Umfeld der Unterbringungseinrichtung
-
-§ 52 Elektronische Aktenführung
-
-§ 53 Erkenntnisse aus Beaufsichtigungen
-
-§ 54 Schutz besonderer Kategorien personenbezogener Daten
-
-§ 55 Benachrichtigung und Auskunft der betroffenen Personen
-
-§ 56 Löschungsfrist
-
-§ 57 Ausführungsbestimmungen
-
-§ 58 Einschränkung von Grundrechten
-
-§ 59 Inkrafttreten, Berichtspflicht
-
-> **Fußnote**
->
-> Inhaltsübersicht und § 1 neu gefasst durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
-
 <!-- norm id="par1" -->
 ## § 1 Abschiebungshaft, Einrichtungen
 
-(1) Freiheitsentziehende Maßnahmen nach den Vorschriften des Aufenthaltsgesetzes in der Fassung der Bekanntmachung vom 25. Februar 2008 (BGBl. I S. 162) in der jeweils geltenden Fassung (Abschiebungshaft als Vorbereitungs- und Sicherungshaft und Ausreisegewahrsam), Inhaftnahmen nach § 57 Absatz 3 des Aufenthaltsgesetzes (Zurückschiebungshaft) und nach § 15 Absatz 5 des Aufenthaltsgesetzes (Zurückweisungshaft) sowie die Inhaftnahme zum Zwecke der Überstellung nach Artikel 28 der Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (ABl. L 180 vom 29.6.2013, S. 31), werden in besonderen speziellen Abschiebungshafteinrichtungen (Unterbringungseinrichtungen) vollzogen.
+(1) Folgende freiheitsentziehende Maßnahmen werden in besonderen speziellen Abschiebungshafteinrichtungen (Unterbringungseinrichtungen) vollzogen:
 
-Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definierte, das Fehlen von Haftalternativen voraussetzende Abschiebungshaft dient ausschließlich dem Zweck, richterliche Haftanordnungen nach den Vorschriften des Aufenthaltsgesetzes zu vollziehen.
+1\. Zurückschiebungshaft nach § 57 Absatz 3 des Aufenthaltsgesetzes in der Fassung der Bekanntmachung vom 25. Februar 2008 (BGBl. I S. 162), das zuletzt durch Artikel 13 des Gesetzes vom 22. Juli 2026 (BGBl. 2026 I Nr. 222) geändert worden ist, in der jeweils geltenden Fassung,  
+2\. Abschiebungshaft als Vorbereitungs- und Sicherungshaft,  
+3\. Zurückweisungshaft nach § 15 Absatz 5 des Aufenthaltsgesetzes,  
+4\. Überprüfungshaft an den Außengrenzen und im Bundesgebiet nach den §§ 14a und 15b des Aufenthaltsgesetzes,  
+5\. Asylverfahrenshaft nach § 69 des Asylgesetzes in der Fassung der Bekanntmachung vom 2. September 2008 (BGBl. I S. 1798), das zuletzt durch Artikel 10 des Gesetzes vom 21. Juli 2026 (BGBl. 2026 I Nr. 221) geändert worden ist, in der jeweils geltenden Fassung,  
+6\. Haft im Rückkehrgrenzverfahren nach § 70b des Asylgesetzes sowie  
+7\. Inhaftnahme zum Zwecke der Überstellung nach der Verordnung (EU) 2024/1351 vom 14. Mai 2024 (ABl. L, 2024/1351, 22.5.2024; L, 2025/90929, 25.11.2025).
+
+Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definierte, das Fehlen von Haftalternativen voraussetzende Abschiebungshaft dient ausschließlich dem Zweck, richterliche Haftanordnungen nach den Vorschriften des Aufenthaltsgesetzes zu vollziehen. Dieses Gesetz findet auf den Vollzug des Ausreisegewahrsams im Sinne des § 62b des Aufenthaltsgesetzes in der jeweils gültigen Fassung entsprechende Anwendung.
 
 (2) Beim Vollzug von freiheitsentziehenden Maßnahmen werden folgende Aufgaben erfüllt:
 
@@ -169,7 +54,9 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> Inhaltsübersicht und § 1 neu gefasst durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> Neu gefasst durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+>
+> GV. NRW. 2026 S. 770: Absatz 1 geändert durch Artikel 1 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par2" -->
 ## § 2 Grundsätze der Vollzugsgestaltung
@@ -184,7 +71,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> Absatz 3 neu gefasst und Absatz 4 angefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par3" -->
 ## § 3 Aufnahme
@@ -201,7 +88,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 3: Absatz 2 neu gefasst, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4, Absätze 4 bis 6 (alt) aufgehoben, Absatz 7 (alt) wird Absatz 5 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; Absatz 2 geändert durch Artikel 13 des Gesetzes vom 1. Februar 2022 (GV. NRW. S. 122), in Kraft getreten am 19. Februar 2022.
+> Absatz 2 neu gefasst, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4, Absätze 4 bis 6 (alt) aufgehoben, Absatz 7 (alt) wird Absatz 5 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; Absatz 2 geändert durch Artikel 13 des Gesetzes vom 1. Februar 2022 (GV. NRW. S. 122), in Kraft getreten am 19. Februar 2022.
 
 <!-- norm id="par4" -->
 ## § 4 Zugangsverfahren
@@ -216,7 +103,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 4 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; Absatz 3, § 19 Absatz geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
 
 <!-- norm id="par5" -->
 ## § 5 Unterbringung
@@ -233,7 +120,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 4 (alt) wird § 5 und Absatz 2 neu gefasst durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par6" -->
 ## § 6 Bewegungsfreiheit
@@ -246,7 +133,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par7" -->
 ## § 7 Betreuung und Beratung
@@ -259,7 +146,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 6 (alt) wird § 7 geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; Absatz 2 zuletzt geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 6 (alt) wird § 7 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; Absatz 2 zuletzt geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
 
 <!-- norm id="par8" -->
 ## § 8 Arbeit, Verpflegung, Einkauf
@@ -293,7 +180,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par10" -->
 ## § 10 Raucherbereiche
@@ -304,9 +191,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
->
-> § 10 (alt) und §§ 33 (alt) und 34 (alt) aufgehoben durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 9 (alt) wird § 10 und § 10 (alt) aufgehoben durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par11" -->
 ## § 11 Ruhezeit, Einschluss
@@ -317,7 +202,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par12" -->
 ## § 12 Freizeit und Sport
@@ -332,7 +217,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> Absatz 4 angefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par13" -->
 ## § 13 Seelsorgliche Betreuung, Religionsausübung
@@ -357,7 +242,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> Absatz 4 neu gefasst durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par14" -->
 ## § 14 Besuche
@@ -374,7 +259,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> Absätze 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par15" -->
 ## § 15 Schriftverkehr, Pakete und Geschenke
@@ -391,7 +276,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> Absätze 1, 2 und 3 geändert und Absatz 4 neu gefasst durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par16" -->
 ## § 16 Telefonie, Telekommunikation
@@ -406,7 +291,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4 durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par17" -->
 ## § 17 Bezug von Zeitungen, Mediennutzung
@@ -421,7 +306,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par18" -->
 ## § 18 Verhaltensregeln
@@ -432,7 +317,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> Absatz 1 geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par19" -->
 ## § 19 Ordnungsmaßnahmen
@@ -475,7 +360,7 @@ Die nach § 62 Absatz 1 des Aufenthaltsgesetzes als äußerstes Mittel definiert
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 19 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; Absätze 1 und 2, geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
 
 <!-- norm id="par20" -->
 ## § 20 Unterbringung in besonderen Fällen
@@ -516,7 +401,7 @@ können von der Leitung der Einrichtung Einschränkungen der ihnen durch dieses 
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 20 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; Absätze 1 und 3 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
 
 <!-- norm id="par21" -->
 ## § 21 Durchsuchung
@@ -531,7 +416,7 @@ können von der Leitung der Einrichtung Einschränkungen der ihnen durch dieses 
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 19 (alt) wird § 21 und Absatz 3 geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par22" -->
 ## § 22 Besondere Sicherungsmaßnahmen
@@ -552,7 +437,7 @@ Gegenüber Untergebrachten können folgende besondere Sicherungsmaßnahmen nach 
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 20 (alt) wird § 22 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par23" -->
 ## § 23 Unterbringung in einem besonders gesicherten Raum
@@ -569,7 +454,7 @@ Gegenüber Untergebrachten können folgende besondere Sicherungsmaßnahmen nach 
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 21 (alt) wird § 23 durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par24" -->
 ## § 24 Fesselung, Fixierung
@@ -600,7 +485,7 @@ Gegenüber Untergebrachten können folgende besondere Sicherungsmaßnahmen nach 
 
 > **Fußnote**
 >
-> § 22 (alt) wird § 24 durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 24 neu gefasst durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 22 (alt) wird § 24 durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; neu gefasst durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
 
 <!-- norm id="par25" -->
 ## § 25 Verlegung in einen anderen Gewahrsamstrakt, Beobachtung während desEinschlusses
@@ -609,7 +494,7 @@ Die Leitung einer Einrichtung kann die Verlegung in einen anderen Gewahrsamstrak
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 23 (alt) wird § 25 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par26" -->
 ## § 26 Gefahr im Verzug
@@ -618,7 +503,7 @@ Bei Gefahr im Verzug können besondere Sicherungsmaßnahmen nach den §§ 23 bis
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 24 (alt) wird § 26 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par27" -->
 ## § 27 Erläuterung und Dokumentation besonderer Sicherungsmaßnahmen
@@ -627,7 +512,7 @@ Besondere Sicherungsmaßnahmen nach §§ 21 bis 23 sollen den Untergebrachten zu
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 25 (alt) wird § 27 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par28" -->
 ## § 28 Unmittelbarer Zwang
@@ -636,7 +521,7 @@ Für die Anwendung unmittelbaren Zwanges durch Bedienstete der Einrichtungen gel
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 26 (alt) wird §§ 28 u durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par29" -->
 ## § 29 Schusswaffenverbot
@@ -645,7 +530,7 @@ Im Inneren der Einrichtung ist das Vorhalten und der Gebrauch von Schusswaffen d
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 27 (alt) wird § 29 durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par30" -->
 ## § 30 Medizinische Versorgung
@@ -668,7 +553,7 @@ Im Inneren der Einrichtung ist das Vorhalten und der Gebrauch von Schusswaffen d
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8 durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par31" -->
 ## § 31 Entlassung aus der Haft
@@ -677,7 +562,7 @@ Untergebrachte, die aus der Haft im Sinne von § 1 im Sinne des § 1 entlassen w
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 29 (alt) wird § 31 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par32" -->
 ## § 32 Beschwerderecht
@@ -690,7 +575,7 @@ Untergebrachte, die aus der Haft im Sinne von § 1 im Sinne des § 1 entlassen w
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 30 (alt) wird § 32 durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par33" -->
 ## § 33 Beirat Abschiebungshaft
@@ -725,7 +610,7 @@ Untergebrachte, die aus der Haft im Sinne von § 1 im Sinne des § 1 entlassen w
 
 > **Fußnote**
 >
-> § 31 Absatz 1, 4, 7 und 12, § 33 und geändert durch Artikel 3 des Gesetzes vom 23. Januar 2018 (GV. NRW. S. 90), in Kraft getreten am 2. Februar 2018; § 31 (alt) wird § 33 und Absatz 1, 4, 7 und 12 geändert und Absatz 14 angefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 33 Absatz 5 geändert durch Artikel 13 des Gesetzes vom 1. Februar 2022 (GV. NRW. S. 122), in Kraft getreten am 19. Februar 2022.
+> § 31 (alt) wird § 33 und Absatz 1, 4, 7 und 12 geändert und Absatz 14 angefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; Absatz 5 geändert durch Artikel 13 des Gesetzes vom 1. Februar 2022 (GV. NRW. S. 122), in Kraft getreten am 19. Februar 2022.
 
 <!-- norm id="par34" -->
 ## § 34 Dokumentation, Akteneinsicht
@@ -738,9 +623,9 @@ Untergebrachte, die aus der Haft im Sinne von § 1 im Sinne des § 1 entlassen w
 
 > **Fußnote**
 >
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> § 32 (alt) wird § 34 und Absatz 2 neu gefasst durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 >
-> § 10 (alt) und §§ 33 (alt) und 34 (alt) aufgehoben durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+> §§ 33 (alt) und 34 (alt) aufgehoben durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par35" -->
 ## § 35 Dienstrechtliche Bestimmungen
@@ -769,7 +654,7 @@ Untergebrachte, die aus der Haft im Sinne von § 1 im Sinne des § 1 entlassen w
 
 > **Fußnote**
 >
-> § 35: Absatz 5 geändert durch Artikel 3 des Gesetzes vom 23. Januar 2018 (GV. NRW. S. 90), in Kraft getreten am 2. Februar 2018; Absatz 1 neu gefasst, Absätze 2, 3, 4 und 5 geändert und Absätze 6 und 7 angefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; Absatz 7 neu gefasst durch Gesetz vom 10. Juli 2025 (GV. NRW. S. 643), in Kraft getreten am 17. Juli 2025.
+> Absatz 5 geändert durch Artikel 3 des Gesetzes vom 23. Januar 2018 (GV. NRW. S. 90), in Kraft getreten am 2. Februar 2018; Absatz 1 neu gefasst, Absätze 2, 3, 4 und 5 geändert und Absätze 6 und 7 angefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; Absatz 7 neu gefasst durch Gesetz vom 10. Juli 2025 (GV. NRW. S. 643), in Kraft getreten am 17. Juli 2025.
 
 <!-- norm id="par36" -->
 ## § 36 Anwendung der Datenschutzgrundverordnungund des Datenschutzgesetzes Nordrhein-Westfalen
@@ -778,7 +663,7 @@ Soweit in den Vorschriften des Aufenthaltsgesetzes, des Datenschutzgesetzes Nord
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 36 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par37" -->
 ## § 37 Begriffsbestimmungen
@@ -813,7 +698,7 @@ natürliche und juristische Personen, Gesellschaften, Flüchtlingsorganisationen
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 37 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par38" -->
 ## § 38 Datengeheimnis
@@ -824,7 +709,7 @@ natürliche und juristische Personen, Gesellschaften, Flüchtlingsorganisationen
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 38 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par39" -->
 ## § 39 Zulässigkeit der Datenerhebung
@@ -837,7 +722,7 @@ natürliche und juristische Personen, Gesellschaften, Flüchtlingsorganisationen
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 39 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par40" -->
 ## § 40 Erhebung und Verwendung von Daten über Untergebrachte bei nicht-öffentlichenStellen
@@ -852,7 +737,7 @@ Für die Erhebung und Verarbeitung von personenbezogenen Daten besonderer Katego
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 40 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par41" -->
 ## § 41 Erhebung von Daten über Personen, die nicht Untergebrachte sind
@@ -861,7 +746,7 @@ Daten über Personen, die nicht Untergebrachte sind, dürfen ohne ihre Einwillig
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 41 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par42" -->
 ## § 42 Verarbeitung innerhalb der Unterbringungseinrichtung
@@ -872,7 +757,7 @@ Daten über Personen, die nicht Untergebrachte sind, dürfen ohne ihre Einwillig
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 42 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par43" -->
 ## § 43 Übermittlung an öffentliche Stellen
@@ -891,7 +776,7 @@ oder im Fall besonders schützenswerter personenbezogener Daten unter den Voraus
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 43 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par44" -->
 ## § 44 Datenerhebung und Datenübermittlung bei Vorinhaftierungen
@@ -900,7 +785,7 @@ Bei Vorinhaftierungen in Nordrhein-Westfalen übermittelt die Justizvollzugsbeh�
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 44 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par45" -->
 ## § 45 Datenübermittlung an nicht öffentliche Stellen
@@ -915,7 +800,7 @@ Bei Vorinhaftierungen in Nordrhein-Westfalen übermittelt die Justizvollzugsbeh�
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 45 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par46" -->
 ## § 46 Haftmitteilungen an öffentliche Stellen
@@ -924,7 +809,7 @@ Eine Unterbringungseinrichtung darf öffentlichen Stellen auf schriftlichen Antr
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 46 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par47" -->
 ## § 47 Überlassung von Akten
@@ -947,7 +832,7 @@ Eine Unterbringungseinrichtung darf öffentlichen Stellen auf schriftlichen Antr
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 47 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par48" -->
 ## § 48 Erkennungsdienstliche Maßnahmen, Identitätsfeststellungsverfahren
@@ -968,7 +853,7 @@ sofern diese Daten für die Aufgabenerfüllung nach §1 Absatz 2 erforderlich si
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 48 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par49" -->
 ## § 49 Identifikation einrichtungsfremder Personen
@@ -977,7 +862,7 @@ Das Betreten der Unterbringungseinrichtung durch einrichtungsfremde Personen ist
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 49 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par50" -->
 ## § 50 Einsatz von Videotechnik
@@ -998,7 +883,7 @@ Das Betreten der Unterbringungseinrichtung durch einrichtungsfremde Personen ist
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 50 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par51" -->
 ## § 51 Optisch-elektronische Einrichtungen im Umfeld der Unterbringungseinrichtung
@@ -1009,7 +894,7 @@ Das Betreten der Unterbringungseinrichtung durch einrichtungsfremde Personen ist
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 51 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par52" -->
 ## § 52 Elektronische Aktenführung
@@ -1018,7 +903,7 @@ Personalakten der Untergebrachten, Gesundheitsakten oder sonstige Akten können 
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 52 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par53" -->
 ## § 53 Erkenntnisse aus Beaufsichtigungen
@@ -1033,7 +918,7 @@ oder der Abwehr einer Gefahr für die öffentlichen Sicherheit verarbeitet werde
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 53 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par54" -->
 ## § 54 Schutz besonderer Kategorien personenbezogener Daten
@@ -1056,7 +941,7 @@ oder der Abwehr einer Gefahr für die öffentlichen Sicherheit verarbeitet werde
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 54 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
 
 <!-- norm id="par55" -->
 ## § 55 Benachrichtigung und Auskunft der betroffenen Personen
@@ -1071,7 +956,7 @@ oder der Abwehr einer Gefahr für die öffentlichen Sicherheit verarbeitet werde
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 55 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par56" -->
 ## § 56 Löschungsfrist
@@ -1080,7 +965,7 @@ Personenbezogene Daten sind drei Jahre nach der vollzogenen Abschiebung, Zurück
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 56 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par57" -->
 ## § 57 Ausführungsbestimmungen
@@ -1089,7 +974,7 @@ Das für Ausländer- und Asylangelegenheiten zuständige Ministerium wird ermäc
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 57 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par58" -->
 ## § 58 Einschränkung von Grundrechten
@@ -1098,12 +983,19 @@ Durch dieses Gesetz werden das Grundrecht auf informationelle Selbstbestimmung u
 
 > **Fußnote**
 >
-> § 4, § 19, § 20 und §§ 36 bis 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018; § 4 Absatz 3, § 19 Absatz 1 und 2, § 20 Absatz 1 und 3 sowie § 54 Absatz 2 geändert durch Gesetz vom 12. Juli 2019 (GV. NRW. S. 365), in Kraft getreten am 24. Juli 2019.
+> § 58 eingefügt durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
 
 <!-- norm id="par59" -->
 ## § 59 Inkrafttreten, Berichtspflicht
 
 Dieses Gesetz tritt am 1. Januar 2016 in Kraft. Die Landesregierung berichtet dem Landtag bis zum 31. Dezember 2022 über die Auswirkungen dieses Gesetzes.
+
+> **Fußnote**
+>
+> § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.
+
+<!-- norm id="schlussformel" -->
+## Schlussformel
 
 Die Landesregierung  
 Nordrhein-Westfalen
@@ -1119,7 +1011,3 @@ für Inneres und Kommunales
 
 Die Ministerin  
 für Gesundheit, Emanzipation, Pflege und Alter
-
-> **Fußnote**
->
-> § 2 Absatz 3 neu gefasst und Absatz 4 angefügt, § 4 (alt) wird § 5 und Absatz 2 neu gefasst, § 5 (alt) wird § 6 und Absatz 1 neu gefasst und Absatz 3 angefügt, § 8 (alt) wird § 9 und Absatz 1, 3 und 4 geändert und Absatz 2 neu gefasst, § 9 (alt) wird § 10, § 11 Überschrift und Absatz 2 geändert und Absatz 1 neu gefasst, § 12 Absatz 4 angefügt, § 13 Absatz 4 neu gefasst, § 14 Absatz 1, 3, 4 und 5 geändert, Absatz 2 neu gefasst und Absatz 6 aufgehoben, § 15 Absatz 1, 2 und 3 geändert und Absatz 4 neu gefasst, § 16 Absatz 2 neu gefasst, Absatz 3 eingefügt und Absatz 3 (alt) wird Absatz 4, § 17 Absatz 1 geändert, Absatz 2 aufgehoben, Absätze 3 und 4 (alt) werden Absätze 2 und 3 und Absatz 5 (alt) wird Absatz 4 und neu gefasst, § 18 Absatz 1 geändert, § 19 (alt) wird § 21 und Absatz 3 geändert, § 20 (alt) wird § 22 und geändert, § 21 (alt) wird § 23, § 23 (alt) wird § 25 und geändert, § 24 (alt) wird § 26 und geändert, § 25 (alt) wird § 27 und geändert, §§ 26 (alt) und 27 (alt) werden die §§ 28 und 29, § 28 (alt) wird § 30 und Absatz 1 geändert, Absatz 3 eingefügt, Absatz 3 (alt) wird Absatz 4 und neu gefasst, Absatz 4 (alt) wird Absatz 5, Absatz 5 (alt) wird Absatz 6 und geändert, Absatz 6 (alt) wird Absatz 7 und geändert und Absatz 7 (alt) wird Absatz 8, § 29 (alt) wird § 31 und geändert, § 30 (alt) wird § 32, § 32 (alt) wird § 34 und Absatz 2 neu gefasst sowie § 36 (alt) wird § 59 und geändert durch Gesetz vom 18. Dezember 2018 (GV. NRW. S. 770), in Kraft getreten am 29. Dezember 2018.

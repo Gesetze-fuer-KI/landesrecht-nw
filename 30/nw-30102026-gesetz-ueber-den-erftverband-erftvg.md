@@ -1,29 +1,22 @@
 ---
 land: NW
 abkuerzung: ErftVG
-titel: Bekanntmachung der Neufassung des Gesetzes über den Erftverband (ErftVG)
-stand: Fassung gültig ab 19.02.2022
-gilt_ab: '2022-02-19'
-quelle: https://recht.nrw.de/lrgv/gesetz/19022022-bekanntmachung-der-neufassung-des-gesetzes-ueber-den-erftverband-erftvg
+titel: Gesetz über den Erftverband (ErftVG)
+stand: Fassung gültig ab 30.10.2026
+gilt_ab: '2026-10-30'
+quelle: https://recht.nrw.de/lrgv/gesetz/30102026-gesetz-ueber-den-erftverband-erftvg
 ---
 
-# Bekanntmachung der Neufassung des Gesetzes über den Erftverband (ErftVG) (ErftVG)
+# Gesetz über den Erftverband (ErftVG) (ErftVG)
 
-Stand: Fassung gültig ab 19.02.2022
+Stand: Fassung gültig ab 30.10.2026
 
-Quelle: <https://recht.nrw.de/lrgv/gesetz/19022022-bekanntmachung-der-neufassung-des-gesetzes-ueber-den-erftverband-erftvg>
+Quelle: <https://recht.nrw.de/lrgv/gesetz/30102026-gesetz-ueber-den-erftverband-erftvg>
 
 Nichtamtliche Fassung des Landesportals.
 
 <!-- norm id="eingangsformel" -->
 ## Eingangsformel
-
-> **Fußnote**
->
-> § 30 zuletzt geändert durch Art. 5 d. Gesetzes v. 7. 3. 1995 (GV. NW. S. 248); in Kraft getreten am 1. Juli 1995.
-
-<!-- norm id="ohnebezeichnung" -->
-## (ohne Bezeichnung)
 
 **Vom 3. Januar 1986**
 
@@ -59,92 +52,11 @@ des Landes Nordrhein-Westfalen
 
 **Vom 3. Januar 1986**
 
-Inhaltsverzeichnis
-
-|  |  |
-|---|---|
-| **Erster Teil**<br>**Allgemeines** |  |
-| § 1 | Rechtsform und Sitz |
-| **Zweiter Teil**<br>**Aufgaben, Unternehmen, Übersichten** |  |
-| § 2 | Aufgaben des Verbandes |
-| § 3 | Unternehmen des Verbandes, Übersichten |
-| § 4 | Übernahme von Aufgaben und Anlagen |
-| **Dritter Teil**<br>**Verbandsgebiet, Mitgliedschaft** |  |
-| § 5 | Verbandsgebiet |
-| § 6 | Mitglieder des Verbandes |
-| **Vierter Teil**<br>**Befugnisse** |  |
-| § 7 | Befugnisse des Verbandes |
-| § 8 | Benutzung von Grundstücken und Anlagen der Mitglieder |
-| § 9 | Benutzung von Grundstücken zu Beobachtungen und Vorbereitungen |
-| § 10 | Enteignung |
-| § 11 | Eingriffe in das Grundwasser, wasserwirtschaftliche Maßnahmen |
-| § 12 | Zusammenarbeit mit dem Braunkohlenausschuß |
-| **Fünfter Teil**<br>**Innere Verfassung** |  |
-| § 13 | Selbstverwaltung, Verbandsorgane |
-| § 14 | Satzung |
-| § 15 | Delegiertenversammlung |
-| § 16 | Delegierte in der Delegiertenversammlung |
-| § 17 | entfallen |
-| § 18 | entfallen |
-| § 19 | entfallen |
-| § 20 | entfallen |
-| § 21 | entfallen |
-| § 22 | Sitzungen der Delegiertenversammlung, Beschlußfassung |
-| § 23 | Aufgaben der Delegiertenversammlung |
-| § 24 | Zusammensetzung, Wahl und Amtszeit des Verbandsrates |
-| § 25 | Aufgaben des Verbandsrates |
-| § 26 | Sitzungen des Verbandsrates, Beschlußfassung |
-| § 27 | Vorstand |
-| § 28 | Aufgaben des Vorstandes |
-| § 29 | Vertretung des Verbandes |
-| **Sechster Teil**<br>**Finanzplanung, Wirtschaftsführung und Rechnungswesen, Beiträge** |  |
-| § 30 | (weggefallen) |
-| § 30a | Wirtschaftsplan, Finanzplanung |
-| § 31 | Über- und außerplanmäßige Ausgaben |
-| § 32 | Rücklagen, Rechnungs- und Prüfungswesen, Wirtschaftsführung |
-| § 33 | Beiträge |
-| § 34 | Beitragsmaßstab |
-| § 35 | Veranlagung |
-| § 36 | entfallen |
-| § 37 | Beitragslast des Braunkohlenbergbaues |
-| § 38 | Rücklage des Verbandes aus Beiträgen des Braunkohlenbergbaues |
-| § 39 | Beitragslast des Braunkohlenbergbaues für die Sicherung der Wasserversorgung |
-| § 40 | Rechtliche Eigenschaften der Beiträge, Zwangsvollstreckung |
-| **Siebenter Teil**<br>**Spruchausschuß** |  |
-| § 41 | Spruchausschuß |
-| § 42 | Aufgaben des Spruchausschusses |
-| § 43 | Verfahrensordnung |
-| § 44 | Kosten des Verfahrens |
-| **Achter Teil**<br>**Entschädigung** |  |
-| § 45 | Entschädigung |
-| **Neunter Teil**<br>**Ordnungsgewalt, Zwangsmaßnahmen** |  |
-| § 46 | Pflichten der Verbandsmitglieder |
-| § 47 | Zwangsmittel |
-| § 48 | Rechtsbehelfe |
-| § 49 | Vollstreckungsbehörde |
-| **Zehnter Teil**<br>**Bekanntmachungen, Verordnungen, Auskunft** |  |
-| § 50 | Bekanntmachungen |
-| § 51 | Verordnungen zum Schutze des Unternehmens |
-| § 52 | Auskunft |
-| § 53 | Staatliche Zwangsbefugnisse |
-| **Elfter Teil**<br>**Rechtsaufsicht** |  |
-| § 54 | Aufsicht |
-| § 55 | Teilnahme an Sitzungen, Unterrichtung der Aufsichtsbehörde |
-| § 56 | Anordnung und Aufhebung von Maßnahmen |
-| § 57 | Beauftragte oder Beauftragter der Aufsichtsbehörde |
-| § 58 | Genehmigung von Geschäften |
-| **Zwölfter Teil**<br>**Auflösung, Übergangsvorschrift, Inkrafttreten** |  |
-| § 59 | (weggefallen) |
-| § 60 | Auflösung |
-| § 61 | Übergangsvorschrift |
-| § 62 | Inkrafttreten |
+<!-- norm id="ohnebezeichnung" -->
+## (ohne Bezeichnung)
 
 **Erster Teil**  
 **Allgemeines**
-
-> **Fußnote**
->
-> Inhaltsübersicht, Überschrift des Sechsten Teils und Überschrift des Zwölften Teils geändert sowie § 1, § 2, § 3, § 4, § 6, § 14, § 15, § 23, § 25, § 27, § 28, § 32, § 33, § 35, § 40, § 41, § 54, § 56, § 58 und § 62 zuletzt geändert durch Artikel 6 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
 
 <!-- norm id="par1" -->
 ## § 1 Rechtsform und Sitz
@@ -179,51 +91,55 @@ Inhaltsverzeichnis
 
 6\. Vermeidung, Minderung, Beseitigung und Ausgleich wasserwirtschaftlicher und damit in Zusammenhang stehender ökologischer, durch Einwirkungen auf den Grundwasserstand, insbesondere durch den Braunkohlenabbau hervorgerufener oder zu erwartender nachteiliger Veränderungen;
 
-7\. Beschaffung und Bereitstellung von Wasser zur Sicherung der gegenwärtigen und künftigen Versorgung der Bevölkerung und der Wirtschaft sowie Förderung von Maßnahmen zur Minderung des Wasserverbrauchs;
+7\. Maßnahmen des Hochwasserschutzes an oberirdischen Gewässern, auch wenn dem Verband nicht die Gewässerunterhaltung, der Ausgleich der Wasserführung und der Gewässerausbau obliegen;
 
-8\. Abwasserbeseitigung nach Maßgabe des Landeswassergesetzes;
+8\. Koordinierung der Zusammenarbeit im Bereich des Hochwasserschutzes;
 
-9\. Entsorgung der bei der Durchführung der Verbandsaufgaben anfallenden Abfälle;
+9\. Beschaffung und Bereitstellung von Wasser zur Sicherung der gegenwärtigen und künftigen Versorgung der Bevölkerung und der Wirtschaft sowie Förderung von Maßnahmen zur Minderung des Wasserverbrauchs;
 
-10\. Vermeidung, Minderung, Beseitigung und Ausgleich eingetretener oder zu erwartender, auf Abwassereinleitungen oder sonstige Ursachen zurückzuführender nachteiliger Veränderungen des oberirdischen Wassers;
+10\. Abwasserbeseitigung nach Maßgabe des Landeswassergesetzes in der Fassung der Bekanntmachung vom 25. Juni 1995 (GV. NRW. S. 926), das zuletzt durch Artikel 11 des Gesetzes vom 21. Oktober 2026 (GV. NRW. S. 748) geändert worden ist, in der jeweils geltenden Fassung;
 
-11\. Ermittlung der wasserwirtschaftlichen Verhältnisse, soweit es die Verbandsaufgaben nach Nummern 2 bis 10 erfordern.
+11\. Entsorgung der bei der Durchführung der Verbandsaufgaben anfallenden Abfälle;
 
-(2) Auf Beschluß der Delegiertenversammlung kann der Verband im Einvernehmen mit Abwasserbeseitigungspflichtigen außerhalb des Verbandsgebietes und im Benehmen mit dem örtlich zuständigen Abwasserverband Aufgaben gemäß Absatz 1 Nrn. 8 und 9 außerhalb des Verbandsgebietes wahrnehmen oder Abwasser zur Behandlung in verbandseigene Abwasserbehandlungsanlagen übernehmen, anfallende Klärschlämme und sonstige feste Stoffe entsorgen sowie im Zusammenhang damit weitere Maßnahmen der Abwasserbeseitigung auch außerhalb des Verbandsgebietes durchführen. Der Beschluß der Delegiertenversammlung bedarf der Genehmigung durch die Aufsichtsbehörde. Für die Rückübertragung gelten die Bestimmungen dieses Absatzes entsprechend.
+12\. Vermeidung, Minderung, Beseitigung und Ausgleich eingetretener oder zu erwartender, auf Abwassereinleitungen oder sonstige Ursachen zurückzuführender nachteiliger Veränderungen des oberirdischen Wassers und
 
-(3) Außerhalb des Verbandsgebietes hat der Verband in der Venloer Scholle, der Rurscholle und der Erftscholle sowie in der linken Rheintalscholle von der nördlichen Stadtgrenze Bonn bis zur Erftmündung und darüber hinaus zwischen Nordkanal, der Grenze des Kreises Viersen und Neuer Niers (Tätigkeitsbereich) die Aufgaben gemäß Absatz 1 Nrn. 1, 5 bis 7 und 11. Wenn es das öffentliche Interesse erfordert, kann der Verband die genannten Aufgaben auch außerhalb dieser Bereiche in den Grenzen des Braunkohlenplangebietes durchführen.
+13\. Ermittlung der wasserwirtschaftlichen Verhältnisse, soweit es die Verbandsaufgaben nach Nummern 2 bis 13 erfordern.
+
+(2) Auf Beschluß der Delegiertenversammlung kann der Verband im Einvernehmen mit Abwasserbeseitigungspflichtigen außerhalb des Verbandsgebietes und im Benehmen mit dem örtlich zuständigen Abwasserverband Aufgaben gemäß Absatz 1 Nummer 10 und 11 außerhalb des Verbandsgebietes wahrnehmen oder Abwasser zur Behandlung in verbandseigene Abwasserbehandlungsanlagen übernehmen, anfallende Klärschlämme und sonstige feste Stoffe entsorgen sowie im Zusammenhang damit weitere Maßnahmen der Abwasserbeseitigung auch außerhalb des Verbandsgebietes durchführen. Der Beschluß der Delegiertenversammlung bedarf der Genehmigung durch die Aufsichtsbehörde. Für die Rückübertragung gelten die Bestimmungen dieses Absatzes entsprechend.
+
+(3) Außerhalb des Verbandsgebietes hat der Verband in der Venloer Scholle, der Rurscholle und der Erftscholle sowie in der linken Rheintalscholle von der nördlichen Stadtgrenze Bonn bis zur Erftmündung und darüber hinaus zwischen Nordkanal, der Grenze des Kreises Viersen und Neuer Niers (Tätigkeitsbereich) die Aufgaben gemäß Absatz 1 Nummer 1, 5, 6, 9 und 12. Wenn es das öffentliche Interesse erfordert, kann der Verband die genannten Aufgaben auch außerhalb dieser Bereiche in den Grenzen des Braunkohlenplangebietes durchführen.
 
 (4) Der Verband kann auf Beschluß der Delegiertenversammlung Aufträge übernehmen, die zur Erfüllung seiner Aufgaben zwar nicht erforderlich, aber dienlich sind und mit seinen Aufgaben im Zusammenhang stehen. Die Kosten trägt der Auftraggeber. Der Verband darf die Aufträge nur übernehmen, wenn die Ausführung der ihm nach Gesetz und Satzung obliegenden Aufgaben nicht beeinträchtigt wird und nicht zu einer Interessenkollision führt. In Fällen besonderer Eilbedürftigkeit entscheidet der Verbandsrat über die Auftragsübernahme. Der Delegiertenversammlung ist die Auftragsübernahme in der nächsten Sitzung bekannt zu geben.
 
 > **Fußnote**
 >
-> Inhaltsübersicht, Überschrift des Sechsten Teils und Überschrift des Zwölften Teils geändert sowie § 1, § 2, § 3, § 4, § 6, § 14, § 15, § 23, § 25, § 27, § 28, § 32, § 33, § 35, § 40, § 41, § 54, § 56, § 58 und § 62 zuletzt geändert durch Artikel 6 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 4 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par3" -->
 ## § 3 Unternehmen des Verbandes, Übersichten
 
-(1) Unternehmen des Verbandes sind Planung, Bau, Betrieb und Unterhaltung der für die Aufgabenerledigung notwendigen Anlagen sowie alle sonstigen für die Durchführung der Aufgaben erforderlichen Ermittlungen und Arbeiten. Bei Planung, Bau und Betrieb der Anlagen nach Satz 1 können die Möglichkeiten der Anlage zur Energieerzeugung genutzt werden, sofern dies mit der Erledigung der Aufgaben nach § 2 vereinbar ist. Dabei können Anlagen zur Energieerzeugung, die in einem funktionalen Zusammenhang mit Anlagen nach Satz 1 stehen, geplant, gebaut, betrieben und unterhalten werden.
+„(1) Unternehmen des Verbandes sind Planung, Bau, Betrieb und Unterhaltung der für die Aufgabenerledigung notwendigen Anlagen sowie alle sonstigen für die Durchführung der Aufgaben erforderlichen Ermittlungen und Arbeiten. Als Unternehmen gilt auch die Beteiligung des Verbandes an Anlagen Dritter, die der Durchführung seiner Aufgaben dienen. Bei Planung, Bau und Betrieb der Anlagen nach Satz 1 können die Möglichkeiten der Anlagen zur Energieerzeugung auch für Dritte genutzt werden. Dies gilt auch für Anlagen, die mit Anlagen nach Satz 1 in funktionalem Zusammenhang stehen, sowie für Anlagen zur Erzeugung oder Speicherung von Energie aus erneuerbaren Quellen, die innerhalb des Verbandsgebietes auf Grundstücken des Verbandes betrieben werden. Darüber hinaus kann der Verband zur Deckung seines Energiebedarfs Anlagen zur Erzeugung und zur Speicherung von Energie aus erneuerbaren Quellen planen, bauen, betreiben und unterhalten, wobei die Erzeugung von Überschussmengen in einem angemessenen Umfang sowie die Speicherung und Abgabe dieser Überschussmengen an Dritte zulässig ist. Dies gilt entsprechend für die Beteiligung des Verbandes an Anlagen Dritter zur Erzeugung oder Speicherung von Energie aus erneuerbaren Quellen, auch wenn diese außerhalb des Verbandsgebiets betrieben werden. Die Energieerzeugung und -speicherung nach den Sätzen 3 bis 6 müssen mit der Erledigung der Aufgaben des Verbands nach § 2 vereinbar sein.
 
 (2) Unternehmen, die der Verband zur Vermeidung oder zum Ausgleich nachteiliger Auswirkungen des Braunkohlenbergbaues durchzuführen beabsichtigt, hat er vorher mit den Bergwerksunternehmen, denen die Kosten der Durchführung nach §§ 33, 37 zur Last fallen würden, anzuzeigen und ihnen eine Erörterung anzubieten. Der Verband kann die Durchführung den Bergwerksunternehmen auf deren Kosten überlassen; er muß dabei die Bedingungen für die Durchführung festlegen. Er setzt den Bergwerksunternehmen eine Frist, innerhalb der sie erklären müssen, ob sie bereit sind, die Durchführung unter den festgelegten Bedingungen zu übernehmen. Wird der Übernahme nicht innerhalb der gesetzten Frist zugestimmt oder werden die festgelegten Bedingungen bei der Durchführung nicht eingehalten, führt der Verband die Unternehmen selbst durch.
 
-(3) Der Verband stellt über die zur Erfüllung seiner Aufgaben und übernommenen Pflichten erforderlichen Unternehmen, die in einem Zeitraum von jeweils sechs Jahren durchzuführen sind, Übersichten auf (Sechsjahresübersichten). Satz 1 gilt nicht für die Aufgaben nach § 53 Absatz des Landeswassergesetzes vom 25. Juni 1995 (GV. NRW. S. 133.
+(3) Der Verband stellt über die zur Erfüllung seiner Aufgaben und übernommenen Pflichten erforderlichen Unternehmen, die in einem Zeitraum von jeweils sechs Jahren durchzuführen sind, Übersichten auf (Sechsjahresübersichten). Satz 1 gilt nicht für die Aufgaben nach § 53 Absatz des Landeswassergesetzes.
 
 (4) Der Verband hat solche Unternehmen zur Erfüllung der Verbandsaufgaben, die die oberirdischen Gewässer benachbarter Wasserverbände oder Wasser- und Bodenverbände beeinflussen, mit diesen Verbänden vorher abzustimmen. Im Zweifel entscheidet auf Antrag die Aufsichtsbehörde des Erftverbandes.
 
 > **Fußnote**
 >
-> Inhaltsübersicht, Überschrift des Sechsten Teils und Überschrift des Zwölften Teils geändert sowie § 1, § 2, § 3, § 4, § 6, § 14, § 15, § 23, § 25, § 27, § 28, § 32, § 33, § 35, § 40, § 41, § 54, § 56, § 58 und § 62 zuletzt geändert durch Artikel 6 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 4 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par4" -->
 ## § 4 Übernahme von Aufgaben und Anlagen
 
 (1) Aufgaben, die durch dieses Gesetz dem Verband übertragen sind, haben die bisher dazu Verpflichteten weiter zu erfüllen, bis der Verband sie übernimmt.
 
-(2) Der Verband kann Aufgaben im Sinne des § 2, die einer Gebietskörperschaft, einem Wasser- und Bodenverband oder öffentlich-rechtlichen Zweckverband im Verbandsgebiet obliegen, nur im Einvernehmen mit der betroffenen Gebietskörperschaft oder dem Verband durch Beschluß der Delegiertenversammlung ganz oder teilweise übernehmen. Der Beschluß bedarf der Genehmigung der Aufsichtsbehörde. Kommt das Einvernehmen mit einem Wasser- und Bodenverband nicht zustande, entscheidet auf Antrag die Aufsichtsbehörde des Erftverbandes. Liegt die Übernahme der Aufgabe durch den Erftverband im öffentlichen Interesse, kann die Aufsichtsbehörde des Erftverbandes die Übernahme gegenüber dem betroffenen Wasser- und Bodenverband anordnen.
+(2) Der Verband kann Aufgaben im Sinne des § 2, die einer Gebietskörperschaft, einem Wasser- und Bodenverband oder öffentlich-rechtlichen Zweckverband im Verbandsgebiet obliegen, nur im Einvernehmen mit der betroffenen Gebietskörperschaft oder dem Verband durch Beschluß der Delegiertenversammlung ganz oder teilweise übernehmen. Soweit eine Maßnahme nach § 2 Absatz 1 Nummer 7 keinem der in Satz 1 genannten Träger obliegt, bedarf es des Einvernehmens mit den Gebietskörperschaften, auf deren Gebieten die Maßnahme durchgeführt wird. Der Beschluss nach Satz 1 bedarf der Genehmigung der Aufsichtsbehörde. Kommt das Einvernehmen mit einem Wasser- und Bodenverband nicht zustande, entscheidet auf Antrag die Aufsichtsbehörde des Erftverbandes. Liegt die Übernahme der Aufgabe durch den Erftverband im öffentlichen Interesse, kann die Aufsichtsbehörde des Erftverbandes die Übernahme gegenüber dem betroffenen Wasser- und Bodenverband anordnen.
 
 (3) Für die Übertragung von Aufgaben des Erftverbandes auf eine Gebietskörperschaft, einen Wasser- und Bodenverband oder einen öffentlich-rechtlichen Zweckverband im Verbandsgebiet gilt Absatz 2 entsprechend.
 
-(4) Die Bestimmungen der Absätze 1 und 2 gelten nicht für die Aufgabe gemäß § 2 Absatz 1 Nummer 9, soweit diese unter § 5 Abs. 8 des Landesabfallgesetzes fällt.
+(4) Die Bestimmungen der Absätze 1 und 2 gelten nicht für die Aufgabe gemäß § 2 Absatz 1 Nummer 11, soweit diese unter § 5 Absatz 8 des Landeskreislaufwirtschaftsgesetzes vom 21. Juni 1988 (GV. NRW. S. 250), das zuletzt durch Artikel 3 Absatz 11 des Gesetzes vom 11. März 2025 (GV. NRW. S. 288) geändert worden ist, fällt.
 
 (5) Der Verband darf Anlagen, die der Erfüllung der in § 2 bezeichneten Aufgaben dienlich sind, nur im Einvernehmen mit dem bisherigen Eigentümer übernehmen und als Verbandsanlagen betreiben. Wenn die hierfür zu gewährende Gegenleistung oder Entschädigung die Kosten überschreitet, die dem Verband durch Herstellung und Betrieb eigener Anlagen mit gleicher Wirkung entstehen würden, soll er Anlagen nur übernehmen, wenn das öffentliche Interesse es erfordert.
 
@@ -236,16 +152,16 @@ Inhaltsverzeichnis
 
 > **Fußnote**
 >
-> Inhaltsübersicht, Überschrift des Sechsten Teils und Überschrift des Zwölften Teils geändert sowie § 1, § 2, § 3, § 4, § 6, § 14, § 15, § 23, § 25, § 27, § 28, § 32, § 33, § 35, § 40, § 41, § 54, § 56, § 58 und § 62 zuletzt geändert durch Artikel 6 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 4 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par5" -->
 ## § 5 Verbandsgebiet
 
-Das Verbandsgebiet umfaßt das im Land Nordrhein-Westfalen gelegene oberirdische Einzugsgebiet der Erft sowie das des Nordkanals mit Jüchener Bach südlich des Nordkanals, der Nordkanalallee und des Scheibendammes in der Stadt Neuss. Die Grenzen des Verbandsgebietes ergeben sich aus einer Übersichtskarte, die dem Kartenwerk des Landesamtes für Natur, Umwelt und Verbraucherschutz Nordrhein-Westfalen ,,Stationierung und Gebietsbezeichnung der Gewässer in Nordrhein-Westfalen" entspricht. Für die Abgrenzung des Tätigkeitsbereichs gemäß § 2 Abs. 3 ist die entsprechende Karte des Geologischen Dienstes Nordrhein-Westfalen - Landesbetrieb - maßgebend. Der Verband legt die Übersichtskarte am Sitz der Verbandsverwaltung zur Einsichtnahme aus.
+Das Verbandsgebiet umfaßt das im Land Nordrhein-Westfalen gelegene oberirdische Einzugsgebiet der Erft sowie das des Nordkanals mit Jüchener Bach südlich des Nordkanals, der Nordkanalallee und des Scheibendammes in der Stadt Neuss. Die Grenzen des Verbandsgebietes ergeben sich aus einer Übersichtskarte, die dem Kartenwerk des Landesamtes für Natur, Umwelt und Klima Nordrhein-Westfalen ,,Stationierung und Gebietsbezeichnung der Gewässer in Nordrhein-Westfalen" entspricht. Für die Abgrenzung des Tätigkeitsbereichs gemäß § 2 Abs. 3 ist die entsprechende Karte des Geologischen Dienstes Nordrhein-Westfalen - Landesbetrieb - maßgebend. Der Verband legt die Übersichtskarte am Sitz der Verbandsverwaltung zur Einsichtnahme aus.
 
 > **Fußnote**
 >
-> § 5 zuletzt geändert durch Artikel 25 d. Gesetzes v. 11.12.2007 (GV. NRW. S. 662), in Kraft getreten am 1. Januar 2008.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 4 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par6" -->
 ## § 6 Mitglieder des Verbandes
@@ -457,7 +373,7 @@ Bei der öffentlichen Bekanntmachung der Satzung und ihrer Änderungen ist auf d
 
 (2) 100 Delegierte entfallen auf die Mitgliedergruppen gemäß § 6 Abs. 1 Satz 1 Nrn. 1 bis 6, wobei jede dieser Mitgliedergruppen zunächst fünf Delegiertensitze erhält. Die verbleibenden 70 Sitze werden zusätzlich unter diesen Mitgliedergruppen im Verhältnis ihrer Beitragsleistungen nach dem d'Hondt'schen Höchstzahlverfahren verteilt, wobei eine Mitgliedergruppe insgesamt nicht mehr als 66 Delegierte haben darf.
 
-(3) Für jede der in Absatz 2 genannten Mitgliedergruppen sind Beitragseinheiten zu ermitteln. Die Beitragseinheit eines Mitgliedes ergibt sich aus dem Verhältnis seines Mitgliedsbeitrages zum Gesamtbeitrag der Mitgliedergruppe, multipliziert mit der auf die Mitgliedergruppe entfallende Zahl an Delegiertensitzen. Jede Beitragseinheit berechtigt zur Entsendung einer oder eines Delegierten. Ein Mitglied entsendet in die Delegiertenversammlung so viele Delegierte mit je einer Stimme, wie es aufgrund seiner Jahresbeiträge an vollen Beitragseinheiten erreicht. Bei der Ermittlung der Beitragseinheiten eines Mitgliedes ist sein durchschnittlicher Jahresbeitrag aus den letzten drei Jahren vor der Neubildung der Delegiertenversammlung zugrunde zu legen; bei einer Mitgliedschaft von weniger als drei Jahren gilt der letzte vor der Neubildung der Delegiertenversammlung vom Vorstand festgesetzte Jahresbeitrag. Solange Jahresbeiträge einzelner Mitglieder noch nicht feststehen, gilt der vom Vorstand festgesetzte Beitrag. Die Abwasserabgabe gemäß § 2 Absatz 2 des Abwasserabgabengesetzes Nordrhein-Westfalen vom 8. Juli 2016 (GV. NRW. S. 559) und das Wasserentnahmeentgelt gemäß § 2 des Wasserentnahmeentgeltgesetzes des Landes Nordrhein-Westfalen vom 27. Januar 2004 (GV. NRW. S. 30), das zuletzt durch Artikel 1 des Gesetzes vom 9. Dezember 2014 (GV. NRW. S. 884) geändert worden ist, bleiben sowie die Beiträge gemäß § 38 des Erftverbandsgesetzes bleiben bei der Ermittlung der Beitragseinheiten unberücksichtigt.
+(3) Für jede der in Absatz 2 genannten Mitgliedergruppen sind Beitragseinheiten zu ermitteln. Die Beitragseinheit eines Mitgliedes ergibt sich aus dem Verhältnis seines Mitgliedsbeitrages zum Gesamtbeitrag der Mitgliedergruppe, multipliziert mit der auf die Mitgliedergruppe entfallende Zahl an Delegiertensitzen. Jede Beitragseinheit berechtigt zur Entsendung einer oder eines Delegierten. Ein Mitglied entsendet in die Delegiertenversammlung so viele Delegierte mit je einer Stimme, wie es aufgrund seiner Jahresbeiträge an vollen Beitragseinheiten erreicht. Bei der Ermittlung der Beitragseinheiten eines Mitgliedes ist sein durchschnittlicher Jahresbeitrag aus den letzten drei Jahren vor der Neubildung der Delegiertenversammlung zugrunde zu legen; bei einer Mitgliedschaft von weniger als drei Jahren gilt der letzte vor der Neubildung der Delegiertenversammlung vom Vorstand festgesetzte Jahresbeitrag. Solange Jahresbeiträge einzelner Mitglieder noch nicht feststehen, gilt der vom Vorstand festgesetzte Beitrag. Die Abwasserabgabe gemäß § 2 Absatz 2 des Abwasserabgabengesetzes Nordrhein-Westfalen vom 8. Juli 2016 (GV. NRW. S. 559), das zuletzt durch Artikel 12 des Gesetzes 21. Oktober 2026 (GV. NRW. S. 748) geändert worden ist, in der jeweils geltenden Fassung, und das Wasserentnahmeentgelt gemäß § 2 des Wasserentnahmeentgeltgesetzes des Landes Nordrhein-Westfalen vom 27. Januar 2004 (GV. NRW. S. 30), das zuletzt durch Artikel 13 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559) geändert worden ist, in der jeweils geltenden Fassung, sowie die Beiträge gemäß § 38 bleiben bei der Ermittlung der Beitragseinheiten unberücksichtigt.
 
 (4) Die Mitglieder einer Mitgliedergruppe mit Jahresbeiträgen, die eine volle Beitragseinheit nicht erreichen oder darüber hinausgehen (Beitragsteileinheiten), werden von der oder von dem Vorsitzenden des Verbandsrates zu einer Wahlversammlung eingeladen, in der die Delegierten für die noch unbesetzten Delegiertensitze der Mitgliedergruppe sowie eine erste oder zweite Nachfolgerin oder ein erster oder zweiter Nachfolger für den Fall des vorzeitigen Ausscheidens eines Delegierten zu wählen sind. Jedes wahlberechtigte Mitglied einer Mitgliedergruppe kann entsprechende Wahlvorschläge machen und sich mit seiner Beitragsteileinheit in der Versammlung vertreten lassen. Vertritt ein Mitglied die eigene Beitragsteileinheit oder mehrere Beitragsteileinheiten, können sie bei der Wahl nur einheitlich eingesetzt werden. Gewählt sind die Kandidatinnen oder Kandidaten, die die höchsten Summen an Beitragsteileinheiten auf sich vereinigen. Bleiben hiernach Delegierten- und Nachfolgesitze unbesetzt, ist ein weiterer Wahlgang durchzuführen; bei gleich hohen Summen an Beitragsteileinheiten entscheidet im Bedarfsfall das Los.
 
@@ -465,18 +381,18 @@ Bei der öffentlichen Bekanntmachung der Satzung und ihrer Änderungen ist auf d
 
 > **Fußnote**
 >
-> Inhaltsübersicht, Überschrift des Sechsten Teils und Überschrift des Zwölften Teils geändert sowie § 1, § 2, § 3, § 4, § 6, § 14, § 15, § 23, § 25, § 27, § 28, § 32, § 33, § 35, § 40, § 41, § 54, § 56, § 58 und § 62 zuletzt geändert durch Artikel 6 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 4 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par16" -->
 ## § 16 Delegierte in der Delegiertenversammlung
 
-(1) Delegierte oder Delegierter gemäß § 15 Abs. 3 und 4 kann nur sein, wer selbst Mitglied des Verbandes ist, wer bei dem Mitglied oder bei einer Anstalt des öffentlichen Rechts des Mitgliedes nach § 114a der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 666), die zuletzt durch Artikel 2 des Gesetzes vom 25. Juni 2015 (GV. NRW. S. 496) geändert worden ist, beruflich tätig ist, wer bei juristischen Personen vertretungsberechtigt ist oder den Organen des Mitgliedes angehört.
+(1) Delegierte oder Delegierter gemäß § 15 Absatz 3 und 4 kann nur sein, wer selbst Mitglied des Verbandes ist, wer bei dem Mitglied oder bei einer Anstalt des öffentlichen Rechts des Mitgliedes nach § 114a der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV. NRW. S. 666), die zuletzt durch Artikel 1 des Gesetzes vom 10. Juli 2025 (GV. NRW. S. 618) geändert worden ist, in der jeweils geltenden Fassung, beruflich tätig ist, wer bei juristischen Personen vertretungsberechtigt ist oder den Organen des Mitgliedes angehört.
 
 (2) Ein Mitglied darf nicht durch eine Delegierte oder einen Delegierten vertreten werden, die oder der in einem Dienstverhältnis zu einem anderen Mitglied steht. Dies gilt nicht für Delegierte gemäß § 15 Abs. 4.
 
 (3) Die oder der Delegierte der Landwirtschaftskammer (§ 15 Abs. 5) darf nicht Mitglied oder Pächter eines Mitgliedes sein.
 
-(4) Die Delegierten werden für fünf Jahre in die Delegiertenversammlung entsandt. In den letzten drei Monaten vor Beendigung der Amtszeit sind die Delegierten für die nächste Amtszeit zu benennen. Wiederwahl und Wiederberufung sind zulässig.
+(4) Die Delegierten werden für fünf Jahre in die Delegiertenversammlung entsandt. Abweichend hiervon endet die Amtszeit der Delegiertenversammlung, die am 1. Mai 2028 beginnt, am 28. Februar 2031. In den letzten drei Monaten vor Beendigung der Amtszeit sind die Delegierten für die nächste Amtszeit zu benennen. Wiederwahl und Wiederberufung sind zulässig.
 
 (5) Von einer Gebietskörperschaft dürfen nicht mehr Vertreterinnen oder Vertreter der Verwaltung als Mitglieder der Vertretung der Gebietskörperschaft entsandt werden. Mindestens die Hälfte aller Delegierten der Kreise, Städte und Gemeinden muß einer Vertretung der Gebietskörperschaften angehören. Dies gilt auch für Wahlen nach § 15 Abs. 4.
 
@@ -486,7 +402,7 @@ Bei der öffentlichen Bekanntmachung der Satzung und ihrer Änderungen ist auf d
 
 > **Fußnote**
 >
-> § 16 und § 22 zuletzt geändert durch Artikel 28 des Gesetzes vom 1. Februar 2022 (GV. NRW. S. 122), in Kraft getreten am 19. Februar 2022.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 4 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par17" -->
 ## § 17
@@ -546,27 +462,25 @@ schriftlich oder elektronisch unter Angabe des Beratungsgegenstandes beantragt w
 
 (7) Über die Sitzungen der Delegiertenversammmlung sind Niederschriften zu fertigen. Beschlüsse sind besonders zu kennzeichnen. Die Niederschriften sind von der oder von dem Vorsitzenden des Verbandsrates und von einer oder einem von der Delegiertenversammlung zu bestimmenden Delegierten zu unterzeichnen.
 
-(8) Je eine Vertreterin oder ein Vertreter der Bezirksregierung Arnsberg als obere Bergbehörde und der im Verbandsgebiet zuständigen Bezirksregierungen können mit beratender Stimme an den Sitzungen der Delegiertenversammlung teilnehmen. Eine gemeinsame Vertreterin oder ein gemeinsamer Vertreter der anerkannten Naturschutzvereinigungen, die im Sinne des § 63 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 421 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist, nach ihrer Satzung landesweit tätig sind, kann mit beratender Stimme an den öffentlichen Sitzungen der Verbandsversammlung teilnehmen.
+(8) Je eine Vertreterin oder ein Vertreter der Bezirksregierung Arnsberg als obere Bergbehörde und der im Verbandsgebiet zuständigen Bezirksregierungen können mit beratender Stimme an den Sitzungen der Delegiertenversammlung teilnehmen. Eine gemeinsame Vertreterin oder ein gemeinsamer Vertreter der anerkannten Naturschutzvereinigungen, die im Sinne des § 63 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 2 des Gesetzes vom 30. September 2026 (BGBl. 2026 I Nr. 286) geändert worden ist, in der jeweils geltenden Fassung, nach ihrer Satzung landesweit tätig sind, kann mit beratender Stimme an den öffentlichen Sitzungen der Verbandsversammlung teilnehmen.
 
 (9) Die Vertreterinnen oder Vertreter nach Absatz 8 werden zum selben Zeitpunkt und im selben Umfang für die Sitzungen unterrichtet wie die Delegierten.
 
 (10) Die Mitglieder des Verbandes, die nicht selbst Delegierte stellen, können als Zuhörer an den Sitzungen der Delegiertenversammlung teilnehmen. Ort, Zeitpunkt und Tagesordnung sind mindestens drei Wochen vor der Sitzung den Mitgliedern bekanntzumachen.
 
-(11) Ist eine epidemische Lage von landesweiter Tragweite nach § 11 des Infektionsschutz- und Befugnisgesetzes NRW festgestellt, kann die oder der Vorsitzende des Verbandsrates auf Antrag des Vorstandes entscheiden, dass die Delegiertenversammlung ohne physische Präsenz der Delegierten oder der in Absatz 8 genannten Vertreterinnen und Vertreter als virtuelle Delegiertenversammlung abgehalten wird, sofern
+(11) Die oder der Vorsitzende des Verbandsrates kann auf Antrag des Vorstandes entscheiden, dass die Verbandsversammlung ohne physische Präsenz der Delegierten und der in Absatz 8 genannten Vertreterinnen und Vertreter als virtuelle Verbandsversammlung abgehalten wird oder dass den Delegierten und den in Absatz 8 genannten Vertreterinnen und Vertretern freigestellt wird, physisch oder virtuell teilzunehmen (hybride Verbandsversammlung), sofern
 
 1\. die Bild- und Tonübertragung der gesamten Versammlung erfolgt,
 
-2\. die Stimmrechtsausübung der Delegierten über elektronische Kommunikation gesichert ist und
+2\. die Stimmrechtsausübung der virtuell teilnehmenden Delegierten über elektronische Kommunikation gesichert ist und
 
-3\. den Delegierten eine Fragemöglichkeit im Wege der elektronischen Kommunikation eingeräumt wird.
+3\. den virtuell teilnehmenden Delegierten eine Fragemöglichkeit im Wege der elektronischen Kommunikation eingeräumt wird.
 
-Die Bestimmungen in den Absätzen 1 und 3 bis 10 gelten für die virtuelle Delegiertenversammlung entsprechend. Die Beteiligung der Öffentlichkeit erfolgt gemäß Satz 1 Nummer 1. Näheres regelt die Satzung.
-
-(12) Unter den Voraussetzungen des Absatzes 11 kann die oder der Vorsitzende des Verbandsrates auf Antrag des Vorstands statt der Einberufung einer virtuellen Delegiertenversammlung auch eine Beschlussfassung der Delegiertenversammlung oder Wahlen der Delegierten im Umlaufverfahren herbeiführen, wenn sich mindestens die Hälfte der Delegierten mit der schriftlichen oder elektronischen Abgabe der Stimmen einverstanden erklärt. Die Stimmabgabe erfolgt auf schriftlichem oder elektronischem Wege. Für das Umlaufverfahren gelten die Bestimmungen in den Absätzen 4 bis 6 entsprechend.
+Die Bestimmungen in den Absätzen 1 bis 10 gelten für die virtuelle und die hybride Verbandsversammlung entsprechend. Die Beteiligung der Öffentlichkeit erfolgt gemäß Satz 1 Nummer 1. Näheres regelt die Satzung.
 
 > **Fußnote**
 >
-> § 16 und § 22 zuletzt geändert durch Artikel 28 des Gesetzes vom 1. Februar 2022 (GV. NRW. S. 122), in Kraft getreten am 19. Februar 2022.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 4 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par23" -->
 ## § 23 Aufgaben der Delegiertenversammlung
@@ -630,13 +544,15 @@ Die Wahl ist eine Personenwahl. Das Nähere regelt die Satzung.
 
 (5) Der Verbandsrat wählt aus seiner Mitte die Vorsitzende oder den Vorsitzenden und deren oder dessen Stellvertreterin oder Stellvertreter. Gehört die oder der Vorsitzende den Mitgliedern gemäß Absatz 1 Satz 2 Nr. 3, 4 und 5 an, ist die Stellvertreterin oder der Stellvertreter von den Mitgliedern gemäß Absatz 1 Satz 2 Nr. 1, 2 oder 6 zu stellen. Gehört die oder der Vorsitzende den Mitgliedern gemäß Absatz 1 Satz 2 Nr. 1, 2 oder 6 an, ist die Stellvertreterin oder der Stellvertreter von den Mitgliedern gemäß Absatz 1 Satz 2 Nr. 3, 4 oder 5 zu stellen. Gewählt ist, wer im ersten Wahlgang mehr als die Hälfte der gültigen Stimmen der anwesenden Mitglieder des Verbandsrates auf sich vereinigt. Kommt eine Wahl hiernach nicht zustande, ist gewählt, wer in einem zweiten Wahlgang die meisten Stimmen erhält. Bei Stimmengleichheit entscheidet das Los.
 
-(6) Die Amtszeit des Verbandsrates beträgt fünf Jahre. Die Mitglieder führen nach Beendigung der Amtszeit ihr Amt weiter, bis der neue Verbandsrat gewählt ist. Wiederwahl ist zulässig. Im übrigen gilt § 16 Abs. 6 entsprechend.
+(6) Die Amtszeit des Verbandsrates beträgt fünf Jahre. Abweichend hiervon endet die Amtszeit des Verbandsrats, der von der Delegiertenversammlung gewählt wird, deren Amtszeit am 1. Mai 2028 beginnt, am 15. März 2031. Die Mitglieder führen nach Beendigung der Amtszeit ihr Amt weiter, bis der neue Verbandsrat gewählt ist. Wiederwahl ist zulässig. Im übrigen gilt § 16 Abs. 6 entsprechend.
 
 (7) Die Delegiertenversammlung kann Mitglieder des Verbandsrates und deren Stellvertreterinnen oder Stellvertreter wegen grober Verletzung der ihnen dem Verband gegenüber obliegenden Pflichten abwählen. Der Beschluß bedarf der Mehrheit von zwei Dritteln aller Delegierten. In derselben Sitzung ist eine Ersatzwahl für den Rest der Amtszeit vorzunehmen.
 
 > **Fußnote**
 >
-> 24 neu gefasst durch Gesetz v. 15. 12. 1992 (GV. NW. 1993 S. 62); in Kraft getreten am 28. Januar 1993, geändert durch Art. 5 d. Gesetzes v. 7. 3. 1995 (GV. NW. S. 248); in Kraft getreten am 1. Juli 1995.
+> § 24 neu gefasst durch Gesetz v. 15. 12. 1992 (GV. NW. 1993 S. 62).
+>
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 4 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par25" -->
 ## § 25 Aufgaben des Verbandsrates
@@ -651,7 +567,7 @@ Die Wahl ist eine Personenwahl. Das Nähere regelt die Satzung.
 
 1\. seine Geschäftsordnung,
 
-2\. die Bestellung von Beauftragten nach dem Wasserhaushaltsgesetz, dem Abfallgesetz und dem Bundes-Immissionsschutzgesetz,
+2\. die Bestellung von Beauftragten nach dem Wasserhaushaltsgesetz vom 31. Juli 2009 (BGBl. I S. 2585), das zuletzt durch Artikel 2 des Gesetzes vom 13. Oktober 2026 (BGBl. 2026 I Nr. 304) geändert worden ist, in der jeweils geltenden Fassung, dem Kreislaufwirtschaftsgesetz vom 24. Februar 2012 (BGBl. I S. 212), das zuletzt durch Artikel 3 des Gesetzes vom 13. Oktober 2026 (BGBl. 2026 I Nr. 304) geändert worden ist, in der jeweils geltenden Fassung, und dem Bundes-Immissionsschutzgesetz in der Fassung der Bekanntmachung vom 17. Mai 2013 (BGBl. I S. 1274; 2021 I S. 123), das zuletzt durch Artikel 1 des Gesetzes vom 13. Oktober 2026 (BGBl. 2026 I Nr. 304) geändert worden ist, in der jeweils geltenden Fassung
 
 3\. den Abschluß eines Dienstvertrages mit dem Vorstand,
 
@@ -695,7 +611,7 @@ Die Wahl ist eine Personenwahl. Das Nähere regelt die Satzung.
 
 > **Fußnote**
 >
-> Inhaltsübersicht, Überschrift des Sechsten Teils und Überschrift des Zwölften Teils geändert sowie § 1, § 2, § 3, § 4, § 6, § 14, § 15, § 23, § 25, § 27, § 28, § 32, § 33, § 35, § 40, § 41, § 54, § 56, § 58 und § 62 zuletzt geändert durch Artikel 6 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 4 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par26" -->
 ## § 26 Sitzungen des Verbandsrates, Beschlußfassung
@@ -714,18 +630,18 @@ Die Wahl ist eine Personenwahl. Das Nähere regelt die Satzung.
 
 (7) Über die Sitzungen des Verbandsrates sind Niederschriften zu fertigen. Beschlüsse sind besonders zu kennzeichnen. Die Niederschriften sind von der oder von dem Vorsitzenden und von einem weiteren Mitglied des Verbandsrates zu unterzeichnen.
 
-(8) Unter den Voraussetzungen des § 22 Absatz 11 kann die oder der Vorsitzende des Verbandsrates auf Antrag des Vorstands eine virtuelle Verbandsratssitzung einberufen oder abweichend von Absatz 6 mit einer Zweidrittel-Mehrheit des Verbandsrates eine Beschlussfassung im Umlaufverfahren herbeiführen. Auf eine Bildübertragung kann dabei verzichtet werden. Die Bestimmungen in den Absätzen 1 und 3 bis 5 gelten entsprechend.
+(8) Unter den Voraussetzungen des § 22 Absatz 11 kann die oder der Vorsitzende des Verbandsrates auf Antrag des Vorstands eine virtuelle oder hybride Verbandsratssitzung einberufen. Auf eine Bildübertragung kann dabei verzichtet werden. Die Bestimmungen in den Absätzen 1 und 3 bis 5 gelten entsprechend.
 
 > **Fußnote**
 >
-> §§, 26, und 29 neu gefasst durch Gesetz v. 15. 12. 1992 (GV. NW. 1993 S. 62); in Kraft getreten am 28. Januar 1993, geändert durch Art. 5 d. Gesetzes v. 7. 3. 1995 (GV. NW. S. 248); in Kraft getreten am 1. Juli 1995; § 26 geändert durch Artikel 4 des Gesetzes vom 29. Mai 2020 (GV. NRW. S. 376), in Kraft getreten am 3. Juni 2020; § 26 Absatz 6 geändert durch Artikel 28 des Gesetzes vom 1. Februar 2022 (GV. NRW. S. 122), in Kraft getreten am 19. Februar 2022.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 4 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par27" -->
 ## § 27 Vorstand
 
 (1) Die oder der Vorsitzende des Verbandsrates ist Dienstvorgesetzte oder Dienstvorgesetzter des Vorstandes.
 
-(2) Wer zum Vorstand gewählt wird, muß die für sein Amt erforderlichen Voraussetzungen erfüllen. Seine Amtszeit beträgt fünf Jahre. Wiederwahlen sind zulässig. Die Wahl ist frühestens neun Monate und spätestens drei Monate vor Ablauf der Amtszeit durchzuführen. Die Amtszeit endet spätestens mit Ablauf des Monats, in dem der Vorstand das 67. Lebensjahr vollendet. Für Vorstände, die am 1. Januar 2013 im Amt sind und deren Amtszeit bis längstens 2017 läuft, findet die Altersgrenze nach Satz 5 nur mit deren Zustimmung Anwendung.
+(2) Wer zum Vorstand gewählt wird, muß die für sein Amt erforderlichen Voraussetzungen erfüllen. Seine Amtszeit beträgt fünf Jahre. Wiederwahlen sind zulässig. Die Wahl ist frühestens neun Monate und spätestens drei Monate vor Ablauf der Amtszeit durchzuführen. Die Amtszeit endet spätestens mit Ablauf des Monats, in dem der Vorstand das 67. Lebensjahr vollendet.
 
 (3) Für die Abteilungsleiterin oder den Abteilungsleiter gemäß § 25 Abs. 2 Satz 2 gilt Absatz 2 sinngemäß.
 
@@ -733,7 +649,7 @@ Die Wahl ist eine Personenwahl. Das Nähere regelt die Satzung.
 
 > **Fußnote**
 >
-> Inhaltsübersicht, Überschrift des Sechsten Teils und Überschrift des Zwölften Teils geändert sowie § 1, § 2, § 3, § 4, § 6, § 14, § 15, § 23, § 25, § 27, § 28, § 32, § 33, § 35, § 40, § 41, § 54, § 56, § 58 und § 62 zuletzt geändert durch Artikel 6 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 4 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par28" -->
 ## § 28 Aufgaben des Vorstandes
@@ -755,23 +671,23 @@ Die Wahl ist eine Personenwahl. Das Nähere regelt die Satzung.
 
 (2) Der Vorstand bestellt mit Zustimmung des Verbandsrates eine Abteilungsleiterin oder einen Abteilungsleiter zu seinem ständigen Vertreter.
 
-(3) Verpflichtende Erklärungen des Verbandes bedürfen der Schriftform. Die Vertretungs- und Unterschriftsbefugnisse werden durch die Geschäftsordnung für die Verbandsverwaltung geregelt.
+(3) Erklärungen, durch die der Verband verpflichtet werden soll, bedürfen unbeschadet weitergehender Satzungsregelungen der Textform nach § 126b des Bürgerlichen Gesetzbuches. Die Vertretungs- und Unterschriftsbefugnisse werden durch die Geschäftsordnung für die Verbandsverwaltung geregelt.
 
 **Sechster Teil**  
 **Finanzplanung, Wirtschaftsführung und Rechnungswesen, Beiträge**
 
 > **Fußnote**
 >
-> §§, 26, und 29 neu gefasst durch Gesetz v. 15. 12. 1992 (GV. NW. 1993 S. 62); in Kraft getreten am 28. Januar 1993, geändert durch Art. 5 d. Gesetzes v. 7. 3. 1995 (GV. NW. S. 248); in Kraft getreten am 1. Juli 1995; § 26 geändert durch Artikel 4 des Gesetzes vom 29. Mai 2020 (GV. NRW. S. 376), in Kraft getreten am 3. Juni 2020; § 26 Absatz 6 geändert durch Artikel 28 des Gesetzes vom 1. Februar 2022 (GV. NRW. S. 122), in Kraft getreten am 19. Februar 2022.
+> § 29 neu gefasst durch Gesetz v. 15. 12. 1992 (GV. NW. 1993 S. 62); in Kraft getreten am 28. Januar 1993.
 >
-> Inhaltsübersicht, Überschrift des Sechsten Teils und Überschrift des Zwölften Teils geändert sowie § 1, § 2, § 3, § 4, § 6, § 14, § 15, § 23, § 25, § 27, § 28, § 32, § 33, § 35, § 40, § 41, § 54, § 56, § 58 und § 62 zuletzt geändert durch Artikel 6 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 4 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par30" -->
 ## § 30 (weggefallen)
 
 > **Fußnote**
 >
-> § 30 und § 59 aufgehoben durch Artikel 6 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> § 30 zuletzt geändert durch Art. 5 d. Gesetzes v. 7. 3. 1995 (GV. NW. S. 248); in Kraft getreten am 1. Juli 1995; aufgehoben durch Artikel 6 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
 
 <!-- norm id="par30a" -->
 ## § 30a Wirtschaftsplan, Finanzplanung
@@ -867,7 +783,7 @@ Die Wahl ist eine Personenwahl. Das Nähere regelt die Satzung.
 
 (1) Aufgrund des festgestellten Wirtschaftsplans berechnet der Vorstand nach den Veranlagungsrichtlinien die Beiträge. Er führt die Beiträge - nach Beitragsgruppen getrennt - mit den zugehörigen Berechnungsgrundlagen in einer Beitragsliste auf und setzt die Beiträge fest. Der Vorstand teilt unverzüglich jedem Mitglied seinen Beitrag für die jeweilige Beitragsgruppe, die wesentlichen Berechnungsgrundlagen hierzu, die Zahlstelle und die Zahlungsfrist mit (Beitragsbescheid) und zieht die Beiträge ein.
 
-(2) Im Beitragsbescheid ist der Veranlagte auf die Möglichkeit der Einsichtnahme in die Beitragsliste und die dazugehörigen Unterlagen unter Angabe von Ort und Zeitraum hinzuweisen. Der Beitragsbescheid ist zuzustellen. Ein neues Mitglied ist mit dem ersten Beitragsbescheid über bestehende Rechte und Pflichten unter Beifügung von Gesetz, Satzung und Veranlagungsrichtlinien zu unterrichten.
+(2) Im Beitragsbescheid ist der Veranlagte auf die Möglichkeit der Einsichtnahme in die Beitragsliste und die dazugehörigen Unterlagen unter Angabe von Ort und Zeitraum hinzuweisen. Der Beitragsbescheid ist zuzustellen. Ein neues Mitglied ist mit dem ersten Beitragsbescheid über bestehende Rechte und Pflichten unter Verweis auf Gesetz, Satzung und Veranlagungsrichtlinien zu unterrichten.
 
 (3) Gegen den Beitragsbescheid kann der Veranlagte innerhalb eines Monats nach dessen Zustellung Widerspruch einlegen. Hilft der Vorstand dem Widerspruch nicht ab, legt er ihn dem Spruchausschuss vor.
 
@@ -881,7 +797,7 @@ Die Wahl ist eine Personenwahl. Das Nähere regelt die Satzung.
 
 > **Fußnote**
 >
-> Inhaltsübersicht, Überschrift des Sechsten Teils und Überschrift des Zwölften Teils geändert sowie § 1, § 2, § 3, § 4, § 6, § 14, § 15, § 23, § 25, § 27, § 28, § 32, § 33, § 35, § 40, § 41, § 54, § 56, § 58 und § 62 zuletzt geändert durch Artikel 6 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 4 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par36" -->
 ## § 36
@@ -970,7 +886,7 @@ Die Frist für das Rechtsmittel nach § 35 Abs. 3 beginnt für den Nutzungsberec
 
 (1) Der Spruchausschuss besteht aus einer oder einem Vorsitzenden, die oder der im Hauptamt Richterin oder Richter ist, sowie aus drei im höheren Dienst des Landes stehenden Beamtinnen oder Beamten oder vergleichbaren tarifbeschäftigten Personen und aus einer oder einem Sachverständigen.
 
-(2) Die oder der Vorsitzende wird durch den Ministerpräsidenten im Einvernehmen mit dem Ministerium, je eine oder einer der drei beamteten Beisitzer oder tarifbeschäftigten Personen wird vom Ministerium, vom für Inneres zuständigen Ministerium und vom für Bergbau zuständigen Ministerium, die oder der Sachverständige durch das Ministerium bestellt.
+(2) Die oder der Vorsitzende wird durch die Ministerpräsidentin oder den Ministerpräsidenten im Einvernehmen mit dem für Umwelt zuständigen Ministerium, je eine oder einer der drei beamteten Beisitzer oder tarifbeschäftigten Personen wird vom für Umwelt zuständigen Ministerium, vom für Kommunales zuständigen Ministerium und vom für Bergbau zuständigen Ministerium sowie die oder der Sachverständige wird von dem für Umwelt zuständigen Ministerium bestellt.
 
 (3) Für jedes Mitglied wird in gleicher Weise eine Stellvertreterin oder ein Stellvertreter bestellt.
 
@@ -982,7 +898,7 @@ Die Frist für das Rechtsmittel nach § 35 Abs. 3 beginnt für den Nutzungsberec
 
 > **Fußnote**
 >
-> Inhaltsübersicht, Überschrift des Sechsten Teils und Überschrift des Zwölften Teils geändert sowie § 1, § 2, § 3, § 4, § 6, § 14, § 15, § 23, § 25, § 27, § 28, § 32, § 33, § 35, § 40, § 41, § 54, § 56, § 58 und § 62 zuletzt geändert durch Artikel 6 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 4 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par42" -->
 ## § 42 Aufgaben des Spruchausschusses
@@ -1076,11 +992,11 @@ Für die Beitreibung des Zwangsgeldes sowie der vorläufig geschätzten und tats
 <!-- norm id="par51" -->
 ## § 51 Verordnungen zum Schutze desUnternehmens
 
-Das Ministerium und die Ordnungsbehörden können durch Verordnungen zum Schutz von Unternehmen des Verbandes die Benutzung seiner Anlagen und seiner Gewässer regeln und ganz oder teilweise untersagen.
+Das für Umwelt zuständige Ministerium und die Ordnungsbehörden können durch Verordnungen zum Schutz von Unternehmen des Verbandes die Benutzung seiner Anlagen und seiner Gewässer regeln und ganz oder teilweise untersagen.
 
 > **Fußnote**
 >
-> § 51 und § 53 zuletzt geändert durch Artikel 90 d. EuroAnpG NRW v. 25.9.2001 (GV. NRW. S. 708); in Kraft getreten am 1. Januar 2002.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 4 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par52" -->
 ## § 52 Auskunft
@@ -1108,13 +1024,13 @@ Im Falle des § 52 Abs. 1 ist die zuständige Bezirksregierung berechtigt, gegen
 <!-- norm id="par54" -->
 ## § 54 Aufsicht
 
-(1) Der Verband steht unter der Aufsicht des Staates. Aufsichtsbehörde ist das für Umwelt zuständige Ministerium (Ministerium).
+(1) Der Verband steht unter der Aufsicht des Staates. Aufsichtsbehörde ist das für Umwelt zuständige Ministerium.
 
 (2) Die Aufsicht stellt sicher, daß der Verband die ihm obliegenden Aufgaben und Pflichten nach geltendem Recht und im Einklang mit den wasserwirtschaftlichen Zielsetzungen des Landes erfüllt.
 
 > **Fußnote**
 >
-> Inhaltsübersicht, Überschrift des Sechsten Teils und Überschrift des Zwölften Teils geändert sowie § 1, § 2, § 3, § 4, § 6, § 14, § 15, § 23, § 25, § 27, § 28, § 32, § 33, § 35, § 40, § 41, § 54, § 56, § 58 und § 62 zuletzt geändert durch Artikel 6 des Gesetzes vom 8. Juli 2016 (GV. NRW. S. 559), in Kraft getreten am 16. Juli 2016.
+> GV. NRW. 2026 S. 748: Zuletzt geändert durch Artikel 4 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par55" -->
 ## § 55 Teilnahme an Sitzungen, Unterrichtungder Aufsichtsbehörde

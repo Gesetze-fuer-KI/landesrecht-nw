@@ -1,31 +1,23 @@
 ---
 land: NW
-abkuerzung: '26994'
-titel: Landesforstgesetz für das Land Nordrhein-Westfalen (Landesforstgesetz - LFoG), Bekanntmachung der Neufassung
-stand: Fassung gültig ab 01.04.2025
-gilt_ab: '2025-04-01'
-quelle: https://recht.nrw.de/lrgv/gesetz/01042025-landesforstgesetz-fuer-das-land-nordrhein-westfalen-landesforstgesetz-lfog
+abkuerzung: LFoG
+titel: Landesforstgesetz für das Land Nordrhein-Westfalen
+kurztitel: Landesforstgesetz
+stand: Fassung gültig ab 30.10.2026
+gilt_ab: '2026-10-30'
+quelle: https://recht.nrw.de/lrgv/gesetz/30102026-landesforstgesetz-lfog
 ---
 
-# Landesforstgesetz für das Land Nordrhein-Westfalen (Landesforstgesetz - LFoG), Bekanntmachung der Neufassung (26994)
+# Landesforstgesetz für das Land Nordrhein-Westfalen (LFoG)
 
-Stand: Fassung gültig ab 01.04.2025
+Stand: Fassung gültig ab 30.10.2026
 
-Quelle: <https://recht.nrw.de/lrgv/gesetz/01042025-landesforstgesetz-fuer-das-land-nordrhein-westfalen-landesforstgesetz-lfog>
+Quelle: <https://recht.nrw.de/lrgv/gesetz/30102026-landesforstgesetz-lfog>
 
 Nichtamtliche Fassung des Landesportals.
 
 <!-- norm id="eingangsformel" -->
 ## Eingangsformel
-
-> **Fußnote**
->
-> § 16 zuletzt geändert durch Artikel 3 d. Gesetzes v. 17.12.2003 (GV. NRW. S. 808); in Kraft getreten am 1. Januar 2004.
->
-> § 67 geändert durch Artikel 17 des Gesetzes vom 14. Juni 2016 (GV. NRW. S. 310), in Kraft getreten am 1. Juli 2016.
-
-<!-- norm id="ohnebezeichnung" -->
-## (ohne Bezeichnung)
 
 Vom 24. April 1980
 
@@ -53,125 +45,14 @@ des Landes Nordrhein-Westfalen
 **in der Fassung der Bekanntmachung**  
 **Vom 24. April 1980**
 
-Inhaltsverzeichnis
+<!-- norm id="ohnebezeichnung" -->
+## (ohne Bezeichnung)
 
-|  |  |
-|---|---|
-| Kapitel I<br>Allgemeine Vorschriften |  |
-| Erster Abschnitt<br>Begriffsbestimmungen |  |
-| § 1 | Wald |
-| § 1a | Nachhaltige Forstwirtschaft |
-| § 1b | Ordnungsgemäße Forstwirtschaft |
-| Zweiter Abschnitt<br>Betreten des Waldes |  |
-| § 2 | Betreten des Waldes |
-| § 3 | Betretungsverbote |
-| § 4 | Sperren von Waldflächen |
-| § 5 | Zeitweilige Beschränkung des Betretungsrechtes |
-| § 6 | Schadenbeseitigung |
-| § 6 a | Abfallverwertung und Abfallbeseitigung |
-| § 6 b | Forstwirtschaftlicher Wegebau |
-| Dritter Abschnitt<br>Forstliche Rahmenplanung, Sicherung<br>der Funktionen des Waldes bei<br>Planungen und Maßnahmen von Trägern<br>öffentlicher Vorhaben |  |
-| § 7 | Aufgaben und Grundsätze der forstlichen Rahmenplanung |
-| § 8 | Forstlicher Fachbeitrag |
-| § 9 | Sicherung der Funktionen des Waldes bei Planungen und Maßnahmen von Trägern öffentlicher Vorhaben |
-| Kapitel II<br>Förderung der Forstwirtschaft |  |
-| § 10 | Grundsätze |
-| Erster Abschnitt<br>Betreuung der Waldbesitzer |  |
-| § 11 | Inhalt der Betreuung |
-| § 12 | Besondere Voraussetzungen für die Betreuung |
-| § 13 | Allgemeines |
-| Zweiter Abschnitt<br>Waldwirtschaftsgenossenschaften |  |
-| § 14 | Rechtsnatur und Aufgaben |
-| § 15 | Voraussetzung für die Bildung einer Waldwirtschaftsgenossenschaft |
-| § 16 | Verfahren zur Bildung einer Waldwirtschaftsgenossenschaft |
-| § 17 | Bildung der Waldwirtschaftsgenossenschaft |
-| § 18 | Mitgliedschaft |
-| § 19 | Organe der Waldwirtschaftsgenossenschaft |
-| § 20 | Aufgaben der Genossenschaftsversammlung |
-| § 21 | Vorsitz und Einberufung der Genossenschaftsversammlung, Stimmenverhältnis |
-| § 22 | Vorstand |
-| § 23 | Genossenschaftsausschuß |
-| § 24 | Satzung |
-| § 25 | Änderung der Satzung |
-| § 26 | Ausscheiden von Grundstücken |
-| § 27 | Deckung des Finanzbedarfs |
-| § 28 | Aufsicht |
-| § 29 | Genossenschaftsverzeichnis |
-| § 30 | Auflösung der Waldwirtschaftsgenossenschaft |
-| Kapitel III<br>Besondere Vorschriften über<br>öffentlichen Waldbesitz |  |
-| Erster Abschnitt<br>Staatswald |  |
-| § 31 | Bewirtschaftungsgrundsätze für den Staatswald |
-| Zweiter Abschnitt<br>Gemeindewald |  |
-| § 32 | Bewirtschaftungsgrundsätze für den Gemeindewald |
-| § 33 | Betriebsplan und Betriebsgutachten |
-| § 34 | Wirtschaftsplan |
-| § 35 | Forstliches Fachpersonal der Gemeinde |
-| § 36 | Rechtsverordnung |
-| Dritter Abschnitt<br>Wald anderer juristischer Personen<br>des öffentlichen Rechts |  |
-| § 37 | Entsprechende Anwendung der Vorschriften über den Gemeindewald |
-| § 38 | Ausnahmen |
-| Kapitel IV<br>Erhaltung und Vermehrung<br>des Waldbestandes |  |
-| Erster Abschnitt<br>Umwandlung und Aufforstung |  |
-| § 39 | Umwandlung |
-| § 40 | Befristete Umwandlung |
-| § 41 | Erstaufforstung |
-| § 42 | Verfahren, Umwandlungsfrist |
-| § 43 | Ausnahmen |
-| § 44 | Pflicht zur Wiederaufforstung |
-| Zweiter Abschnitt<br>Schutz vor Waldbränden, Nachbarschutz |  |
-| § 45 | Schutzmaßnahmen gegen Waldbrände |
-| § 46 | aufgehoben |
-| § 47 | Waldgefährdung durch Feuer |
-| § 48 | Schutz benachbarter Waldbestände |
-| Dritter Abschnitt<br>Schutzwald, Erholungswald |  |
-| § 49 | Schutzwald, Naturwaldzellen |
-| § 50 | Erholungswald |
-| Vierter Abschnitt<br>Entschädigung |  |
-| § 51 | Entschädigung, Vorteilsausgleich |
-| Fünfter Abschnitt<br>Forstschutz |  |
-| § 52 | Aufgaben |
-| § 53 | Ausübung des Forstschutzes, Forstschutzbeauftragte |
-| § 54 | Kennzeichnung |
-| Kapitel V<br>Landesforstverwaltung |  |
-| Erster Abschnitt<br>Gliederung der Forstbehörden |  |
-| § 55 | Landesforstverwaltung |
-| § 56 | Organisation des Landesbetriebes Wald und Holz |
-| § 57 | (aufgehoben) |
-| § 58 | Forstamtsbezirke |
-| § 59 | (aufgehoben) |
-| Zweiter Abschnitt<br>Aufgaben und Zuständigkeiten<br>der Forstbehörden |  |
-| § 60 | Aufgaben |
-| § 61 | Zuständigkeit |
-| Dritter Abschnitt<br>Beratung der Landesforstverwaltung |  |
-| § 62 | Beratungsorgane |
-| § 63 | (aufgehoben) |
-| § 64 | (aufgehoben) |
-| § 65 | (aufgehoben) |
-| § 66 | (aufgehoben) |
-| Kapitel VI<br>Berufsbezeichnung, Dienstkleidung |  |
-| § 67 | Berufsbezeichnung |
-| § 68 | Dienstkleidung der Forstbediensteten |
-| Kapitel VII<br>Kostenregelung und Bußgeldvorschriften |  |
-| § 69 | (aufgehoben) |
-| § 70 | Bußgeldvorschriften |
-| Kapitel VIII<br>Schlußvorschriften |  |
-| § 71 | Durchführungsvorschriften |
-| § 72 | Änderung der Gemeindeordnung |
-| § 73 | Änderung des Feld- und Forstschutzgesetzes |
-| § 74 | Änderung des Landesjagdgesetzes |
-| § 75 | Änderung des Landesorganisationsgesetzes |
-| § 76 | Aufhebung bestehender Vorschriften |
-| § 77 | Inkrafttreten |
-
-Kapitel I  
+Kapitel 1  
 Allgemeine Vorschriften
 
 Erster Abschnitt  
 Begriffsbestimmungen
-
-> **Fußnote**
->
-> Inhaltsübersicht zuletzt geändert durch Artikel 2 Nr. 8.1 des Gesetzes vom 23.5.2006 (GV. NRW. S. 197); in Kraft getreten am 29. Mai 2006.
 
 <!-- norm id="par1" -->
 ## § 1 Wald(Zu § 2 Bundeswaldgesetz)
@@ -508,6 +389,8 @@ Das Verfahren zur Bildung einer Waldwirtschaftsgenossenschaft besteht aus einer 
 > **Fußnote**
 >
 > § 12 und § 14 zuletzt geändert durch Artikel 105 d. EuroAnpG v.25.9.2001 (GV. NRW. S. 708); in Kraft getreten am 1. Januar 2002.
+>
+> § 16 zuletzt geändert durch Artikel 3 d. Gesetzes v. 17.12.2003 (GV. NRW. S. 808); in Kraft getreten am 1. Januar 2004.
 
 <!-- norm id="par17" -->
 ## § 17 Bildung der Waldwirtschafts-genossenschaft
@@ -769,9 +652,11 @@ Umwandlung und Aufforstung
 
 (5) Die Vorschriften des Landesnaturschutzgesetz bleiben unberührt.
 
+(6) Abweichend von § 9 Absatz 1 des Bundeswaldgesetzes vom 2. Mai 1975 (BGBl. I S. 1037), das zuletzt durch Artikel 112 des Gesetzes vom 10. August 2021 (BGBl. I S. 3436) geändert worden ist, gilt die Beseitigung von Forstpflanzen zur Pflege und Erhaltung von natürlichen Offenland-Lebensraumtypen der Nummern 1340, 2310, 2330, 4010, 4030, 5130, 6110, 6130, 6210, 6230, 6410, 6430, 6440, 6510, 6520, 7110, 7120, 7140, 7150, 7210, 7230, 8150 und 8160 in Gebieten von gemeinschaftlicher Bedeutung nach § 7 Absatz 1 Nummer 6 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), das zuletzt durch Artikel 2 des Gesetzes vom 30. September 2026 (BGBl. 2026 I Nr. 286) geändert worden ist, nicht als Umwandlung im Sinne des Absatzes 1. Geplante Maßnahmen im Sinne des Satzes 1 sind der Forstbehörde anzuzeigen.
+
 > **Fußnote**
 >
-> §§ 39 und 41 zuletzt geändert durch Artikel 3 des Gesetzes vom 26. März 2019 (GV. NRW. S. 193, ber. S. 214), in Kraft getreten am 10. April 2019.
+> GV. NRW. 2026 S. 763: Zuletzt geändert durch Artikel 2 des Gesetzes vom 21. Oktober 2026, in Kraft getreten am 30. Oktober 2026.
 
 <!-- norm id="par40" -->
 ## § 40 Befristete Umwandlung(Zu § 9 Bundeswaldgesetz)
@@ -1169,6 +1054,8 @@ Die Befugnis, eine Berufsbezeichnung der in Absatz 1 bezeichneten Art zu führen
 > **Fußnote**
 >
 > § 43 zuletzt geändert durch Artikel 2 des Gesetzes vom 8. Juli 2021 (GV. NRW. S. 904), in Kraft getreten am 16. Juli 2021.
+>
+> § 67 geändert durch Artikel 17 des Gesetzes vom 14. Juni 2016 (GV. NRW. S. 310), in Kraft getreten am 1. Juli 2016.
 
 <!-- norm id="par68" -->
 ## § 68 Dienstkleidung der Forstbediensteten

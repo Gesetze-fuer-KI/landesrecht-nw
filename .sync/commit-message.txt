@@ -1,4 +1,26 @@
-Nordrhein-Westfalen Stand 2026-10-29: 0 geändert, 0 neu, 0 entfernt
+Nordrhein-Westfalen Stand 2026-10-30: 0 geändert, 11 neu, 11 entfernt
 
+- neu: LippeVG (Gesetz über den Lippeverband)
+- neu: LINEGG (Gesetz über die Linksniederrheinische Entwässerungs-Genossenschaft)
+- neu: ErftVG (Gesetz über den Erftverband (ErftVG))
+- neu: EmscherGG (Gesetz über die Emschergenossenschaft)
+- neu: Eifel-RurVG (Gesetz über den Wasserverband Eifel-Rur)
+- neu: AggerVG (Gesetz über den Aggerverband)
+- neu: LNatSchG NRW (Gesetz zum Schutz der Natur in Nordrhein-Westfalen)
+- neu: LFoG (Landesforstgesetz für das Land Nordrhein-Westfalen)
+- neu: KlAnG (Klimaanpassungsgesetz Nordrhein-Westfalen)
+- neu: AHaftVollzG NRW (Gesetz über den Vollzug der Abschiebungshaft in Nordrhein-Westfalen)
+- neu: VO-StrUG NRW (Durchführungsverordnung zum Strafrechtsbezogenen Unterbringungsgesetz NRW)
+- entfernt: nw-26895
+- entfernt: nw-26906
+- entfernt: nw-26907
+- entfernt: nw-26908
+- entfernt: nw-26910
+- entfernt: nw-26918
+- entfernt: nw-26994
+- entfernt: nw-28058
+- entfernt: nw-29969
+- entfernt: nw-31446
+- entfernt: nw-33181
 
 Nicht abrufbar (6): nw-27028, nw-27789, nw-28965, nw-30850, nw-33132, nw-34234
