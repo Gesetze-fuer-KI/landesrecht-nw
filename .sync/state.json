@@ -376,7 +376,7 @@
    "next_version_from": null
   },
   "nw-26909": {
-   "lastmod": "2024-12-24",
+   "lastmod": "2026-10-30",
    "next_version_from": null
   },
   "nw-26915": {
@@ -388,11 +388,11 @@
    "next_version_from": null
   },
   "nw-26917": {
-   "lastmod": "2022-02-19",
+   "lastmod": "2026-10-30",
    "next_version_from": null
   },
   "nw-26919": {
-   "lastmod": "2022-02-19",
+   "lastmod": "2026-10-30",
    "next_version_from": null
   },
   "nw-26929": {
@@ -400,7 +400,7 @@
    "next_version_from": null
   },
   "nw-26930": {
-   "lastmod": "2021-12-29",
+   "lastmod": "2026-10-30",
    "next_version_from": null
   },
   "nw-26936": {
@@ -1532,7 +1532,7 @@
    "next_version_from": null
   },
   "nw-28251": {
-   "lastmod": "2022-02-19",
+   "lastmod": "2026-10-30",
    "next_version_from": null
   },
   "nw-28254": {
@@ -3176,7 +3176,7 @@
    "next_version_from": null
   },
   "nw-31605": {
-   "lastmod": "2021-05-18",
+   "lastmod": "2026-10-30",
    "next_version_from": null
   },
   "nw-31611": {
@@ -5179,7 +5179,6 @@
   "https://recht.nrw.de/lrgv/gesetz/17122014-gesetz-ueber-die-anerkennung-als-markscheider-im-land-nordrhein-westfalen": "30013",
   "https://recht.nrw.de/lrgv/gesetz/18032021-justizneutralitaetsgesetz-jneutg-nrw": "32996",
   "https://recht.nrw.de/lrgv/gesetz/18052021-gesetz-zur-zustimmung-zum-staatsvertrag-ueber-die-voraussetzungen-zur": "33099",
-  "https://recht.nrw.de/lrgv/gesetz/18052021-nordrhein-westfaelisches-gesetz-zur-ausfuehrung-des-abwasserabgabengesetzes": "31605",
   "https://recht.nrw.de/lrgv/gesetz/18052021-pressegesetz-fuer-das-land-nordrhein-westfalen-landespressegesetz-nrw": "27650",
   "https://recht.nrw.de/lrgv/gesetz/18072025-gesetz-zum-schutz-des-kindeswohls-und-zur-weiterentwicklung-und-verbesserung": "33490",
   "https://recht.nrw.de/lrgv/gesetz/18072025-gesetz-zur-anteiligen-entschuldung-von-kommunen-im-land-nordrhein-westfalen": "34416",
@@ -5188,10 +5187,7 @@
   "https://recht.nrw.de/lrgv/gesetz/18112023-gesetz-ueber-die-oeffentlich-bestellten-vermessungsingenieurinnen-und": "31027",
   "https://recht.nrw.de/lrgv/gesetz/18122014-ausfuehrungsgesetz-des-landes-nordrhein-westfalen-zum": "31197",
   "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-das-friedhofs-und-bestattungswesen-bestattungsgesetz-bestg-nrw": "28309",
-  "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-den-niersverband-niersverbandsgesetz-niersvg": "26917",
-  "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-den-wupperverband-wupperverbandsgesetz-wuppervg": "26919",
   "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-die-errichtung-einer-anstalt-des-oeffentlichen-rechts-d-nrw-aoer": "31663",
-  "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-die-gruendung-des-verbandes-zur-sanierung-und-aufbereitung-von": "28251",
   "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-die-gutachterstellen-bei-den-aerztekammern": "27424",
   "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-die-sicherheit-haefen-und-hafenanlagen-im-land-nordrhein": "31449",
   "https://recht.nrw.de/lrgv/gesetz/19022022-gesetz-ueber-die-zulassung-von-zentren-und-ueber-die-einrichtung-der": "31088",
@@ -5217,7 +5213,6 @@
   "https://recht.nrw.de/lrgv/gesetz/24072019-gesetz-ueber-die-beaufsichtigung-der-versicherungsunternehmen-und-der": "27974",
   "https://recht.nrw.de/lrgv/gesetz/24102017-gesetz-zur-zustimmung-zum-staatsvertrag-ueber-die-organisation-eines": "32002",
   "https://recht.nrw.de/lrgv/gesetz/24122009-gesetz-ueber-die-errichtung-und-den-betrieb-einer-rohrleitungsanlage-zwischen": "28734",
-  "https://recht.nrw.de/lrgv/gesetz/24122024-gesetz-ueber-den-ruhrverband-ruhrverbandsgesetz-ruhrvg": "26909",
   "https://recht.nrw.de/lrgv/gesetz/24122024-gesetz-ueber-die-errichtung-der-stiftung-opferschutz-nordrhein-westfalen": "33443",
   "https://recht.nrw.de/lrgv/gesetz/24122024-gesetz-ueber-die-justiz-im-land-nordrhein-westfalen-justizgesetz-nordrhein": "30034",
   "https://recht.nrw.de/lrgv/gesetz/25052018-fuenftes-gesetz-zur-aenderung-des-gesetzes-ueber-den-westdeutschen-rundfunk": "27668",
@@ -5248,7 +5243,6 @@
   "https://recht.nrw.de/lrgv/gesetz/29112016-gesetz-zur-entbuerokratisierung-der-beitreibung-von-gebuehren-und": "29208",
   "https://recht.nrw.de/lrgv/gesetz/29112019-gesetz-ueber-die-erhebung-von-kirchensteuern-im-land-nordrhein-westfalen": "26715",
   "https://recht.nrw.de/lrgv/gesetz/29122018-gesetz-zur-sicherstellung-der-hausaerztlichen-versorgung-bereichen-besonderen": "32320",
-  "https://recht.nrw.de/lrgv/gesetz/29122021-bekanntmachung-der-neufassung-des-wassergesetzes-fuer-das-land-nordrhein": "26930",
   "https://recht.nrw.de/lrgv/gesetz/29122021-gesetz-ueber-rentengueter": "26475",
   "https://recht.nrw.de/lrgv/gesetz/29122021-gesetz-zur-foerderung-und-nutzung-von-wohnraum-fuer-das-land-nordrhein": "29998",
   "https://recht.nrw.de/lrgv/gesetz/29122021-nachbarrechtsgesetz-nachbg-nrw": "26658",
@@ -5264,15 +5258,21 @@
   "https://recht.nrw.de/lrgv/gesetz/30092009-gesetz-zum-staatsvertrag-zwischen-den-laendern-hessen-und-nordrhein-westfalen": "29925",
   "https://recht.nrw.de/lrgv/gesetz/30092014-gesetz-zur-regelung-der-verleihung-und-des-entzugs-der-rechte-einer": "31128",
   "https://recht.nrw.de/lrgv/gesetz/30102026-abschiebungshaftvollzugsgesetz-nordrhein-westfalen-ahaftvollzg-nrw": "30102026-abschiebungshaftvollzugsgesetz-nordrhein-westfalen-ahaftvollzg-nrw",
+  "https://recht.nrw.de/lrgv/gesetz/30102026-abwasserabgabengesetz-nordrhein-westfalen-abwag-nrw": "31605",
   "https://recht.nrw.de/lrgv/gesetz/30102026-aggerverbandsgesetz-aggervg": "30102026-aggerverbandsgesetz-aggervg",
+  "https://recht.nrw.de/lrgv/gesetz/30102026-altlastensanierungs-und-altlastenaufbereitungsverbandsgesetz-aavg": "28251",
   "https://recht.nrw.de/lrgv/gesetz/30102026-eifel-rur-verbandsgesetz-eifel-rurvg": "30102026-eifel-rur-verbandsgesetz-eifel-rurvg",
   "https://recht.nrw.de/lrgv/gesetz/30102026-emschergenossenschaftsgesetz-emschergg": "30102026-emschergenossenschaftsgesetz-emschergg",
   "https://recht.nrw.de/lrgv/gesetz/30102026-gesetz-ueber-den-erftverband-erftvg": "30102026-gesetz-ueber-den-erftverband-erftvg",
   "https://recht.nrw.de/lrgv/gesetz/30102026-klimaanpassungsgesetz-nordrhein-westfalen": "30102026-klimaanpassungsgesetz-nordrhein-westfalen",
   "https://recht.nrw.de/lrgv/gesetz/30102026-landesforstgesetz-lfog": "30102026-landesforstgesetz-lfog",
   "https://recht.nrw.de/lrgv/gesetz/30102026-landesnaturschutzgesetz-lnatschg-nrw": "30102026-landesnaturschutzgesetz-lnatschg-nrw",
+  "https://recht.nrw.de/lrgv/gesetz/30102026-landeswassergesetz-lwg": "26930",
   "https://recht.nrw.de/lrgv/gesetz/30102026-linksniederrheinisches-entwaesserungs-genossenschafts-gesetz-linegg": "30102026-linksniederrheinisches-entwaesserungs-genossenschafts-gesetz-linegg",
   "https://recht.nrw.de/lrgv/gesetz/30102026-lippeverbandsgesetz-lippevg": "30102026-lippeverbandsgesetz-lippevg",
+  "https://recht.nrw.de/lrgv/gesetz/30102026-niersverbandsgesetz-niersvg": "26917",
+  "https://recht.nrw.de/lrgv/gesetz/30102026-ruhrverbandsgesetz-ruhrvg": "26909",
+  "https://recht.nrw.de/lrgv/gesetz/30102026-wupperverbandsgesetz-wuppervg": "26919",
   "https://recht.nrw.de/lrgv/gesetz/30112024-gesetz-ueber-den-verfassungsgerichtshof-fuer-das-land-nordrhein-westfalen": "26514",
   "https://recht.nrw.de/lrgv/gesetz/30122000-gesetz-zur-regelung-der-kosten-nach-dem-infektionsschutzgesetz-kog-ifsg": "28090",
   "https://recht.nrw.de/lrgv/gesetz/30122022-gesetz-zur-errichtung-eines-sondervermoegens-zur-finanzierung-aller-direkten": "33673",
