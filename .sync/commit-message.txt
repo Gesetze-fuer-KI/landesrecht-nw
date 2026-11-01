@@ -1,10 +1,5 @@
-Nordrhein-Westfalen Stand 2026-10-31: 6 geändert, 0 neu, 0 entfernt
+Nordrhein-Westfalen Stand 2026-11-01: 1 geändert, 0 neu, 0 entfernt
 
-- AbwAG NRW: Fassung gültig ab 30.10.2026
-- LWG: Fassung gültig ab 30.10.2026
-- AAVG: Fassung gültig ab 30.10.2026
-- WupperVG: Fassung gültig ab 30.10.2026
-- RuhrVG: Fassung gültig ab 30.10.2026
-- NiersVG: Fassung gültig ab 30.10.2026
+- JuZuVO: Fassung gültig ab 01.11.2026
 
 Nicht abrufbar (6): nw-27028, nw-27789, nw-28965, nw-30850, nw-33132, nw-34234

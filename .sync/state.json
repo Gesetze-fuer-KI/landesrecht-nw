@@ -4464,8 +4464,8 @@
    "next_version_from": null
   },
   "nw-34242": {
-   "lastmod": "2026-03-01",
-   "next_version_from": "2026-11-01"
+   "lastmod": "2026-11-01",
+   "next_version_from": null
   },
   "nw-34243": {
    "lastmod": "2025-12-09",
@@ -5430,7 +5430,6 @@
   "https://recht.nrw.de/lrgv/rechtsverordnung/01032023-verordnung-ueber-die-zustaendigkeit-und-die-ausgestaltung-des": "33718",
   "https://recht.nrw.de/lrgv/rechtsverordnung/01032023-verordnung-zum-aufbau-einer-angebotsstruktur-zur-ermoeglichung-von": "33244",
   "https://recht.nrw.de/lrgv/rechtsverordnung/01032025-verordnung-ueber-die-ausbildung-und-pruefung-fuer-die-laufbahn-des": "30844",
-  "https://recht.nrw.de/lrgv/rechtsverordnung/01032026-justizzustaendigkeitsverordnung-juzuvo": "34242",
   "https://recht.nrw.de/lrgv/rechtsverordnung/01042004-verordnung-ueber-die-zustaendigkeit-fuer-die-erteilung-einer": "28380",
   "https://recht.nrw.de/lrgv/rechtsverordnung/01042015-verordnung-ueber-die-fuer-den-erlass-von-rahmenvorgaben-im": "31277",
   "https://recht.nrw.de/lrgv/rechtsverordnung/01042016-verordnung-ueber-die-beaufsichtigung-der-versicherungsunternehmen": "31512",
@@ -5535,6 +5534,7 @@
   "https://recht.nrw.de/lrgv/rechtsverordnung/01112017-verordnung-ueber-ein-oeffentlich-rechtliches-ausbildungsverhaeltnis": "31803",
   "https://recht.nrw.de/lrgv/rechtsverordnung/01112025-hebammengebuehrenordnung-nordrhein-westfalen": "31336",
   "https://recht.nrw.de/lrgv/rechtsverordnung/01112025-verordnung-ueber-das-verfahren-fuer-die-wahl-einer-vorschlagsliste": "31258",
+  "https://recht.nrw.de/lrgv/rechtsverordnung/01112026-justizzustaendigkeitsverordnung-juzuvo": "34242",
   "https://recht.nrw.de/lrgv/rechtsverordnung/01122006-verordnung-zur-anpassung-der-grenzen-der-amtsgerichtsbezirke": "29223",
   "https://recht.nrw.de/lrgv/rechtsverordnung/01122012-verordnung-ueber-die-gewaehrung-von-unterhaltsbeihilfe": "27997",
   "https://recht.nrw.de/lrgv/rechtsverordnung/01122012-verordnung-zur-anwendung-des-arbeitsschutzgesetzes-und-zur-umsetzung": "27895",
