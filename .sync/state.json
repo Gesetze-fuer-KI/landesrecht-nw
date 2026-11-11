@@ -2888,7 +2888,7 @@
    "next_version_from": null
   },
   "nw-31195": {
-   "lastmod": "2023-12-12",
+   "lastmod": "2026-11-11",
    "next_version_from": null
   },
   "nw-31196": {
@@ -4814,6 +4814,10 @@
   "nw-34659": {
    "lastmod": "2026-10-30",
    "next_version_from": null
+  },
+  "nw-34675": {
+   "lastmod": "2026-11-11",
+   "next_version_from": null
   }
  },
  "cache": {
@@ -5682,6 +5686,8 @@
   "https://recht.nrw.de/lrgv/rechtsverordnung/11022023-verordnung-zur-uebertragung-von-befugnissen-nach-den-ssss-57-bis-59": "33700",
   "https://recht.nrw.de/lrgv/rechtsverordnung/11062005-verordnung-ueber-die-weiterbildungsabschnitte-einrichtungen-des": "28972",
   "https://recht.nrw.de/lrgv/rechtsverordnung/11102014-verordnung-ueber-die-bezirke-der-handwerkskammern-im-lande-nordrhein": "29970",
+  "https://recht.nrw.de/lrgv/rechtsverordnung/11112026-ausbildungs-und-pruefungsverordnung-verfassungsschutz-vap-vs": "34675",
+  "https://recht.nrw.de/lrgv/rechtsverordnung/11112026-verordnung-qualifizierungsaufstieg-steuer-voqualiast": "31195",
   "https://recht.nrw.de/lrgv/rechtsverordnung/11122025-durchfuehrungsverordnung-pflanze-dvopflanze": "34477",
   "https://recht.nrw.de/lrgv/rechtsverordnung/11122025-verordnung-ueber-die-pruefung-elektrischer-anlagen": "32777",
   "https://recht.nrw.de/lrgv/rechtsverordnung/11122025-zustaendigkeitsverordnung-agrarfoerderung-zustvo-afoe": "33926",
@@ -5704,7 +5710,6 @@
   "https://recht.nrw.de/lrgv/rechtsverordnung/12112022-verordnung-ueber-die-errichtung-von-personalvertretungen-fuer-die-im": "27387",
   "https://recht.nrw.de/lrgv/rechtsverordnung/12122012-verordnung-ueber-zustaendigkeiten-nach-dem-gesetz-zum-schutz-gegen": "30230",
   "https://recht.nrw.de/lrgv/rechtsverordnung/12122020-verordnung-ueber-die-hegeplaene-hegeplanverordnung-hegeplanvo": "30081",
-  "https://recht.nrw.de/lrgv/rechtsverordnung/12122023-verordnung-ueber-den-qualifizierungsaufstieg-die-laufbahngruppe-2": "31195",
   "https://recht.nrw.de/lrgv/rechtsverordnung/13022021-verordnung-ueber-die-ausbildung-und-pruefung-fuer-die-laufbahn-der": "32654",
   "https://recht.nrw.de/lrgv/rechtsverordnung/13032019-verordnung-ueber-das-nationale-naturmonument-kluterthoehlensystem": "32368",
   "https://recht.nrw.de/lrgv/rechtsverordnung/13052017-verordnung-zur-umsetzung-von-artikel-4-und-5-der-richtlinie-91676ewg": "27926",
