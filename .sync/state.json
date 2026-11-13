@@ -11,6 +11,18 @@
    "lastmod": "2025-11-07",
    "next_version_from": null
   },
+  "nw-13112026-ausbildungs-und-pruefungsvo-laufbahnabschnitt-ii-bachelor-vappol-ii": {
+   "lastmod": "2026-11-13",
+   "next_version_from": null
+  },
+  "nw-13112026-fluglaermschutzverordnung-noervenich-flulaermnoervv": {
+   "lastmod": "2026-11-13",
+   "next_version_from": null
+  },
+  "nw-13112026-gebuehrenordnung-fuer-amtshandlungen-des-fuer-wissenschaft": {
+   "lastmod": "2026-11-13",
+   "next_version_from": null
+  },
   "nw-26470": {
    "lastmod": "2014-02-27",
    "next_version_from": null
@@ -2711,10 +2723,6 @@
    "lastmod": "2024-06-12",
    "next_version_from": null
   },
-  "nw-30846": {
-   "lastmod": "2013-06-28",
-   "next_version_from": null
-  },
   "nw-30847": {
    "lastmod": "2026-01-01",
    "next_version_from": null
@@ -2960,7 +2968,7 @@
    "next_version_from": null
   },
   "nw-31274": {
-   "lastmod": "2025-12-09",
+   "lastmod": "2026-10-30",
    "next_version_from": null
   },
   "nw-31275": {
@@ -3081,10 +3089,6 @@
   },
   "nw-31453": {
    "lastmod": "2026-10-02",
-   "next_version_from": null
-  },
-  "nw-31455": {
-   "lastmod": "2026-08-04",
    "next_version_from": null
   },
   "nw-31456": {
@@ -4083,10 +4087,6 @@
    "lastmod": "2022-05-31",
    "next_version_from": null
   },
-  "nw-33522": {
-   "lastmod": "2023-06-30",
-   "next_version_from": null
-  },
   "nw-33523": {
    "lastmod": "2022-06-08",
    "next_version_from": null
@@ -4817,6 +4817,14 @@
   },
   "nw-34675": {
    "lastmod": "2026-11-11",
+   "next_version_from": null
+  },
+  "nw-34676": {
+   "lastmod": "2026-11-13",
+   "next_version_from": null
+  },
+  "nw-34677": {
+   "lastmod": "2026-11-13",
    "next_version_from": null
   }
  },
@@ -5569,7 +5577,6 @@
   "https://recht.nrw.de/lrgv/rechtsverordnung/04072015-verordnung-ueber-die-zustaendigkeiten-auf-den-gebieten-des": "31332",
   "https://recht.nrw.de/lrgv/rechtsverordnung/04082026-beihilfenverordnung-nrw-bvo-nrw": "29972",
   "https://recht.nrw.de/lrgv/rechtsverordnung/04082026-freistellungs-und-urlaubsverordnung-nrw-frurlv-nrw": "30520",
-  "https://recht.nrw.de/lrgv/rechtsverordnung/04082026-gebuehrenordnung-fuer-amtshandlungen-des-fuer-wissenschaft": "31455",
   "https://recht.nrw.de/lrgv/rechtsverordnung/04082026-hochschul-digitalverordnung-hdvo": "32853",
   "https://recht.nrw.de/lrgv/rechtsverordnung/04082026-hochschulabgabenverordnung-habg-vo": "31382",
   "https://recht.nrw.de/lrgv/rechtsverordnung/04082026-hochschulwirtschaftsfuehrungsverordnung-hwfvo": "29337",
@@ -5679,7 +5686,6 @@
   "https://recht.nrw.de/lrgv/rechtsverordnung/09122025-zustaendigkeitsverordnung-tierarzneimittel-zustvo-tieram": "33423",
   "https://recht.nrw.de/lrgv/rechtsverordnung/09122025-zustaendigkeitsverordnung-tiergesundheit-und-tierische-nebenprodukte": "28110",
   "https://recht.nrw.de/lrgv/rechtsverordnung/09122025-zustaendigkeitsverordnung-tierschutz-nordrhein-westfalen-zustvo": "31252",
-  "https://recht.nrw.de/lrgv/rechtsverordnung/09122025-zustaendigkeitsverordnung-umweltschutz": "31274",
   "https://recht.nrw.de/lrgv/rechtsverordnung/09122025-zustaendigkeitsverordnung-verbraucherschutz-nordrhein-westfalen": "31275",
   "https://recht.nrw.de/lrgv/rechtsverordnung/10062023-verordnung-zur-uebertragung-beamten-versicherungs-und": "30158",
   "https://recht.nrw.de/lrgv/rechtsverordnung/10112023-verordnung-ueber-den-finanziellen-ausgleich-nach-ss-8-zensusgesetz": "33919",
@@ -5717,6 +5723,11 @@
   "https://recht.nrw.de/lrgv/rechtsverordnung/13052022-verordnung-ueber-die-durchfuehrung-digitaler-und-hybrider-sitzungen": "33511",
   "https://recht.nrw.de/lrgv/rechtsverordnung/13072021-verordnung-ueber-das-losverfahren-zur-auswahl-bei-konkurrierenden": "32621",
   "https://recht.nrw.de/lrgv/rechtsverordnung/13072021-verordnung-ueber-die-annahme-und-wettvermittlungsstellen-des-landes": "32620",
+  "https://recht.nrw.de/lrgv/rechtsverordnung/13112026-ausbildungs-und-pruefungsvo-laufbahnabschnitt-ii-bachelor-vappol-ii": "13112026-ausbildungs-und-pruefungsvo-laufbahnabschnitt-ii-bachelor-vappol-ii",
+  "https://recht.nrw.de/lrgv/rechtsverordnung/13112026-fluglaermschutzverordnung-noervenich-flulaermnoervv": "13112026-fluglaermschutzverordnung-noervenich-flulaermnoervv",
+  "https://recht.nrw.de/lrgv/rechtsverordnung/13112026-gebuehrenordnung-fuer-amtshandlungen-des-fuer-wissenschaft": "13112026-gebuehrenordnung-fuer-amtshandlungen-des-fuer-wissenschaft",
+  "https://recht.nrw.de/lrgv/rechtsverordnung/13112026-verordnung-zur-foerderung-kommunaler-aufwendungen-fuer-die": "34676",
+  "https://recht.nrw.de/lrgv/rechtsverordnung/13112026-vorkursverordnung-vorkursvo": "34677",
   "https://recht.nrw.de/lrgv/rechtsverordnung/14012022-verordnung-ueber-beamtenrechtliche-und-disziplinarrechtliche": "30899",
   "https://recht.nrw.de/lrgv/rechtsverordnung/14012022-verordnung-ueber-das-verfahren-ueber-die-gewaehrung-von": "33389",
   "https://recht.nrw.de/lrgv/rechtsverordnung/14012022-verordnung-zur-regelung-der-anforderungen-das-bereitstellen-von": "33386",
@@ -5967,7 +5978,6 @@
   "https://recht.nrw.de/lrgv/rechtsverordnung/28052014-verordnung-zur-regelung-von-zustaendigkeiten-nach-dem-gesetz-ueber": "29884",
   "https://recht.nrw.de/lrgv/rechtsverordnung/28052021-verordnung-ueber-die-ausbildung-und-pruefung-fuer-die-laufbahn-des-0": "31578",
   "https://recht.nrw.de/lrgv/rechtsverordnung/28052021-verordnung-ueber-die-gewaehrung-von-jubilaeumszuwendungen-die": "31739",
-  "https://recht.nrw.de/lrgv/rechtsverordnung/28062013-verordnung-ueber-die-festsetzung-des-laermschutzbereichs-fuer-den": "30846",
   "https://recht.nrw.de/lrgv/rechtsverordnung/28062025-kommunalwahlordnung-kwahlo": "26521",
   "https://recht.nrw.de/lrgv/rechtsverordnung/28072023-verordnung-ueber-die-eingruppierung-der-kommunalen-wahlbeamtinnen": "27350",
   "https://recht.nrw.de/lrgv/rechtsverordnung/28112025-pruefungs-und-schlichtungsverordnung-psvo": "30228",
@@ -5995,7 +6005,6 @@
   "https://recht.nrw.de/lrgv/rechtsverordnung/30052026-eakten-verordnung-hinterlegungssachen-eaktvo-hintg": "33948",
   "https://recht.nrw.de/lrgv/rechtsverordnung/30052026-verordnung-ueber-die-durchfuehrung-von-ausgleichsmassnahmen-nach-dem": "32594",
   "https://recht.nrw.de/lrgv/rechtsverordnung/30062013-verordnung-zur-neuorganisation-der-oberfinanzdirektionen-nordrhein": "30843",
-  "https://recht.nrw.de/lrgv/rechtsverordnung/30062023-verordnung-ueber-die-ausbildung-und-die-ii-fachpruefung-fuer-den": "33522",
   "https://recht.nrw.de/lrgv/rechtsverordnung/30072016-verordnung-ueber-die-anerkennung-von-beruflichen": "31611",
   "https://recht.nrw.de/lrgv/rechtsverordnung/30072016-verordnung-zur-regelung-von-zustaendigkeiten-nach-dem": "31090",
   "https://recht.nrw.de/lrgv/rechtsverordnung/30072026-zivilgerichtliches-online-verfahren-teilnahmeverordnung-zovtnvo": "34616",
@@ -6004,6 +6013,7 @@
   "https://recht.nrw.de/lrgv/rechtsverordnung/30102024-verordnung-ueber-die-zustaendigkeit-fuer-die-verfolgung-und-ahndung": "34171",
   "https://recht.nrw.de/lrgv/rechtsverordnung/30102025-verordnung-ueber-zustaendigkeiten-nach-dem-eid-karte-gesetz": "32733",
   "https://recht.nrw.de/lrgv/rechtsverordnung/30102026-durchfuehrungsverordnung-zum-strafrechtsbezogenen": "34659",
+  "https://recht.nrw.de/lrgv/rechtsverordnung/30102026-zustaendigkeitsverordnung-umweltschutz": "31274",
   "https://recht.nrw.de/lrgv/rechtsverordnung/30112024-verordnung-ueber-die-erhebung-und-uebermittlung-von-daten-zum": "32420",
   "https://recht.nrw.de/lrgv/rechtsverordnung/30122023-verordnung-ueber-zustaendigkeiten-fuer-die-festlegungen-von": "30842",
   "https://recht.nrw.de/lrgv/rechtsverordnung/30122025-gifttier-datenuebermittlungsverordnung-nrw-gifttier-duevo-nrw": "33128",

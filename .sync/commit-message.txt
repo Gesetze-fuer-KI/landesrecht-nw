@@ -1,4 +1,13 @@
-Nordrhein-Westfalen Stand 2026-11-12: 0 geändert, 0 neu, 0 entfernt
+Nordrhein-Westfalen Stand 2026-11-13: 1 geändert, 5 neu, 3 entfernt
 
+- ZustVU: Fassung gültig ab 30.10.2026
+- neu: VorkursVO (Verordnung zur Ausführung des § 36 Absatz 9 des Schulgesetzes NRW)
+- neu: 34676 (Verordnung zur Förderung kommunaler Aufwendungen für die schulische Inklusion)
+- neu: FluLärmNörvV (Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Nörvenich)
+- neu: GebO-WissM NRW (Gebührenordnung für Amtshandlungen des für Wissenschaft zuständigen Ministeriums des Landes Nordrhein-Westfalen)
+- neu: VAPPol II Bachelor (Verordnung über die Ausbildung und die II. Fachprüfung für den Laufbahnabschnitt II der Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten des Landes Nordrhein-Westfalen)
+- entfernt: nw-30846
+- entfernt: nw-31455
+- entfernt: nw-33522
 
 Nicht abrufbar (6): nw-27028, nw-27789, nw-28965, nw-30850, nw-33132, nw-34234

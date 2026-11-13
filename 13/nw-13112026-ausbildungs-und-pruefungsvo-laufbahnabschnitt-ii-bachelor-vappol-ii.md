@@ -1,17 +1,18 @@
 ---
 land: NW
 abkuerzung: VAPPol II Bachelor
-titel: Verordnung über die Ausbildung und die II. Fachprüfung für den Laufbahnabschnitt II der Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten des Landes Nordrhein-Westfalen (Ausbildungs- und PrüfungsVO Laufbahnabschnitt II Bachelor - VAPPol II Bachelor)
-stand: Fassung gültig ab 30.06.2023
-gilt_ab: '2023-06-30'
-quelle: https://recht.nrw.de/lrgv/rechtsverordnung/30062023-verordnung-ueber-die-ausbildung-und-die-ii-fachpruefung-fuer-den
+titel: Verordnung über die Ausbildung und die II. Fachprüfung für den Laufbahnabschnitt II der Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten des Landes Nordrhein-Westfalen
+kurztitel: Ausbildungs- und PrüfungsVO Laufbahnabschnitt II Bachelor
+stand: Fassung gültig ab 13.11.2026
+gilt_ab: '2026-11-13'
+quelle: https://recht.nrw.de/lrgv/rechtsverordnung/13112026-ausbildungs-und-pruefungsvo-laufbahnabschnitt-ii-bachelor-vappol-ii
 ---
 
-# Verordnung über die Ausbildung und die II. Fachprüfung für den Laufbahnabschnitt II der Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten des Landes Nordrhein-Westfalen (Ausbildungs- und PrüfungsVO Laufbahnabschnitt II Bachelor - VAPPol II Bachelor) (VAPPol II Bachelor)
+# Verordnung über die Ausbildung und die II. Fachprüfung für den Laufbahnabschnitt II der Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten des Landes Nordrhein-Westfalen (VAPPol II Bachelor)
 
-Stand: Fassung gültig ab 30.06.2023
+Stand: Fassung gültig ab 13.11.2026
 
-Quelle: <https://recht.nrw.de/lrgv/rechtsverordnung/30062023-verordnung-ueber-die-ausbildung-und-die-ii-fachpruefung-fuer-den>
+Quelle: <https://recht.nrw.de/lrgv/rechtsverordnung/13112026-ausbildungs-und-pruefungsvo-laufbahnabschnitt-ii-bachelor-vappol-ii>
 
 Nichtamtliche Fassung des Landesportals.
 
@@ -22,89 +23,35 @@ Vom 12. Mai 2022
 
 Auf Grund des § 110 Absatz 2 in Verbindung mit § 7 Absatz 2 Satz 1 und 2 Nummer 5 bis 13 des Landesbeamtengesetzes vom 14. Juni 2016 (GV. NRW. S. 310, ber. S. 642) verordnet das Ministerium des Innern im Einvernehmen mit dem Ministerium der Finanzen:
 
-**Inhaltsübersicht**
-
-**Teil 1**  
-**Ziele der Ausbildung**
-
-§ 1 Ziele und Mindestinhalte der Ausbildung
-
-**Teil 2**  
-**Einstellung in und Zulassung zum Laufbahnabschnitt II**  
-**als Kommissaranwärterin oder Kommissaranwärter**
-
-§ 2 Bewerbung
-
-§ 3 Auswahlverfahren
-
-§ 4 Zulassung zur Ausbildung und Einstellung
-
-§ 5 Rechtsstellung
-
-**Teil 3**  
-**Ausbildung**
-
-§ 6 Gliederung der Ausbildung
-
-§ 7 Dauer der Ausbildung
-
-§ 8 Wiederholung von Studienleistungen und Beendigung des Vorbereitungsdienstes
-
-§ 9 Entlassung
-
-**Teil 4**  
-**Prüfungsangelegenheiten**
-
-§ 10 Bachelorprüfung
-
-§ 11 Abnahme von Studienleistungen und dienstlichen Bewertungen
-
-§ 12 Bewertung von Studienleistungen
-
-§ 13 Hochschulgrad, Laufbahnbefähigung
-
-**Teil 5**  
-**Datenverarbeitung**
-
-§ 14 Datenverarbeitung
-
-**Teil 6**  
-**Übergangs- und Schlussregelungen**
-
-§ 15 Ausbildung nach bisherigen Regelungen
-
-§ 16 Inkrafttreten, Außerkrafttreten
-
-**Teil 1**  
-**Ziele der Ausbildung**
+<!-- gliederung id="teil1" ebene="1" -->
+## Teil 1 Ziele der Ausbildung
 
 <!-- norm id="par1" -->
-## § 1 Ziele und Mindestinhalte der Ausbildung
+### § 1 Ziele und Mindestinhalte der Ausbildung
 
 (1) Ziele der Ausbildung sind der Erwerb des Hochschulgrads Bachelor durch die Studierenden sowie die Befähigung für den Laufbahnabschnitt II des Polizeivollzugsdienstes, indem grundlegendes Fachwissen, Methodenkompetenzen und Schlüsselqualifikationen zur Berufsfähigkeit vermittelt werden.
 
 (2) Die Ausbildung soll die Studierenden in den Stand versetzen, Aufgaben des Wachdienstes zu erfüllen und Grundkenntnisse der allgemeinen Kriminalitätssachbearbeitung, der Verkehrssicherheitsarbeit sowie des Einsatzes aus besonderem Anlass anzuwenden. Darüber hinaus soll die Ausbildung Grundlagen der Führung und Zusammenarbeit vermitteln.
 
-**Teil 2**  
-**Einstellung in und Zulassung zum Laufbahnabschnitt II**  
-**als Kommissaranwärterin oder Kommissaranwärter**
+<!-- gliederung id="teil2" ebene="1" -->
+## Teil 2 Einstellung in und Zulassung zum Laufbahnabschnitt II als Kommissaranwärterin oder Kommissaranwärter
 
 <!-- norm id="par2" -->
-## § 2 Bewerbung
+### § 2 Bewerbung
 
 (1) Bewerbungen für eine Einstellung in den Laufbahnabschnitt II sind elektronisch an das Landesamt für Ausbildung, Fortbildung und Personalangelegenheiten der Polizei, im Folgenden LAFP NRW, zu richten.
 
 (2) Eine Übersicht der einzureichenden Bewerbungsunterlagen wird von dem für Inneres zuständigen Ministerium festgelegt und im Internet veröffentlicht. Hieraus geht auch hervor, welche Unterlagen bereits innerhalb von zwei Wochen nach Absenden der Online-Bewerbung beim LAFP NRW einzureichen sind.
 
 <!-- norm id="par3" -->
-## § 3 Auswahlverfahren
+### § 3 Auswahlverfahren
 
 (1) Der Entscheidung über die Einstellung geht ein Auswahlverfahren voraus.
 
 (2) Das Auswahlverfahren wird beim LAFP NRW durchgeführt. Ziel ist, eine Aussage über die Eignung der sich bewerbenden Personen für den Polizeivollzugsdienst im Laufbahnabschnitt II abzugeben. Die Auswahlmethode bestimmt das für Inneres zuständige Ministerium unter Berücksichtigung der in Wissenschaft und Praxis sich fortentwickelnden Erkenntnisse über Personalauswahlverfahren. Die Auswahlmethode muss für denselben Einstellungstermin gleich bleiben.
 
 <!-- norm id="par4" -->
-## § 4 Zulassung zur Ausbildung und Einstellung
+### § 4 Zulassung zur Ausbildung und Einstellung
 
 (1) Nach Abschluss des Auswahlverfahrens wird vom LAFP NRW für jede sich bewerbende Person ein Rangordnungswert ermittelt.
 
@@ -113,24 +60,28 @@ Auf Grund des § 110 Absatz 2 in Verbindung mit § 7 Absatz 2 Satz 1 und 2 Numme
 (3) Das LAFP NRW weist die zur Ausbildung zugelassenen Personen zum 1. September den Einstellungs- und Ausbildungsbehörden unter Berücksichtigung der durch die Hochschule für Polizei und öffentliche Verwaltung Nordrhein-Westfalen, im Folgenden Hochschule, mitgeteilten Plätze für Studierende je Abteilung beziehungsweise Standort zu. Die Berechnungsgrundlage und die Verteilung sind mit dem für Inneres zuständigen Ministerium abzustimmen.
 
 <!-- norm id="par5" -->
-## § 5 Rechtsstellung
+### § 5 Rechtsstellung
 
 Die zur Ausbildung zugelassenen Personen werden bei den Einstellungs- und Ausbildungsbehörden unter Berufung in das Beamtenverhältnis auf Widerruf zu Kommissaranwärterinnen und Kommissaranwärtern ernannt.
 
-**Teil 3**  
-**Ausbildung**
+<!-- gliederung id="teil3" ebene="1" -->
+## Teil 3 Ausbildung
 
 <!-- norm id="par6" -->
-## § 6 Gliederung der Ausbildung
+### § 6 Gliederung der Ausbildung
 
 (1) Die Ausbildung erfolgt im Rahmen eines dualen Bachelorstudiums. Sie gliedert sich in die fachwissenschaftliche Studienzeit an der Hochschule sowie die fachpraktischen Studienzeiten in Form von Trainings beim LAFP NRW und in Form von Praktika bei den Kreispolizeibehörden.
 
-(2) Die Ausbildungsinhalte werden in als Modulen bezeichneten abgeschlossenen Studien- oder Lerneinheiten vermittelt, welche mit einer Modulprüfung oder anderen Studienleistung abgeschlossen werden. Studienleistungen können auch aus mehreren Teilstudienleistungen bestehen. Die Gewichtung wird in der Studienordnung festgelegt. Jede Studienleistung wird mit einer Punktzahl und Note nach § 12 oder mit „bestanden“ beziehungsweise „nicht bestanden“ bewertet. Bei Modulen der fachpraktischen Studienzeiten kann anstelle einer oder neben eine Studienleistung eine dienstliche Bewertung treten, die mit einer dem Bachelor-Bewertungssystem nach § 12 entsprechenden Punktzahl und Note oder mit „bestanden“ beziehungsweise „nicht bestanden“ bewertet werden kann. Die Grundsätze zur dienstlichen Bewertung regelt die Studienordnung.
+(2) Die Ausbildungsinhalte werden in als Modulen bezeichneten abgeschlossenen Studien- oder Lerneinheiten vermittelt, welche mit einer Modulprüfung oder anderen Studienleistung abgeschlossen werden. Studienleistungen können auch aus mehreren Teilstudienleistungen bestehen. Die Gewichtung wird in der Studienordnung festgelegt. Jede Studienleistung wird mit einer Punktzahl und Note nach § 12 oder mit „bestanden“ beziehungsweise „nicht bestanden“ bewertet. Bei Modulen der fachpraktischen Studienzeiten kann anstelle oder neben einer Studienleistung eine dienstliche Bewertung erfolgen, die mit einer dem Bachelor-Bewertungssystem nach § 12 entsprechenden Punktzahl und Note oder mit „bestanden“ beziehungsweise „nicht bestanden“ bewertet werden kann. Die Grundsätze zur dienstlichen Bewertung regelt die Studienordnung.
 
 (3) Die fachwissenschaftliche Studienzeit wird grundsätzlich als Präsenzstudium mit Selbststudienanteilen durchgeführt. Für die fachwissenschaftliche Studienzeit weisen die Einstellungs- und Ausbildungsbehörden die Studierenden der Hochschule zu. Für die fachpraktischen Studienzeiten weisen die Einstellungs- und Ausbildungsbehörden die Studierenden dem LAFP NRW und den Kreispolizeibehörden zu, sofern die fachpraktischen Studienzeiten nicht bei den Einstellungs- und Ausbildungsbehörden durchgeführt werden.
 
+> **Fußnote**
+>
+> GV. NRW. 2026 S. 804: Absatz 2 geändert durch Artikel 1 der Verordnung vom 19. Oktober 2026, in Kraft getreten am 13. November 2026.
+
 <!-- norm id="par7" -->
-## § 7 Dauer der Ausbildung
+### § 7 Dauer der Ausbildung
 
 (1) Die Ausbildung dauert in der Regel drei Jahre, sie ist auf höchstens fünf Jahre begrenzt. Die Ausbildung endet mit dem Bestehen der Bachelorprüfung, die zugleich II. Fachprüfung ist.
 
@@ -140,10 +91,14 @@ Die zur Ausbildung zugelassenen Personen werden bei den Einstellungs- und Ausbil
 
 (4) In Fällen, in denen die Einhaltung der Höchstausbildungszeit nach Absatz 1 Satz 1 eine unzumutbare Härte für die Studierenden darstellen würde und die dazu führenden Umstände von ihnen nicht zu vertreten sind, kann das für Inneres zuständige Ministerium im Einzelfall eine Ausnahme hiervon zulassen.
 
-(5) Gemäß § 16 Absatz 1 der Laufbahnverordnung der Polizei vom 4. Juni 2021 (GV. NRW. S. 684) in der jeweils geltenden Fassung kann der Vorbereitungsdienst um bis zu zwölf Monate verkürzt werden, wenn Studienzeiten, Studien- und Prüfungsleistungen sowie außerhochschulisch erworbene Kompetenzen und Fähigkeiten nach Art und Umfang geeignet sind, die Ausbildung in den einzelnen Ausbildungsabschnitten ganz oder teilweise zu ersetzen. Ein entsprechender Antrag ist bei dem für Inneres zuständigen Ministerium zu stellen. Dem Antrag ist ein Votum der Hochschule beizufügen.
+(5) Gemäß § 14 Absatz 1 der Laufbahnverordnung der Polizei vom 4. Juni 2021 (GV. NRW. S. 684) in der jeweils geltenden Fassung kann der Vorbereitungsdienst um bis zu zwölf Monate verkürzt werden, wenn Studienzeiten, Studien- und Prüfungsleistungen sowie außerhochschulisch erworbene Kompetenzen und Fähigkeiten nach Art und Umfang geeignet sind, die Ausbildung in den einzelnen Ausbildungsabschnitten ganz oder teilweise zu ersetzen. Ein entsprechender Antrag ist bei dem für Inneres zuständigen Ministerium zu stellen. Dem Antrag ist ein Votum der Hochschule beizufügen.
+
+> **Fußnote**
+>
+> GV. NRW. 2026 S. 804: Absatz 1 geändert durch Artikel 1 der Verordnung vom 19. Oktober 2026, in Kraft getreten am 13. November 2026.
 
 <!-- norm id="par8" -->
-## § 8 Wiederholung von Studienleistungen und Beendigung des Vorbereitungsdienstes
+### § 8 Wiederholung von Studienleistungen und Beendigung des Vorbereitungsdienstes
 
 (1) Eine nicht bestandene Studienleistung kann grundsätzlich wiederholt werden. Dies gilt auch, wenn eine dienstliche Bewertung anstelle einer oder neben eine Studienleistung tritt. Die Studienordnung hat die Anzahl und die Voraussetzungen für die Wiederholung von Studienleistungen zu regeln. In der Studienordnung kann auch geregelt werden, dass eine dienstliche Bewertung durch eine Studienleistung zu wiederholen ist.
 
@@ -153,10 +108,10 @@ Die zur Ausbildung zugelassenen Personen werden bei den Einstellungs- und Ausbil
 
 > **Fußnote**
 >
-> § 8 Absatz 2 und 3 geändert durch Verordnung vom 5. Mai 2023 (GV. NRW. S. 386), in Kraft getreten am 30. Juni 2023.
+> Absatz 2 und 3 geändert durch Verordnung vom 5. Mai 2023 (GV. NRW. S. 386), in Kraft getreten am 30. Juni 2023.
 
 <!-- norm id="par9" -->
-## § 9 Entlassung
+### § 9 Entlassung
 
 Beamtinnen und Beamte auf Widerruf sind zu entlassen, wenn ein wichtiger Grund vorliegt. Ein wichtiger Grund liegt insbesondere vor, wenn die
 
@@ -164,11 +119,11 @@ Beamtinnen und Beamte auf Widerruf sind zu entlassen, wenn ein wichtiger Grund v
 
 2\. Beendigung des Studiums innerhalb der Höchstausbildungszeit gemäß § 7 Absatz 1 Satz 1 für sie nicht mehr möglich ist.
 
-**Teil 4**  
-**Prüfungsangelegenheiten**
+<!-- gliederung id="teil4" ebene="1" -->
+## Teil 4 Prüfungsangelegenheiten
 
 <!-- norm id="par10" -->
-## § 10 Bachelorprüfung
+### § 10 Bachelorprüfung
 
 (1) Die Bachelorprüfung besteht aus:
 
@@ -186,8 +141,41 @@ Beamtinnen und Beamte auf Widerruf sind zu entlassen, wenn ein wichtiger Grund v
 
 2\. Bachelorarbeit einschließlich Kolloquium mit 20 Prozent.
 
+<!-- norm id="par10a" -->
+### § 10a Prüfungsformen
+
+(1) Prüfungen können in den folgenden Prüfungsformen abgelegt werden:
+
+1\. schriftlicher Leistungsnachweis (Klausur),
+
+2\. computergestützter Leistungsnachweis an einem Standort der Hochschule (Elektronische Klausur),
+
+3\. Fachgespräch,
+
+4\. Hausarbeit,
+
+5\. Referat mit mündlichem Vortrag,
+
+6\. Seminarleistung,
+
+7\. Leistungen der Module in der fachpraktischen Studienzeit,
+
+8\. Projektleistung,
+
+9\. Portfolioprüfung oder
+
+10\. wissenschaftliche Ausarbeitung
+
+(2) Klausuren können unter Verwendung elektronischer Kommunikationseinrichtungen auch ortsunabhängig (Online-Klausur) erbracht werden. In diesem Fall und bei Elektronischen Klausuren kann eine elektronische Bewertung erfolgen. Es ist sicherzustellen, dass die elektronischen Daten eindeutig identifiziert und zweifelsfrei der zu prüfenden Person zugeordnet werden können. Nach Abschluss der Elektronischen Klausur oder der Online-Klausur muss die Unveränderbarkeit und Sicherheit der Daten gewährleistet sein.
+
+(3) Fachgespräche, Referate, Präsentationen und Projektleistungen können online als Videoprüfung über eine von der Hochschule bereitgestellte Kommunikationssoftware durchgeführt werden.
+
+> **Fußnote**
+>
+> GV. NRW. 2026 S. 804: Eingefügt durch Artikel 1 der Verordnung vom 19. Oktober 2026, in Kraft getreten am 13. November 2026.
+
 <!-- norm id="par11" -->
-## § 11 Abnahme von Studienleistungen und dienstlichen Bewertungen
+### § 11 Abnahme von Studienleistungen und dienstlichen Bewertungen
 
 (1) Für die Abnahme von Studienleistungen und dienstlichen Bewertungen können bestellt werden:
 
@@ -200,7 +188,7 @@ Beamtinnen und Beamte auf Widerruf sind zu entlassen, wenn ein wichtiger Grund v
 (2) Als Gutachterinnen und Gutachter für die Bachelorarbeit einschließlich des Kolloquiums sind Personen gemäß Absatz 1 Nummer 1 und 2 zu bestellen.
 
 <!-- norm id="par12" -->
-## § 12 Bewertung von Studienleistungen
+### § 12 Bewertung von Studienleistungen
 
 Studienleistungen, die nicht mit „bestanden“ oder „nicht bestanden“ bewertet werden, sind mit einer der folgenden Punktzahlen und der sich daraus ergebenden Note zu bewerten:
 
@@ -263,7 +251,7 @@ Mängel in absehbarer Zeit
 nicht behoben werden könnten
 
 <!-- norm id="par13" -->
-## § 13 Hochschulgrad, Laufbahnbefähigung
+### § 13 Hochschulgrad, Laufbahnbefähigung
 
 (1) Mit Bestehen der Hochschulprüfung verleiht die Hochschule den Hochschulgrad „Bachelor of Arts“.
 
@@ -271,11 +259,11 @@ nicht behoben werden könnten
 
 (3) Prüfungsakten sind mindestens vier Jahre aufzubewahren.
 
-**Teil 5**  
-**Datenverarbeitung**
+<!-- gliederung id="teil5" ebene="1" -->
+## Teil 5 Datenverarbeitung
 
 <!-- norm id="par14" -->
-## § 14 Datenverarbeitung
+### § 14 Datenverarbeitung
 
 (1) Die Hochschule kann für Zwecke der Verwaltung und des ordnungsgemäßen Studiums Stammdatensätze der Studierenden verarbeiten. Ein Stammdatensatz besteht aus Matrikelnummer, Name, Vorname, Geburtsdatum, Geschlecht, Merkmal der Anonymisierung beziehungsweise Pseudonymisierung, Telefonnummer, Anschrift, E-Mail, Angabe der Einstellungs- und Ausbildungsbehörde, Prüfungsergebnissen, Abschlusszeugnissen sowie Angaben zum schulischen und beruflichen Werdegang. Die Hochschule darf die Stammdatensätze dem LAFP NRW sowie der jeweiligen Einstellungs- und Ausbildungsbehörde zur Verfügung stellen.
 
@@ -285,26 +273,20 @@ nicht behoben werden könnten
 
 (4) Die nach den Absätzen 1 bis 3 verarbeiteten Daten sind vier Jahre nach Beendigung des Studiums zu löschen.
 
-**Teil 6**  
-**Übergangs- und Schlussregelungen**
+<!-- gliederung id="teil6" ebene="1" -->
+## Teil 6 Übergangs- und Schlussregelungen
 
 <!-- norm id="par15" -->
-## § 15 Ausbildung nach bisherigen Regelungen
-
-(1) Für die vor dem Jahr 2016 eingestellten Kommissaranwärterinnen und Kommissaranwärter finden die §§ 8 und 9 keine Anwendung. In diesen Fällen findet die Ausbildungs- und Prüfungsverordnung Laufbahnabschnitt II Bachelor vom 21. August 2008 (GV. NRW. S. 554) in der bis zum [Einsetzen: Datum der Verkündung dieser Verordnung] geltenden Fassung Anwendung.
-
-(2) Für Studierende, die ihre Ausbildung vor dem 1. September 2016 aufgenommen haben und diese
-
-1\. aus den in § 7 Absatz 2 genannten Gründen unterbrechen oder
-
-2\. wegen nicht ausreichender Studienleistung mit dem nachfolgenden Einstellungsjahrgang fortsetzen,
-
-richtet sich die Ausbildung und Prüfung nach den Vorschriften dieser Verordnung, sofern eine Ausbildung und Prüfung nach Absatz 1 nicht mehr möglich ist.
-
-<!-- norm id="par16" -->
-## § 16 Inkrafttreten, Außerkrafttreten
+### § 15 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft. Gleichzeitig tritt die Ausbildungs- und Prüfungsverordnung Laufbahnabschnitt II Bachelor vom 21. August 2008 (GV. NRW. S. 554), die zuletzt durch Verordnung vom 18. Februar 2021 (GV. NRW. S. 206) geändert worden ist, außer Kraft.
+
+> **Fußnote**
+>
+> GV. NRW. 2026 S. 804: § 15 (alt) gestrichen und § 16 (alt) umbenannt in § 15 durch Artikel 1 der Verordnung vom 19. Oktober 2026, in Kraft getreten am 13. November 2026.
+
+<!-- norm id="schlussformel" -->
+### Schlussformel
 
 Der Minister des Innern  
 des Landes Nordrhein-Westfalen

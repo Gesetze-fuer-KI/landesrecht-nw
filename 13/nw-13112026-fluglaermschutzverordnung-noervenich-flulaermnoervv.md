@@ -1,30 +1,31 @@
 ---
 land: NW
-abkuerzung: '30846'
-titel: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Nörvenich (Fluglärmschutzverordnung Nörvenich - FluLärmNörvV)
-stand: Fassung gültig ab 28.06.2013
-gilt_ab: '2013-06-28'
-quelle: https://recht.nrw.de/lrgv/rechtsverordnung/28062013-verordnung-ueber-die-festsetzung-des-laermschutzbereichs-fuer-den
+abkuerzung: FluLärmNörvV
+titel: Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Nörvenich
+kurztitel: Fluglärmschutzverordnung Nörvenich
+stand: Fassung gültig ab 13.11.2026
+gilt_ab: '2026-11-13'
+quelle: https://recht.nrw.de/lrgv/rechtsverordnung/13112026-fluglaermschutzverordnung-noervenich-flulaermnoervv
 ---
 
-# Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Nörvenich (Fluglärmschutzverordnung Nörvenich - FluLärmNörvV) (30846)
+# Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Nörvenich (FluLärmNörvV)
 
-Stand: Fassung gültig ab 28.06.2013
+Stand: Fassung gültig ab 13.11.2026
 
-Quelle: <https://recht.nrw.de/lrgv/rechtsverordnung/28062013-verordnung-ueber-die-festsetzung-des-laermschutzbereichs-fuer-den>
+Quelle: <https://recht.nrw.de/lrgv/rechtsverordnung/13112026-fluglaermschutzverordnung-noervenich-flulaermnoervv>
 
 Nichtamtliche Fassung des Landesportals.
 
 <!-- norm id="eingangsformel" -->
 ## Eingangsformel
 
-**Verordnung**  
-**über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Nörvenich**  
-**(Fluglärmschutzverordnung Nörvenich - FluLärmNörvV)**
-
 Vom 11. Juni 2013
 
 Auf Grund des § 4 Absatz 2 des Gesetzes zum Schutz gegen Fluglärm in der Fassung der Bekanntmachung vom 31. Oktober 2007 (BGBl. I S. 2550) verordnet die Landesregierung mit Zustimmung des für die kommunale Selbstverwaltung zuständigen Ausschusses des Landtags:
+
+> **Fußnote**
+>
+> GV. NRW. 2026 S. 810: Anlagen 1 und 2 ersetzt durch Artikel 1 der Verordnung vom 3. November 2026, in Kraft getreten am 13. November 2026.
 
 <!-- norm id="par1" -->
 ## § 1
@@ -55,9 +56,14 @@ Die Blätter der Deutschen Grundkarte sind bei der Bezirksregierung Köln, Zeugh
 <!-- norm id="par5" -->
 ## § 5
 
-(1) Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
+Diese Verordnung tritt am Tag nach ihrer Verkündung in Kraft.
 
-(2) Das für Immissionsschutz zuständige Ministerium berichtet der Landesregierung bis zum 31. Dezember 2023 über die Notwendigkeit des Fortbestehens dieser Verordnung.
+> **Fußnote**
+>
+> GV. NRW. 2026 S. 810: Absatz 1 (alt) wird zum Wortlaut und Absatz 2 gestrichen durch Artikel 1 der Verordnung vom 3. November 2026, in Kraft getreten am 13. November 2026.
+
+<!-- norm id="schlussformel" -->
+## Schlussformel
 
 Die Landesregierung  
 Nordrhein-Westfalen
@@ -71,9 +77,9 @@ Natur- und Verbraucherschutz
 <!-- norm id="anlage1" -->
 ## Anlage 1
 
-Nur als PDF veröffentlicht: <https://recht.nrw.de/system/files/BA/23984-21081-sgv_96_20130611_1_anlage1.pdf>
+Nur als PDF veröffentlicht: <https://recht.nrw.de/system/files/2026-11/2026-11-0003368.pdf>
 
 <!-- norm id="anlage2" -->
 ## Anlage 2
 
-Nur als PDF veröffentlicht: <https://recht.nrw.de/system/files/BA/23984-21082-sgv_96_20130611_1_anlage2.pdf>
+Nur als PDF veröffentlicht: <https://recht.nrw.de/system/files/2026-11/2026-11-0003367.pdf>
