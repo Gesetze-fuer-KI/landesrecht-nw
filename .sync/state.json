@@ -23,6 +23,14 @@
    "lastmod": "2026-11-13",
    "next_version_from": null
   },
+  "nw-25112026-buergerenergiefonds-aufgabenuebertragungsverordnung": {
+   "lastmod": "2026-11-25",
+   "next_version_from": null
+  },
+  "nw-25112026-verordnung-zur-erprobung-digitaler-formen-der-aufgabenerledigung-der": {
+   "lastmod": "2026-11-25",
+   "next_version_from": null
+  },
   "nw-26470": {
    "lastmod": "2014-02-27",
    "next_version_from": null
@@ -4075,10 +4083,6 @@
    "lastmod": "2023-12-30",
    "next_version_from": null
   },
-  "nw-33517": {
-   "lastmod": "2026-01-01",
-   "next_version_from": null
-  },
   "nw-33518": {
    "lastmod": "2026-10-22",
    "next_version_from": null
@@ -4635,10 +4639,6 @@
    "lastmod": "2025-07-18",
    "next_version_from": null
   },
-  "nw-34423": {
-   "lastmod": "2025-07-31",
-   "next_version_from": null
-  },
   "nw-34430": {
    "lastmod": "2025-08-23",
    "next_version_from": null
@@ -4825,6 +4825,10 @@
   },
   "nw-34677": {
    "lastmod": "2026-11-13",
+   "next_version_from": null
+  },
+  "nw-34679": {
+   "lastmod": "2026-11-25",
    "next_version_from": null
   }
  },
@@ -5428,7 +5432,6 @@
   "https://recht.nrw.de/lrgv/rechtsverordnung/01012026-verordnung-ueber-die-zusammenfassung-der-zweitinstanzlichen": "29489",
   "https://recht.nrw.de/lrgv/rechtsverordnung/01012026-verordnung-ueber-die-zustaendigkeiten-im-humanarzneimittel": "33422",
   "https://recht.nrw.de/lrgv/rechtsverordnung/01012026-verordnung-ueber-kommunale-unternehmen-und-einrichtungen-als-anstalt": "28156",
-  "https://recht.nrw.de/lrgv/rechtsverordnung/01012026-verordnung-zur-erprobung-digitaler-formen-der-aufgabenerledigung-der": "33517",
   "https://recht.nrw.de/lrgv/rechtsverordnung/01012026-zustaendigkeitsverordnung-heilberufe-zustvo-hb": "29626",
   "https://recht.nrw.de/lrgv/rechtsverordnung/01012026-zustaendigkeitsverordnung-vergabekammern-nrw-vk-zustv-nrw": "31194",
   "https://recht.nrw.de/lrgv/rechtsverordnung/01022022-fortbildungspruefungsregelung-fuer-die-durchfuehrung-von": "33435",
@@ -5910,6 +5913,9 @@
   "https://recht.nrw.de/lrgv/rechtsverordnung/25092026-verordnung-ueber-die-ausbildung-und-pruefung-zur-staatlich": "29077",
   "https://recht.nrw.de/lrgv/rechtsverordnung/25112016-verordnung-ueber-den-nationalpark-eifel-np-vo-eifel": "28360",
   "https://recht.nrw.de/lrgv/rechtsverordnung/25112016-verordnung-ueber-die-fuehrung-eines-oekokontos-nach-ss-32-des": "29583",
+  "https://recht.nrw.de/lrgv/rechtsverordnung/25112026-buergerenergiefonds-aufgabenuebertragungsverordnung": "25112026-buergerenergiefonds-aufgabenuebertragungsverordnung",
+  "https://recht.nrw.de/lrgv/rechtsverordnung/25112026-verordnung-zur-erprobung-digitaler-formen-der-aufgabenerledigung-der": "25112026-verordnung-zur-erprobung-digitaler-formen-der-aufgabenerledigung-der",
+  "https://recht.nrw.de/lrgv/rechtsverordnung/25112026-zustaendigkeitsverordnung-kraftstoffpreisanpassungsgesetz-zustvo": "34679",
   "https://recht.nrw.de/lrgv/rechtsverordnung/26012016-verordnung-zur-uebertragung-der-befugnis-zum-erlass-von": "31466",
   "https://recht.nrw.de/lrgv/rechtsverordnung/26022025-verordnung-zur-uebertragung-von-aufgaben-im-rahmen-der-programme": "34321",
   "https://recht.nrw.de/lrgv/rechtsverordnung/26022025-verordnung-zur-uebertragung-von-aufgaben-im-rahmen-des-programms": "34318",
@@ -6030,7 +6036,6 @@
   "https://recht.nrw.de/lrgv/rechtsverordnung/31052007-verordnung-ueber-die-qualitaetsanalyse-schulen-nordrhein-westfalen": "29315",
   "https://recht.nrw.de/lrgv/rechtsverordnung/31052022-verordnung-zur-weiteren-verlaengerung-der-zulaessigen": "33521",
   "https://recht.nrw.de/lrgv/rechtsverordnung/31072025-verordnung-ueber-die-kapazitaetsermittlung-die-curricularnormwerte": "27631",
-  "https://recht.nrw.de/lrgv/rechtsverordnung/31072025-verordnung-zur-uebertragung-von-aufgaben-im-rahmen-des": "34423",
   "https://recht.nrw.de/lrgv/rechtsverordnung/31082024-verordnung-ueber-die-ausbildung-und-pruefung-der-justizfachwirtinnen": "32448",
   "https://recht.nrw.de/lrgv/rechtsverordnung/31082024-verordnung-zur-sicherstellung-der-hausaerztlichen-versorgung": "32361",
   "https://recht.nrw.de/lrgv/rechtsverordnung/31102012-verordnung-ueber-einigungsstellen-zur-beilegung-von-buergerlichen": "26671",
