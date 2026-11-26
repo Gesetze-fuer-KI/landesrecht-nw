@@ -1,9 +1,4 @@
-Nordrhein-Westfalen Stand 2026-11-25: 0 geändert, 3 neu, 2 entfernt
+Nordrhein-Westfalen Stand 2026-11-26: 0 geändert, 0 neu, 0 entfernt
 
-- neu: ZustVO KPAnG (Verordnung zur Regelung von Zuständigkeiten nach dem Kraftstoffpreisanpassungsgesetz)
-- neu: 25112026-verordnung-zur-erprobung-digitaler-formen-der-aufgabenerledigung-der (Verordnung zur Erprobung digitaler Formen der Aufgabenerledigung in der Verwaltung und zur Fortentwicklung des E-Governments im Zuständigkeitsbereich des Ministeriums für Wirtschaft, Innovation, Digitalisierung und Energie)
-- neu: Bürgerenergiefonds-AÜVO (Verordnung zur Übertragung von Aufgaben im Rahmen des Bürgerenergiefonds NRW auf die NRW.BANK)
-- entfernt: nw-33517
-- entfernt: nw-34423
 
 Nicht abrufbar (6): nw-27028, nw-27789, nw-28965, nw-30850, nw-33132, nw-34234
